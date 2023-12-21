@@ -2,12 +2,22 @@
 
 *Food for Sri Lanka* is a broader effort with the goal of making sure that *All Sri Lankans eat a balanced diet of real food*.
 
-This repository contains various tools to help with this effort. 
+This repository contains various tools to help with this effort.
 
 ## TODOs
 
 * [X] Scrape information about food
 * [ ] Download food images
-* [ ] Add ingredients information 
+* [ ] Add ingredients information
 * [ ] Add nutrient information
+* [ ] Add Novo Classification
+* [ ] Automatically derive badges according to various characteristics
 * [ ] Add links to online and offline sources that sell this food
+
+## References
+
+### Novo Classification 🇧🇷
+
+The Nova classification (Portuguese: nova classificação, 'new classification') is a framework for grouping edible substances based on the extent and purpose of food processing applied to them. Researchers at the University of São Paulo, Brazil 🇧🇷, proposed the system in 2009.
+
+[Learn more...](https://en.wikipedia.org/wiki/Nova_classification)
