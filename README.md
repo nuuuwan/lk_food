@@ -6,7 +6,8 @@ This repository contains various tools to help with this effort.
 
 ## TODOs
 
-* [ ] Scrape information about food
+* [X] Scrape information about food
+* [ ] Download food images
 * [ ] Add ingredients information 
 * [ ] Add nutrient information
 * [ ] Add links to online and offline sources that sell this food
