@@ -4,6 +4,8 @@ from functools import cached_property
 
 from utils import TIME_FORMAT_TIME, JSONFile, Log, Time
 
+from utils_future import parse_float
+
 log = Log('Food')
 
 
@@ -42,6 +44,24 @@ class Food:
             price_of_unit=self.price_of_unit,
         )
 
+    def from_dict(d: dict) -> 'Food':
+        return Food(
+            ut_updated=int(d['ut_updated']),
+            store_id=d['store_id'],
+            sku_code=d['sku_code'],
+            category_code=d['category_code'],
+            name=d['name'],
+            short_description=d['short_description'],
+            description=d['description'],
+            unit_of_measure=d['unit_of_measure'],
+            unit_size=parse_float(d['unit_size']),
+            price_of_unit=parse_float(d['price_of_unit']),
+        )
+
+    def from_file(path: str) -> 'Food':
+        d = JSONFile(path).read()
+        return Food.from_dict(d)
+
     def __str__(self) -> str:
         return f'Food({self.sku_code} - {self.name})'
 
@@ -55,3 +75,14 @@ class Food:
 
     def write(self):
         JSONFile(self.data_path).write(self.to_dict())
+
+    @staticmethod
+    def list_all() -> list['Food']:
+        food_list = []
+        for file_only in os.listdir(Food.DIR_DATA_FOOD):
+            if not file_only.endswith('.json'):
+                continue
+            file_path = os.path.join(Food.DIR_DATA_FOOD, file_only)
+            food = Food.from_file(file_path)
+            food_list.append(food)
+        return food_list

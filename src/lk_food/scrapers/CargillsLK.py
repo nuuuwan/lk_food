@@ -5,16 +5,9 @@ from utils import Log, Time
 
 from lk_food.core.Food import Food
 from lk_food.scrapers.Store import Store
+from utils_future import parse_float
 
 log = Log('CargillsLK')
-
-
-def parse_float(s) -> float:
-    try:
-        s = str(s)
-        return float(s.replace(',', ''))
-    except ValueError:
-        return None
 
 
 class CargillsLK(Store):

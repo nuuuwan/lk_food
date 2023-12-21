@@ -1,10 +1,12 @@
-from lk_food.scrapers.StoreFactory import StoreFactory
+from lk_food.scrapers.ReadMe import ReadMe
 
 
 def main():
-    for store_class in StoreFactory.list_all():
-        store = store_class()
-        store.scrape()
+    # for store_class in StoreFactory.list_all():
+    #     store = store_class()
+    #     store.scrape()
+
+    ReadMe().write()
 
 
 if __name__ == '__main__':

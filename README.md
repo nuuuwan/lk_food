@@ -14,6 +14,11 @@ This repository contains various tools to help with this effort.
 * [ ] Automatically derive badges according to various characteristics
 * [ ] Add links to online and offline sources that sell this food
 
+## Food Data
+
+> [!IMPORTANT]
+> Scraped 3,923 items as of 2023-12-21 12:15:33.
+
 ## References
 
 ### Novo Classification 🇧🇷
