@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "MTE0194",
   "category_code": "CT",
@@ -9,5 +9,5 @@
   "description": "Please note that this item will be ready for delivery after two days from order placement due to the special preparation process. Therefore, we kindly request you to select your delivery date accordingly. Thank you!\r\n\r\nMinimum delivery weight 1.2kg",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "price_of_unit": 6240.0
+  "price_of_unit": null
 }

@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "CS30222",
   "category_code": "FC",
@@ -9,5 +9,5 @@
   "description": "Kist seeni sambol is a sweet and spicy onion sambol made with lots of onions. A jar of kist seeni sambol to spice up your meals and flavour everything from crackers to simple bread.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 325.0,
-  "price_of_unit": 1400.0
+  "price_of_unit": null
 }

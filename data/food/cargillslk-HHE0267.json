@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "HHE0267",
   "category_code": "HH",
@@ -9,5 +9,5 @@
   "description": "Effectively cleans and kills 99.9% of germs and viruses, with 70% alcohol content. Suitable for use on tables, doorknobs, toilets & sinks. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 500.0,
-  "price_of_unit": 1845.0
+  "price_of_unit": null
 }

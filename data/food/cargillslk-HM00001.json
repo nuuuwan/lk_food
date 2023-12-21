@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "HM00001",
   "category_code": "HM",
@@ -9,5 +9,5 @@
   "description": "Christmas Cake 250g x 1, Kelloggs Corn Flakes 100g x 1, Dilmah Premium Tea Bags 50g x 1, Bon Aroma Coffee Sachet 12g x1, Kist Quick Orange Concentrate 330ml x 1, Goldi Chicken Meatball Curry 280g x 1, Kist Kizz Sparkling Apple Drink 215ml x 1, Motha Strawberry Flavoured Jelly 100g x 1, Kist Tomato Sauce 200g x 1, Kraft Cheddar Cheese Tin 100g x 1, Kist Strawberry Flavoured Melon Jam 300g x 1, Maliban Smart Cream Cracker 125g x 1, Kist Magic Fingers 100g x 1, Scan Jumbo Peanuts Salted 35g x 1",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "price_of_unit": 6900.0
+  "price_of_unit": null
 }

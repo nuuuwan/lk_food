@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "DN46004",
   "category_code": "HB",
@@ -9,5 +9,5 @@
   "description": "Protinex is a vegetable based high protein supplement. Protein available in \u201cProtinex\u201d comes in pre-digested form that has better absorption capacity. This is the ideal source of protein for vegans (individuals who do not consume any animal based food) and vegetarians. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 180.0,
-  "price_of_unit": 1957.0
+  "price_of_unit": null
 }

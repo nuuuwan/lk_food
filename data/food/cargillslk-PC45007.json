@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "PC45007",
   "category_code": "HB",
@@ -9,5 +9,5 @@
   "description": "Provides advanced 5-blade technology that helps reduce pressure per blade for a comfortable shave\u2014even on sensitive skin. Product features: Flexible Comfort Guard gently sets up the beard to help you get a close and comfortable shave. Precision Trimmer handles tricky areas, such as sideburns and under the nose. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "price_of_unit": 3025.0
+  "price_of_unit": null
 }

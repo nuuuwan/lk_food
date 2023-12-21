@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "MTE0009",
   "category_code": "CT",
@@ -9,5 +9,5 @@
   "description": "Sausage Meat Stuffing is the perfect side dish to any roast dinner.* Images are illustration purpose only. Products received may vary.",
   "unit_of_measure": "g",
   "unit_size": 500.0,
-  "price_of_unit": 1700.0
+  "price_of_unit": null
 }

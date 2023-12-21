@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "BKE0048",
   "category_code": "CT",
@@ -9,5 +9,5 @@
   "description": "10 Pieces of individually wrapped Christmas Cake Pieces. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 10.0,
-  "price_of_unit": 5000.0
+  "price_of_unit": null
 }

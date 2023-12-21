@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "BPE0202",
   "category_code": "BP",
@@ -9,5 +9,5 @@
   "description": "Chocolate flavoured Sustagen junior is a high quality nutritious milk scientifically formulated by Mead Johnson for children aged 6 years old and above. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 400.0,
-  "price_of_unit": 2750.0
+  "price_of_unit": null
 }

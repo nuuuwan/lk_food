@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "PC41034",
   "category_code": "HB",
@@ -9,5 +9,5 @@
   "description": "Enjoy an exceptional razor performance with the BIC Flex 5 Men's Disposable Razor. Featuring five flexible blades that individually adjust to the contours of your skin. This razor delivers an ultra-close shave.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 2.0,
-  "price_of_unit": 1600.0
+  "price_of_unit": null
 }

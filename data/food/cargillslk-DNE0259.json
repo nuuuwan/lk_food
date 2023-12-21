@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "DNE0259",
   "category_code": "HB",
@@ -9,5 +9,5 @@
   "description": "Vitamin A, vitamin d and omega 3 fatty acids are essential for a healthy immune system. Vitamin A helps to maintain growth, vision and tissue development. Vitamin D is essential for healthy bones, teeth, and muscles. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 120.0,
-  "price_of_unit": 3863.0
+  "price_of_unit": null
 }

@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "BV40506",
   "category_code": "TC",
@@ -9,5 +9,5 @@
   "description": "Lipton Ceylonta Tea is enriched with rich Strong taste this excellent quality high grown tea contains flavonoids, a disease fighting antioxidant proven to reduce risk of cardio vascular disease *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 500.0,
-  "price_of_unit": 1900.0
+  "price_of_unit": null
 }

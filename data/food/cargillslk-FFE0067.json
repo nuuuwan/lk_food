@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "FFE0067",
   "category_code": "FF",
@@ -9,5 +9,5 @@
   "description": "Thin crust spicy cheese pizza with mozzarella, fresh tomato sauce and black olives, ready to be baked in your oven in just 8 minutes, contains no preservatives, dyes or sugar. Please note that our team at Cargills Online has taken all the necessary precautions in order to deliver this item in its frozen state to your doorstep.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "price_of_unit": 2250.0
+  "price_of_unit": null
 }

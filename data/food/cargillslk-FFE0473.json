@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "FFE0473",
   "category_code": "DY",
@@ -9,5 +9,5 @@
   "description": "IMORICH Choc Choc Chip ice cream is a flavour straight from a chocolate lover\u2019s dream with rich chocolate chips snuck inside a rich creamy chocolate ice cream. Discover a sinful chocolate and chocolate chip ice cream, that is worth the indulgence.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "l",
   "unit_size": 1.0,
-  "price_of_unit": 1100.0
+  "price_of_unit": null
 }

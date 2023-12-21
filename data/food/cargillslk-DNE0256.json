@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "DNE0256",
   "category_code": "HB",
@@ -9,5 +9,5 @@
   "description": "Pulse\u00a0Original\u00a0fish oil capsules\u00a0contain a blend of two important ingredients called eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) which are concentrated from natural\u00a0fish oil\u00a0high in Omega-3 nutrients to help support the normal function of the heart. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 60.0,
-  "price_of_unit": 5845.0
+  "price_of_unit": null
 }

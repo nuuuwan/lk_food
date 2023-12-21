@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "FFE0084",
   "category_code": "FF",
@@ -9,5 +9,5 @@
   "description": "Deep fried, crispy and crunchy fish strips with a delectable taste, best served with tartare sauce. The product is uncooked. Thawing not necessary, deep fry for 3 \u2013 4 minutes until golden brown.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 240.0,
-  "price_of_unit": 1300.0
+  "price_of_unit": null
 }

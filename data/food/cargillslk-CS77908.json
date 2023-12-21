@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "CS77908",
   "category_code": "RI",
@@ -9,5 +9,5 @@
   "description": "Turkey basmati rice 2 kilogram bag.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "kg",
   "unit_size": 2.0,
-  "price_of_unit": 3990.0
+  "price_of_unit": null
 }

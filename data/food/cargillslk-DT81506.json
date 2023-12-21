@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "DT81506",
   "category_code": "HB",
@@ -9,5 +9,5 @@
   "description": "Readings in 5 seconds, 500 entry memory with date and time. 7, 14, 30 & 90 days average. ACCU-CHEK ACTIVE system fulfills the accuracy requirements of DIN EN ISO 15197 : 2013. *Images for illustration purpose only. Product recieved may be vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "price_of_unit": 6200.0
+  "price_of_unit": null
 }

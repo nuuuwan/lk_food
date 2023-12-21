@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "DTE0100",
   "category_code": "HB",
@@ -9,5 +9,5 @@
   "description": "Sized and shaped for easy gripping. Indicates various user friendly features, arrows to show which way to insert the slip into the glucose meter. *Images for illustration purpose only. Product recieved may be vary.",
   "unit_of_measure": "pcs",
   "unit_size": 10.0,
-  "price_of_unit": 1122.0
+  "price_of_unit": null
 }

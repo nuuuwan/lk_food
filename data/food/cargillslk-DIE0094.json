@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "DIE0094",
   "category_code": "DI",
@@ -9,5 +9,5 @@
   "description": "Add a splash of delicious strawberry flavour to milk, ice cream, and just about anything you can imagine! Use Strawberry Flavoured Syrup as a drizzle on home-baked desserts or mix it into smoothies and milkshakes.\u00a0 *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 270.0,
-  "price_of_unit": 1050.0
+  "price_of_unit": null
 }

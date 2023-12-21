@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "DY35617",
   "category_code": "DY",
@@ -9,5 +9,5 @@
   "description": "Arla Havarti with its distinctly mild and creamy taste. Combine Arla Havarti with your favourite vegetables, fruit, meat, crackers or bread for a perfect snack or meal that is both delicious and wholesome. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 150.0,
-  "price_of_unit": 1970.0
+  "price_of_unit": null
 }

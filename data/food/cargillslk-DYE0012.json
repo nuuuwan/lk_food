@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "DYE0012",
   "category_code": "FC",
@@ -9,5 +9,5 @@
   "description": "Margarine spread made from vegetable oils that is spreadable at refrigerated temperatures. It contains 65% less saturated fat than butter, has a natural colour and flavour and is a source of Omega-3. Use it as a spread, an ingredient, for shallow frying, baking or saut\u00e9ing.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "kg",
   "unit_size": 1.0,
-  "price_of_unit": 1380.0
+  "price_of_unit": null
 }

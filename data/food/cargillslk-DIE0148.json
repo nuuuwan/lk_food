@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "DIE0148",
   "category_code": "DI",
@@ -9,5 +9,5 @@
   "description": "100% natural Kithul is made from the sweet sap of Kithul palm from rainforests and home gardens in Ceylon. Free from chemicals,additives and preservatives. A healthy alternative to maple syrup, refined syrups and sweetners.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 375.0,
-  "price_of_unit": 2450.0
+  "price_of_unit": null
 }

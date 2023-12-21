@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "MTE0192",
   "category_code": "MT",
@@ -9,5 +9,5 @@
   "description": "Frozen whole Turkey.*Images are illustration purpose only. Product received may vary.\r\nMinimum delivery weight 4.5kg",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "price_of_unit": 16650.0
+  "price_of_unit": null
 }

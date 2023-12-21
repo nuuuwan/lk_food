@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "MTE0132",
   "category_code": "MT",
@@ -9,5 +9,5 @@
   "description": "Bairaha frozen pre cut whole chicken. Please note that our team at Cargills Online has taken all the necessary precausions in order to deliver this item in its frozen state to your doorstep. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "kg",
   "unit_size": 1.0,
-  "price_of_unit": 1800.0
+  "price_of_unit": null
 }

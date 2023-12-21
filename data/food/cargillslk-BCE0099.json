@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "BCE0099",
   "category_code": "FC",
@@ -9,5 +9,5 @@
   "description": "Packed with delicious fruity taste, fruity aroma, and bright colors. Made with whole grains and sweetened, Froot Loops cereal is a fun part of a complete breakfast.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 285.0,
-  "price_of_unit": 1460.0
+  "price_of_unit": null
 }

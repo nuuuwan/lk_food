@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "FF61903",
   "category_code": "FF",
@@ -9,5 +9,5 @@
   "description": "Fresh premium quality cashew nuts for cooking *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 500.0,
-  "price_of_unit": 4250.0
+  "price_of_unit": null
 }

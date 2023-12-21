@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703137654,
-  "time_updated": "2023-12-21 11:17:34",
+  "ut_updated": 1703142201,
+  "time_updated": "2023-12-21 12:33:21",
   "store_id": "cargillslk",
   "sku_code": "DYD1218",
   "category_code": "DY",
@@ -9,5 +9,5 @@
   "description": "Distinctive, smooth, creamy cheese, The Laughing Cow Light Triangles are made from a special recipe that has hardly changed \u2013 still as delicious as it has always been. At 25 calories per triangle, you'll have used them up in the blink of an eye. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 200.0,
-  "price_of_unit": 1342.5
+  "price_of_unit": null
 }
