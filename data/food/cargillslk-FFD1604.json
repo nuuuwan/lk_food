@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FFD1604",
+  "category_code": "FF",
   "name": "Home Bake Vol au Vents",
   "short_description": "Frozen Vol-Au-Vents",
   "description": "A French delicacy stuffed with your favourite filling \u2013 which could be cheese, shrimps, mushrooms or even something sweet.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 24.0,
-  "category_code": "FF"
+  "price_of_unit": 850.0
 }

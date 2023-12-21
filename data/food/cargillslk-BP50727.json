@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BP50727",
+  "category_code": "BP",
   "name": "Baby Cheramy Baby Oil",
   "short_description": "Baby Oil",
   "description": "Baby Cheramy baby oil moisturizes, nourishes and protects the skin.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "BP"
+  "price_of_unit": 450.0
 }

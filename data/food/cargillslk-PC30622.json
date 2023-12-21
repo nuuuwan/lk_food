@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC30622",
+  "category_code": "HB",
   "name": "Clear Ice Cool Menthol Shampoo",
   "short_description": "Shampoo",
   "description": "No visible flakes with regular use. Helps restore the function of the scalp skin barrier at epidermal level.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 180.0,
-  "category_code": "HB"
+  "price_of_unit": 783.0
 }

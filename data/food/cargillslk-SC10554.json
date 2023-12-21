@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SC10554",
+  "category_code": "SC",
   "name": "Munchee Chocolate Carols",
   "short_description": "Biscuits",
   "description": "The taste of chocolate can take enjoyment to the next level and these irresistible biscuits are the proof.\u00a0Munchee Chocolate Carols are more than treats, they are an experience.*Images for illustration purposes only.",
   "unit_of_measure": "g",
   "unit_size": 300.0,
-  "category_code": "SC"
+  "price_of_unit": 360.0
 }

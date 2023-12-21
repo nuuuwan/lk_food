@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FFE0258",
+  "category_code": "FF",
   "name": "Harpo's Margharita Pizza",
   "short_description": "Frozen Pizza",
   "description": "Shelf Life of 6 months. Ingredients: Flour, Milk, Olive oil, Salt, Sugar, Tomato pronto, Basil leaves, Garlic, Oregano, Mozzarella cheese.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 280.0,
-  "category_code": "FF"
+  "price_of_unit": 1350.0
 }

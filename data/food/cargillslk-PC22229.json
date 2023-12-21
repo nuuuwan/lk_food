@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC22229",
+  "category_code": "HB",
   "name": "Closeup Toothpaste peppermin",
   "short_description": "Toothpaste",
   "description": "Shiny blue gel infused with active zinc mouthwash gives you up to 12 hours of fresh breath and helps you get sparkling white. The micro shine crystals embedded within the formula aids to remove yellow film for whiter teeth. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 120.0,
-  "category_code": "HB"
+  "price_of_unit": 375.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "VGE0295",
+  "category_code": "VG",
   "name": "Taragon",
   "short_description": "Fresh Herbs",
   "description": "Tarragon has many impressive health benefits, including the potential to reduce blood sugar, inflammation and pain, while improving sleep, appetite and heart health.\n\nNot to mention, it\u2019s versatile and can be added to a variety of foods \u2014 whether you use fresh or dried varieties. Disclaimer: Please note that the image is used for presentation purposes only. Actual product may slightly defer. Our team at Cargills Online takes every step to ensure to maintain the accuracy of all information displayed.\n\nYou can easily reap the many benefits tarragon provides by adding it to your diet. [Source: www.healthline.com]",
   "unit_of_measure": "g",
   "unit_size": 30.0,
-  "category_code": "VG"
+  "price_of_unit": 49.5
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FT10708",
+  "category_code": "FT",
   "name": "My Choice Fresh Strawberry",
   "short_description": "Fresh Strawberry",
   "description": "My Choice Fresh Strawberries are hand-picked and carefully selected for their sweet taste, juicy texture, and deep red color. These premium strawberries are packed with nutrients and antioxidants, making them a healthy and delicious addition to any diet. The heart-shaped silhouette of the strawberry is the first clue that this fruit is good for you. *Images are illustration purpose only, product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 250.0,
-  "category_code": "FT"
+  "price_of_unit": 800.0
 }

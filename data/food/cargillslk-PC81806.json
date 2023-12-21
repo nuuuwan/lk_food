@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC81806",
+  "category_code": "HB",
   "name": "Enchanteur Talc Charming",
   "short_description": "Talc",
   "description": "Lavish yourself with ENCHANTEUR Charming Perfumed Talc and let the exotic sensual fragrance of Rose, Muguet and soft Cedarwood caress your skin like royalty. Infused with fine floral fragrance that keeps you 3 hour long-lasting freshness. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 125.0,
-  "category_code": "HB"
+  "price_of_unit": 780.0
 }

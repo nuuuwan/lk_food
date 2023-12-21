@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DS60801",
+  "category_code": "HB",
   "name": "Betadine Topical Solution",
   "short_description": "Antiseptic\u00a0Topical Solution",
   "description": "This combination product is used to treat minor wounds (e.g. cuts, scrapes, burns) and to help prevent or treat mild\u00a0skin\u00a0infections. Minor\u00a0skin\u00a0infections and wounds usually heal without treatment, but some minor\u00a0skin\u00a0wounds may heal faster when an antibiotic is applied to the affected area. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 2040.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SCD1804",
+  "category_code": "SC",
   "name": "Rancrisp Devilled Cashew",
   "short_description": "Cashew Nuts",
   "description": "Hot & Spicy premium quality devilled Cashew nuts. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 300.0,
-  "category_code": "SC"
+  "price_of_unit": 2950.0
 }

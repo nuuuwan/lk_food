@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC45119",
+  "category_code": "HB",
   "name": "Gillette Blue 3 Simple Razor",
   "short_description": "Razor",
   "description": "Gillette Blue 3 Simple razor is equipped with 3 spring mounted blades for a close, smooth and comfortable shave. Its open architecture allows easier rinsing and it features a Lubrastrip for an easy glide as well as a fin guard to help stretch the skin and prepare the hair to be cut. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "HB"
+  "price_of_unit": 330.0
 }

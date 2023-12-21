@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BV73121",
+  "category_code": "BV",
   "name": "Kist Mango Nectar",
   "short_description": "Mango Nectar",
   "description": "Kist Fun fruit - Mango Nectar - The Mango that you can Drink! It has a delicate flavour that is both sweet and sour and can be used as an ingredient to flavour mixed cocktails to wind up your day as well. Thanks to Kist's unique aseptic packaging technology, Kist buys large fruit quantities from local farmers during the season & stores without adding any preservatives to use during the off season. Cargills contributes 50 Cents to a farmer foundation, for each 1kg of fruit and vegetables purchased by Kist for manufacturing it's product range. This is used for a special welfare fund (Sarubima Fund) focused on empowering farmer's children through education. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "l",
   "unit_size": 1.0,
-  "category_code": "BV"
+  "price_of_unit": 432.0
 }

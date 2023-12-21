@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BV43581",
+  "category_code": "TC",
   "name": "Dilmah Green Tea Bags Ginger Flavour,20 pcs",
   "short_description": "Flavored Tea Bags",
   "description": "Ceylon Tea in a spicy marriage with natural Ginger. A delicious combination with the lightly piquant warmth of ginger and the fresh, herbal note in the Green Tea producing a refreshing and complex finish. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 40.0,
-  "category_code": "TC"
+  "price_of_unit": 400.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS36916",
+  "category_code": "CE",
   "name": "Beaufor Hot English Mustard",
   "short_description": "Hot English Mustard",
   "description": "Assures a classic hot english mustard taste.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 200.0,
-  "category_code": "CE"
+  "price_of_unit": 1833.0
 }

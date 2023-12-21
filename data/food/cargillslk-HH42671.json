@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HH42671",
+  "category_code": "HH",
   "name": "HIT Aerosol Spray for Cockroaches",
   "short_description": "Insect Repellent",
   "description": "An effective cockroach killer spray that is enabled with a \u2018Deep Reach Nozzle\u2019, which will help reach even the hidden cockroaches conveniently and eliminate them before they escape.  Spray HIT once every week in the areas where cockroaches usually hide in your kitchen, like under your dustbin, inside the sink outlet, under the fridge, under the gas cylinder etc.",
   "unit_of_measure": "ml",
   "unit_size": 225.0,
-  "category_code": "HH"
+  "price_of_unit": 790.0
 }

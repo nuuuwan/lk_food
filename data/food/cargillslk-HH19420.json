@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HH19420",
+  "category_code": "HH",
   "name": "My Choice Liquid Bleach",
   "short_description": "Liquid Bleach",
   "description": "My Choice Liquid bleach can be used to whiten white clothes and kills 99.9% of germs when used as directed on hard, non- porous surfaces. Safe and effective when used as directed.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 500.0,
-  "category_code": "HH"
+  "price_of_unit": 358.0
 }

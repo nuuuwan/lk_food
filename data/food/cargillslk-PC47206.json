@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC47206",
+  "category_code": "HB",
   "name": "Nature`s Secrets Aloe Moisturising Shaving Cream",
   "short_description": "Aloe Vera Moisturising Shaving Cream",
   "description": "This rich and creamy shaving cream formulated with Virgin Coconut Oil and Aloe Vera extract keeps skin soft, moisturised and fresh with every shave. Ideal for face & body use. Can be used by both men & women. Skin Friendly at pH 5.5-6.0. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 320.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DT93701",
+  "category_code": "HB",
   "name": "Micropore Tape With Out Dispenser 1/2\"",
   "short_description": "Surgical Tape",
   "description": "Hypoallergenic paper tape that is gentle to the skin yet adheres well and leaves minimal adhesive residue upon removal. An economical, general purpose, breathable surgical tape. Gentle adhesion, conformable and highly breathable, reliably secures dressings and devices to skin, hypoallergenic and not made with natural rubber latex, economical single use rolls. For securing small to medium dressings especially on damp skin, lightweight tubing, ostomy appliances, taping fragile, at-risk skin and when repeated taping is needed. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "HB"
+  "price_of_unit": 385.0
 }

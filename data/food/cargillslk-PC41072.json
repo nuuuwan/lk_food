@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC41072",
+  "category_code": "HB",
   "name": "Bic 3 Razor",
   "short_description": "Razor",
   "description": "Designed with perfect balance for remarkable control and a close, gentle shave, and finished in a stunning polished chrome plating. The flexible hinge that glides over curves, and the hydrating strip that allows blades to work their magic. *Images for illustration purpose only, Product recieved may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 1.0,
-  "category_code": "HB"
+  "price_of_unit": 204.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HHE0382",
+  "category_code": "HH",
   "name": "Softny Fabric Conditioner Nature Fresh",
   "short_description": "Fabric Conditioner",
   "description": "Softny Nature Fresh helps soften and freshen your clothing to be beautiful & bright.*Images for illustration purpose only,Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 800.0,
-  "category_code": "HH"
+  "price_of_unit": 1190.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BP60460",
+  "category_code": "BP",
   "name": "Baby cheramy\u00a0 Baby Bottle Wash",
   "short_description": "Baby Bottle Wash",
   "description": "Baby Cheramy Bottle Wash containing natural orange peel extracts cleans all baby accessories, plastic, and glass and helps fight germs with its special anti-bacterial formula. It is non-toxic and safe to use. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 400.0,
-  "category_code": "BP"
+  "price_of_unit": 490.0
 }

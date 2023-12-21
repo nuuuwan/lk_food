@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BSE1562",
+  "category_code": "ST",
   "name": "Cargills ESL Home Learning,Badas Birthday Surprise",
   "short_description": "Educational Book",
   "description": "It\u2019s Bada\u2019s Birthday and his friends are planning a big surprise party for him. Join Bada\u2019s friends as they wish him a happy birthday! Cargills ESL storybooks explore themes central to the lives of children. As young readers engage with the stories, they will learn important social, emotional, and practical lessons .*Images for illustration purposes only, Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "ST"
+  "price_of_unit": 350.0
 }

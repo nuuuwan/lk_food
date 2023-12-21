@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "JSE0115",
+  "category_code": "FC",
   "name": "Kamer Bitter Orange Jam",
   "short_description": "Bitter Orenage Jam",
   "description": "Bitter Orange also known as Seville Orange is common in the Mediterranean region and the Aegean coast. This Bitter Orange Jam of ours is perfect for a feel-good breakfast. This jar of sun works well on top of a cheesecake, or even in a cup of plain yoghurt. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 370.0,
-  "category_code": "FC"
+  "price_of_unit": 2464.0
 }

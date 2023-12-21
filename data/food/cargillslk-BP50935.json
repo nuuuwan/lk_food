@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BP50935",
+  "category_code": "BP",
   "name": "Pears Hair & Body Wash",
   "short_description": "Body Wash",
   "description": "Pears hair & bodywash with pure olive oil and vitamin E to help to nourish your baby\u2019s hair and keep your babies\u2019 skin irresistibly baby soft. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "BP"
+  "price_of_unit": 210.0
 }

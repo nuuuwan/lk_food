@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HH37011",
+  "category_code": "HH",
   "name": "Lysol Floral Disinfectant",
   "short_description": "Disinfectant",
   "description": "Kills 99.9% of Germs and Cleans Tough Stains. 10x Better cleaning and protection than standard phenyls. Use directly or diluted for regular use. Suitable for cleaning all kinds of surfaces. Leaves a Pleasant Fragrance. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 500.0,
-  "category_code": "HH"
+  "price_of_unit": 500.0
 }

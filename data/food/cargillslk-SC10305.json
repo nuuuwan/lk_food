@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SC10305",
+  "category_code": "SC",
   "name": "Maliban Smart Cream Cracker",
   "short_description": "Biscuits",
   "description": "Biscuit lovers in Sri Lanka have grown up eating Maliban Cream Crackers. This biscuit is known for its crisp, crunchy texture and milky taste. The Cream Cracker is excellent when sandwiched with butter and jam or eaten with cheese.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 190.0,
-  "category_code": "SC"
+  "price_of_unit": 200.0
 }

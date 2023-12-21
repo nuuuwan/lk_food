@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BV93153",
+  "category_code": "BV",
   "name": "Elephant House Necto",
   "short_description": "Soft Drink",
   "description": "The most fun drink in Elephant House\u2019s \u2018sweets range\u2019, Necto has been a favourite among kids and adults alike for generations. Its super-duper taste is based on a secret recipe that adds a dash of excitement and a spoonful of fun and mischief. Its very unique colour leaves your tongue pink for hours and makes sure that the fun with Necto never stops, even after your final sip. Brings out the kid in you.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "l",
   "unit_size": 1.5,
-  "category_code": "BV"
+  "price_of_unit": 304.0
 }

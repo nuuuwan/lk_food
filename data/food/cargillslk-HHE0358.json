@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HHE0358",
+  "category_code": "HH",
   "name": "Guardian Aluminium Foil",
   "short_description": "Aluminium Foil",
   "description": "Guardian Aluminium Foil ,30cm x 8 m.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "HH"
+  "price_of_unit": 1000.0
 }

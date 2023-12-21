@@ -9,6 +9,14 @@ from lk_food.scrapers.Store import Store
 log = Log('CargillsLK')
 
 
+def parse_float(s) -> float:
+    try:
+        s = str(s)
+        return float(s.replace(',', ''))
+    except ValueError:
+        return None
+
+
 class CargillsLK(Store):
     # Scrapes information about food available at Cargills Online.
 
@@ -72,13 +80,14 @@ class CargillsLK(Store):
 
     def data_to_food(self, d: dict) -> Food:
         return Food(
-            ut_updated=self.ut_updated,
+            ut_updated=int(self.ut_updated),
             store_id=self.id,
             sku_code=d['SKUCODE'],
+            category_code=d['CategoryCode'],
             name=d['ItemName'],
             short_description=d['ShortDescription'],
             description=d['Description'],
             unit_of_measure=d['UOM'],
-            unit_size=d['UnitSize'],
-            category_code=d['CategoryCode'],
+            unit_size=parse_float(d['UnitSize']),
+            price_of_unit=parse_float(d['Price']),
         )

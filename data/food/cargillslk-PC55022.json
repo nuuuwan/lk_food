@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC55022",
+  "category_code": "HB",
   "name": "4Ever Venivel Whitening Face Wash",
   "short_description": "Face Wash",
   "description": "Enriched with venivel from richly grown soil of Sri Lanka, this unique skin friendly cleanser moisturises, nourishes, whitens and prevents the skin from drying while whitening & giving a brighter complexion. Venivel face wash riched in natural vitamins & minerals gives a soft, smooth & radiant skin when used daily. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 360.0
 }

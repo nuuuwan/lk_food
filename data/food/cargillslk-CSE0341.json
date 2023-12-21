@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CSE0341",
+  "category_code": "FC",
   "name": "Edinborough Cheddar Cheese Sauce",
   "short_description": "Cheddar Cheese Sauce",
   "description": "Convenient addition to your hassle-free meals and snacks. This irresistible sauce is a great way to bring the family together. Try this Cheese Sauce as a creamy nacho cheese, a savoury cheese sauce or a cheese dip sauce. It is also great to use for pasta, homemade mac and cheese, hot dogs or tacos.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 260.0,
-  "category_code": "FC"
+  "price_of_unit": 598.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0350",
+  "category_code": "HB",
   "name": "Dove Hair Growing Hair Shampoo",
   "short_description": "Shampoo",
   "description": "Dove Healthy Ritual for growing hair is inspired by North American rituals with blends of coneflower, oil and white tea. Ingredients known for their boosting and caring properties. Key Features: Boosts hair to cope with stressful routines that trigger hair breakage, limiting its growth potential. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 180.0,
-  "category_code": "HB"
+  "price_of_unit": 1020.0
 }

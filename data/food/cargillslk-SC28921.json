@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SC28921",
+  "category_code": "SC",
   "name": "Sethum Roasted & Salted Pistachio",
   "short_description": "Pistachio",
   "description": "A tasty, fun and super healthy snack. Pistachios are a member of the cashew family and mainly come from Central Asia and the Middle East. These nuts contain many nutrients which may be beneficial to one's health. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "SC"
+  "price_of_unit": 1287.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DAE0013",
+  "category_code": "PP",
   "name": "Posa Vet Flea Tick Guard Soap",
   "short_description": "Pet Care Shampoo",
   "description": "Fleatick guard soap will get rid of Ticks and Fleas on dogs and cats.Contains -Eucalyptus and Cinnamon oil.Contains -Eucalyptus and Cinnamon oil.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 70.0,
-  "category_code": "PP"
+  "price_of_unit": 565.0
 }

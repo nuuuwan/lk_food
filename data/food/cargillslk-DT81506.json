@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DT81506",
+  "category_code": "HB",
   "name": "Accu-Check Active Blood Glucose Monitoring Machine",
   "short_description": "Blood Glucose Monitoring Machine",
   "description": "Readings in 5 seconds, 500 entry memory with date and time. 7, 14, 30 & 90 days average. ACCU-CHEK ACTIVE system fulfills the accuracy requirements of DIN EN ISO 15197 : 2013. *Images for illustration purpose only. Product recieved may be vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "HB"
+  "price_of_unit": 6200.0
 }

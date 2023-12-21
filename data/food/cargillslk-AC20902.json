@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "AC20902",
+  "category_code": "AC",
   "name": "Dash Car Wash",
   "short_description": "Car Wash Liquid",
   "description": "Dash Car Wash is a blend of carefully selected high quality surfactants with a rich proactive foam that efficiently removes dirt and road grime from vehicles. This caustic and phosphate-free formula leaves no stains on paintwork of vehicle, nor does it cause skin irritation to the user. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 500.0,
-  "category_code": "AC"
+  "price_of_unit": 480.0
 }

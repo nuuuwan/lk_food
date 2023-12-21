@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BPE0188",
+  "category_code": "BP",
   "name": "Munchee Baby Rusks, Banana",
   "short_description": "Baby Rusks",
   "description": "Introducing Munchee Banana Rusks , the perfect blend of nutrition and deliciousness for your little one!*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 60.0,
-  "category_code": "BP"
+  "price_of_unit": 300.0
 }

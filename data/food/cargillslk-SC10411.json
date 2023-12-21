@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SC10411",
+  "category_code": "SC",
   "name": "Maliban Spicy Crackers",
   "short_description": "Crackers",
   "description": "The revolutionary Maliban Spicy Cracker is for the savory lovers which give a chili taste which makes it hot but not too hot while ensuring the crispy bite of a cracker. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 170.0,
-  "category_code": "SC"
+  "price_of_unit": 260.0
 }

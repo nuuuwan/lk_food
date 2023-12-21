@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BPE0168",
+  "category_code": "BP",
   "name": "Pears Cream Aloe Vera & Neem",
   "short_description": "Baby Cream",
   "description": "Pears baby cream contains a delicate combination of traditional ingredients such as natural aloe vera & neem extracts. Pears baby cream with rich moisture helps to protect the natural balance of your baby's skin, while preventing it from drying, keeping it healthy and soft. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "BP"
+  "price_of_unit": 360.0
 }

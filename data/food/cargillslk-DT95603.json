@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DT95603",
+  "category_code": "HB",
   "name": "Urine Drainage Bag",
   "short_description": "Surgical Instruments",
   "description": "Urine drainage bags to collect urine. Your bag will attach to a catheter (tube) that is inside your bladder. You may have a catheter and urine drainage bag because you have urinary incontinence (leakage), urinary retention (not being able to urinate), surgery that made a catheter necessary, or another health problem.*Images for illustration purpose only, Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "HB"
+  "price_of_unit": 180.0
 }

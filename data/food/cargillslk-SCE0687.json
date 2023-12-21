@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SCE0687",
+  "category_code": "SC",
   "name": "Kist Magic OLO Butterscotch Cream Biscuits",
   "short_description": "Biscuits",
   "description": "Bite into a crunchy dark biscuit sandwiched with smooth Butterscotch flavoured rich cream. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 140.0,
-  "category_code": "SC"
+  "price_of_unit": 280.0
 }

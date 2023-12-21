@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DT40302",
+  "category_code": "HB",
   "name": "Menthol",
   "short_description": "Healthy Needs",
   "description": "Used medicinally, their cooling sensation makes Menthol Crystals ideal for addressing aches, pain, cramps, sprains, and irritation. They help relax muscles while easing tension headaches, nausea, dizziness, and they can be used as decongestant agents for their ability to promote the feeling of airways opening up.*Images for illustration purpose only, Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 2.0,
-  "category_code": "HB"
+  "price_of_unit": 70.0
 }

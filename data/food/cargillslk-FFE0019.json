@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FFE0019",
+  "category_code": "FF",
   "name": "Chef Samosa Pastry",
   "short_description": "Samaosa Pastry",
   "description": "A traditional dough-based thin samosa pastry, made of wheat and easy to use. You can wrap the sheets around any filling of your choice and create food magic at home. Great for tea time snacks and party snacks like samosas and appetizers. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 250.0,
-  "category_code": "FF"
+  "price_of_unit": 950.0
 }

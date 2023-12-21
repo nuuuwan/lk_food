@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "VGE0242",
+  "category_code": "VG",
   "name": "Pumpkin",
   "short_description": "Pumpkin",
   "description": "Rich in vitamins, minerals and antioxidants, pumpkin is incredibly healthy. What\u2019s more, its low calorie content makes it a weight-loss-friendly food. Its nutrients and antioxidants may boost your immune system, protect your eyesight, lower your risk of certain cancers and promote heart and skin health. Pumpkin is very versatile and easy to add to your diet in both sweet and savory dishes. Try incorporating pumpkin into your diet today to reap its health benefits. [Source: www.healthline.com] Disclaimer: Please note that the image is used for presentation purposes only. Actual product may slightly defer. Our team at Cargills Online takes every step to ensure to maintain the accuracy of all information displayed. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 500.0,
-  "category_code": "VG"
+  "price_of_unit": 100.0
 }

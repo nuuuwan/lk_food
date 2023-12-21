@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0427",
+  "category_code": "HB",
   "name": "Clogard Chooty Toothpaste Strawberry",
   "short_description": "Toothpaste",
   "description": "Fluoridated Kids' Toothpaste. Strawberry Flavour.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 40.0,
-  "category_code": "HB"
+  "price_of_unit": 185.0
 }

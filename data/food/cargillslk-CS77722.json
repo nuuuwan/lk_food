@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS77722",
+  "category_code": "RI",
   "name": "White Nadu Rice",
   "short_description": "Bulk Rice",
   "description": "A milled medium-long grained rice. Nadu rice is pre-boiled.",
   "unit_of_measure": "kg",
   "unit_size": 1.0,
-  "category_code": "RI"
+  "price_of_unit": 207.0
 }

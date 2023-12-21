@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BP50796",
+  "category_code": "BP",
   "name": "Baby Cheramy Laundry Wash Powder",
   "short_description": "Baby Laundry Washing Powder",
   "description": "Baby Cheramy baby laundry wash powder has a long lasting freshness. Includes antibacterial properties and fabric softener.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 400.0,
-  "category_code": "BP"
+  "price_of_unit": 385.0
 }

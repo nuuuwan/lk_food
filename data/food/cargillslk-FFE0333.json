@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FFE0333",
+  "category_code": "FF",
   "name": "Harpo's Mushroom Ravioli",
   "short_description": "Ravioli",
   "description": "Shelf Life of 6 months. Ingredients: Shitake Mushrooms, Button mushroom, Onion, Garlic, Olive oil, Salt, Pepper, Parmesan cheese, Ricotta cheese, milk, Butter, Flour, Semolina, Eggs.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 200.0,
-  "category_code": "FF"
+  "price_of_unit": 1190.0
 }

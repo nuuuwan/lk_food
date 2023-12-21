@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BK20104",
+  "category_code": "BK",
   "name": "Panaderia Giant Hamburger Buns (Pack of 2)",
   "short_description": "Hamburger Buns",
   "description": "Soft and fresh large hamburger buns. Ideal for any types of burgers and sandwiches.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 70.0,
-  "category_code": "BK"
+  "price_of_unit": 170.0
 }

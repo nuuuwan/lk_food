@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS53307",
+  "category_code": "CE",
   "name": "Fragata Olive Oil",
   "short_description": "Olive Oil",
   "description": "Fragata provides a selection of the best spanish olive oil to meet the specific needs and cooking habits of any country in the world.\nIt is an aromatic oil with floral and fruity tones. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 500.0,
-  "category_code": "CE"
+  "price_of_unit": 3857.0
 }

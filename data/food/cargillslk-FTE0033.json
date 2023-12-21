@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FTE0033",
+  "category_code": "FT",
   "name": "Sour Plantain Full Hand",
   "short_description": "Sour Plantain",
   "description": "Bananas are a popular fruit that happens to provide numerous health benefits. Among other things, they may boost digestive and heart health due to their fiber and antioxidant content. \r\nThey may even aid weight loss, as they're relatively low-calorie and nutrient-dense. Ripe bananas are a great way to satisfy your sweet tooth. What\u2019s more, both yellow and green bananas can keep you healthy and feeling full. [Source: www.healthline.com] Disclaimer: Please note that the image is used for presentation purposes only. Actual product may slightly defer. Our team at Cargills Online takes every step to ensure to maintain the accuracy of all information displayed. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "kg",
   "unit_size": 1.2,
-  "category_code": "FT"
+  "price_of_unit": 336.0
 }

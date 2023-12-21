@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HHE0238",
+  "category_code": "HH",
   "name": "Diva Purple Lotus Detergent Powder",
   "short_description": "Detergent Powder",
   "description": "Diva detergent powder with lotus, lavender  & lime gives your clothes a long lasting fragrance with \u201cperfume magic\u201d technology. The \u201cfiber clean\u201d technology of Diva detergent powder will attack body oil and sweat on clothes while optical brighteners will give your clothes the new and fresh look you've always dreamed of. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "kg",
   "unit_size": 1.0,
-  "category_code": "HH"
+  "price_of_unit": 430.0
 }

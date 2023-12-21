@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC64901",
+  "category_code": "HB",
   "name": "4Ever Nail Lacquer Remover",
   "short_description": "Nail Lacquer Remover",
   "description": "A precious blend containing almond oil, efficiently removes nail polish without streaking or staining. This acetone free formula moisturizes the nail bed and helps to shine and improve the nail condition. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 320.0
 }

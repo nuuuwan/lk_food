@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS18331",
+  "category_code": "SS",
   "name": "My Choice Curry Powder",
   "short_description": "Raw Curry Powder",
   "description": "Curry Powder is a mixture of traditional Sri Lankan flavors which predominantly includes coriander, turmeric, cumin, chili powder, curry leaves, ginger, mustard, and other condiments including cinnamon, cardamon, etc. Raw curry powder is heavily used in white curries especially for fish and vegetables. *Images for illustration purpose only, Product recieved may vary.",
   "unit_of_measure": "g",
   "unit_size": 50.0,
-  "category_code": "SS"
+  "price_of_unit": 120.0
 }

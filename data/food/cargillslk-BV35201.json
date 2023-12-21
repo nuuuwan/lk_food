@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BV35201",
+  "category_code": "DY",
   "name": "Supersun Soy Protein Milk Powder",
   "short_description": "Soya Milk Powder",
   "description": "Quick and easy to prepare lactose free milk powder. Contains 18 vitamins, minerals and nutrients.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 200.0,
-  "category_code": "DY"
+  "price_of_unit": 1385.0
 }

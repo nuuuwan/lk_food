@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DN41262",
+  "category_code": "HB",
   "name": "Resource Whey Protein",
   "short_description": "Nutrition Powder - Whey Protein Suppliment",
   "description": "Resource Whey Protein is a powder based soluble protein (100% of high-quality whey protein) for the dietary management of malnourished patients or patients at risk of malnutrition with increased protein needs and/or decreased protein intake. 100% high quality whey protein. Neutral taste. Can mix with a wide variety of foods and beverages. Nutritionally incomplete and not suitable for use as a sole source of nutrition. Gluten free. Good solubility.\n *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 264.0,
-  "category_code": "HB"
+  "price_of_unit": 7495.0
 }

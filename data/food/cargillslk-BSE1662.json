@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BSE1662",
+  "category_code": "ST",
   "name": "Cargills ESL Home Learning,Bada and the Squirrel",
   "short_description": "Educational Book",
   "description": "Story line focuses on 2 characters who meet in a forest. The young reader learns about the life cycle of a tree, butterfly, and bird. This story encourages the reader to accept reality and to go for options.*Images for illustration purpose only, Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "ST"
+  "price_of_unit": 315.0
 }

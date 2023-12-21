@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SC10389",
+  "category_code": "SC",
   "name": "Maliban Cheesebits",
   "short_description": "Cheese Bits",
   "description": "This assortment of fun-filled and exciting range of snacks including Chick Bits, Cheese Bits and Kritz comes in a range of varied flavours to entice the taste buds and be the life of any occasion. Also available in different sizes and come in ready-to-eat sachets and tins. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 80.0,
-  "category_code": "SC"
+  "price_of_unit": 190.0
 }

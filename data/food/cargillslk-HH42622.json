@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HH42622",
+  "category_code": "HH",
   "name": "Good Knight Cordless Liquidator",
   "short_description": "Insect Repellent",
   "description": "Liquid Vapouriser. It consists of a mosquito repellent cartridge (45 nights refill) and Plug-on vapouriser machine.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "HH"
+  "price_of_unit": 747.0
 }

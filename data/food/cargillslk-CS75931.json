@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS75931",
+  "category_code": "CE",
   "name": "Rich Gram Flour",
   "short_description": "Gram Flour",
   "description": "Gram flour is a pulse flour made from a variety of ground chickpea. This flour is used to make a variety of dishes.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 500.0,
-  "category_code": "CE"
+  "price_of_unit": 595.0
 }

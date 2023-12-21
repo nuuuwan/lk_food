@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FFE0066",
+  "category_code": "FF",
   "name": "Dolce Italia Pizza Margherita Classic Cheese Pizza",
   "short_description": "Classic Italian Cheese Pizza - 10\"",
   "description": "Thin crust classic Italian cheese pizza with mozzarella cheese and fresh tomato sauce, ready to be baked in your oven in just 8 minutes, contains no preservatives, dyes or sugar. Please note that our team at Cargills Online has taken all the necessary precautions in order to deliver this item in its frozen state to your doorstep.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "FF"
+  "price_of_unit": 1950.0
 }

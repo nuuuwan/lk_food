@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HHE0004",
+  "category_code": "HH",
   "name": "Carlton Clear Cling Wrap",
   "short_description": "Cling Wrap",
   "description": "Carlton Cling Film is ideal for all your kitchen needs, which is typically used for sealing food items to keep them fresh over a longer period of time. Both microwave reheating and freezer safe. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "m",
   "unit_size": 30.0,
-  "category_code": "HH"
+  "price_of_unit": 770.0
 }

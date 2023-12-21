@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "JS10200",
+  "category_code": "FC",
   "name": "Kist Mixed Fruit Jam",
   "short_description": "Jam",
   "description": "Kist Mixed fruit Jam is made with a combination of many tropical fruits together and it\u2019s a favourite amongst all age groups. Thanks to Kist's unique aseptic packaging technology, Kist buys large fruit quantities from local farmers during the season & stores without adding any preservatives to use during the off season. Cargills contributes 50 Cents to a farmer foundation, for each 1kg of fruit and vegetables purchased by Kist for manufacturing it's product range. This is used for a special welfare fund (Sarubima Fund) focused on empowering farmer's children through education. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 510.0,
-  "category_code": "FC"
+  "price_of_unit": 367.5
 }

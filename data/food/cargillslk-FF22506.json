@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FF22506",
+  "category_code": "MT",
   "name": "Elephant House Back Bacon",
   "short_description": "Back Bacon",
   "description": "Elephant House Meat products are so irresistible and succulent because they are handmade with the utmost care. Only the best spices from the freshest sources and highest quality meats are used to craft this traditional recipe.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 150.0,
-  "category_code": "MT"
+  "price_of_unit": 1050.0
 }

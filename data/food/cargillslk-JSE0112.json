@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "JSE0112",
+  "category_code": "FC",
   "name": "MD Mango Jam",
   "short_description": "Jam",
   "description": "Wonderful tropical flavor of Mangoes on your toast with this easy natural Mango jam. It is quick to make and has a wonderful sweet flavor.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 300.0,
-  "category_code": "FC"
+  "price_of_unit": 350.0
 }

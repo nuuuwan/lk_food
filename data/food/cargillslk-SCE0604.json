@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SCE0604",
+  "category_code": "SC",
   "name": "Finch Hazelnuts, Blanched & Roasted",
   "short_description": "Hazelnut Seeds",
   "description": "They have a deliciously creamy, naturally sweet flavour with a slight crunch. These nuts are fantastic as a snack or even added to baking and cooking recipes for added texture and nutrition.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 75.0,
-  "category_code": "SC"
+  "price_of_unit": 1190.0
 }

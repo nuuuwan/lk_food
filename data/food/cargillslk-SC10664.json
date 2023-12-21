@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SC10664",
+  "category_code": "SC",
   "name": "Munchee Milk Cream Biscuits",
   "short_description": "Biscuits",
   "description": "The quintessential sweet treat, two crunchy round butter biscuits sandwich a creamy, milky filling for the perfect cookies and cream combination. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 255.0,
-  "category_code": "SC"
+  "price_of_unit": 220.0
 }

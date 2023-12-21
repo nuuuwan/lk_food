@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "VGE0355",
+  "category_code": "VG",
   "name": "Grow Eden Sweet Thai Basil",
   "short_description": "Thai Basil Leaves",
   "description": "Sweet Thai Basil leaves. In terms of appearance, Thai basil has a purple stem, and small sturdy leaves with serrated edges. Contains a slightly spicy, licorice-like flavour.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 30.0,
-  "category_code": "VG"
+  "price_of_unit": 410.0
 }

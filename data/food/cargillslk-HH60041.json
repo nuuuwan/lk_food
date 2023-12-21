@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HH60041",
+  "category_code": "HH",
   "name": "Flora Multifold Hand Towl",
   "short_description": "Multifold Hand Towel",
   "description": "Strong and embossed Flora multifold hand towels are hygienic single-use hand towels. Multifold towel dispensers are compatible with these packs of hand towels.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 200.0,
-  "category_code": "HH"
+  "price_of_unit": 626.25
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PP10485",
+  "category_code": "PP",
   "name": "Pedigree Puppy Chicken & Milk Foods",
   "short_description": "Dog Food",
   "description": "Pedigree Chicken & Milk for Puppy is a wholesome meal, packed with essential nutrients vital to the healthy growth of your pet. The natural goodness of cereals, chicken, meat, soybean, carrots, peas & milk blend into a tasty treat for your little one. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "kg",
   "unit_size": 1.0,
-  "category_code": "PP"
+  "price_of_unit": 2100.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "JS30701",
+  "category_code": "HB",
   "name": "Brands Essence of Chicken",
   "short_description": "Essence Of Chicken",
   "description": "Original Essence of Chicken. It is made of an all-natural extract of fine quality chicken hygienically processed under high temperatures. BRAND'S\u00ae Essence of Chicken can be taken straight from the bottle and is perfect at room temperature, chilled or warmed. Once opened, the contents should be refrigerated and consumed within 24 hours. Take it daily, anytime, anywhere.\r\n *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 42.0,
-  "category_code": "HB"
+  "price_of_unit": 980.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PIE0047",
+  "category_code": "HH",
   "name": "Star Light Candles, Small",
   "short_description": "Candles",
   "description": "20 pcs of, candles made with all Pure premium quality paraffin wax.*Images are for illustration purpose only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 20.0,
-  "category_code": "HH"
+  "price_of_unit": 702.0
 }

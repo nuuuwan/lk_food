@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CSE0523",
+  "category_code": "CE",
   "name": "Finch Onion Powder",
   "short_description": "Onion Powder",
   "description": "Finch onion powder is great for frying, baking and all kinds of hot cooking. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 50.0,
-  "category_code": "CE"
+  "price_of_unit": 590.0
 }

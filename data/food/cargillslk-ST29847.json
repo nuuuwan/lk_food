@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "ST29847",
+  "category_code": "ST",
   "name": "Atlas Chooty Multi Colour Gel Pens",
   "short_description": "Pens",
   "description": "Green, Orange,Purple, Brown, Pink Gel Pens.",
   "unit_of_measure": "pcs",
   "unit_size": 5.0,
-  "category_code": "ST"
+  "price_of_unit": 255.0
 }

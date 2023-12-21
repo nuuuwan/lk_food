@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DI71201",
+  "category_code": "DI",
   "name": "Kist Golden Syrup",
   "short_description": "Golden Syrup",
   "description": "Kist Golden Syrup is ideal with waffles & french toast. Its thick syrup and texture brings out the sweet tooth in everyone.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 470.0,
-  "category_code": "DI"
+  "price_of_unit": 315.0
 }

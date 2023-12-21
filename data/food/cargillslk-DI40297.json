@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DI40297",
+  "category_code": "DI",
   "name": "Motha Apple Flavoured Jelly",
   "short_description": "Apple Flavoured Jelly",
   "description": "Apple Flavoured Jelly Crystals. 6 servings per pack. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "DI"
+  "price_of_unit": 230.0
 }

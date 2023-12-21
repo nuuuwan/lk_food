@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HHE0372",
+  "category_code": "HH",
   "name": "RUSIRU SPONGE SMALL",
   "short_description": "Sponge",
   "description": "Basic Cleaning Sponge.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "EACH",
   "unit_size": 1.0,
-  "category_code": "HH"
+  "price_of_unit": 65.0
 }

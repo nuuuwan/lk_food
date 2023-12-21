@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DN46119",
+  "category_code": "HB",
   "name": "Link Samahan Sachets 4 g",
   "short_description": "Herbal Treatment Powder For Cold Flu & Catarrh",
   "description": "The efficacy of daily intake of one sachet of Link Samahan in reducing the incidence and severity of 15 upper respiratory symptoms associated with catarrh and colds, such as, excessive sneezing, nasal congestion, watery nasal discharge, scratchy throat, hoarseness of voice, cough, throat pain, feverishness, headache, itchy eyes and tearing, itchy ears and blocked ears, tiredness, body pains, loss of appetite, and difficulties in day to day work, has been firmly established in a clinical trial. Findings of this trial are published in Ceylon Medical Journal 2012:57:21-32. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 10.0,
-  "category_code": "HB"
+  "price_of_unit": 500.0
 }

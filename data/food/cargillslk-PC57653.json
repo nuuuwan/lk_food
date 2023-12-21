@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC57653",
+  "category_code": "HB",
   "name": "Prevense Cleansing Gel",
   "short_description": "Cleansing Gel",
   "description": "All skin types: Specially formulated for those who loves to cleanse with water. This smooth gel delicately cleanses the skin, leaving it feeling soft and supple. Helps maintain the skin's natural moisture balance.\nIngredients: Calendula Ext, Aloe Vera *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 120.0,
-  "category_code": "HB"
+  "price_of_unit": 891.0
 }

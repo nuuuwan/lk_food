@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BTE0040",
+  "category_code": "HB",
   "name": "Basicare Foundation Sponge",
   "short_description": "Makeup Sponge",
   "description": "These sponges are made of NBR (NITRILE BUTADIENE RUBBER) to provide smooth blending and even application for liquid, cream and powder foundation. With its fine texture, this sponge offers maximum control and flawless finish to your cosmetic application.\n\n CARE: Gently wash the sponge in warm soapy water. Rinse thoroughly and squeeze for excess water. Allow it to air dry.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "HB"
+  "price_of_unit": 820.0
 }

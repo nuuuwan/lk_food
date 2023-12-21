@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0602",
+  "category_code": "HB",
   "name": "Glow & Lovely Instant Glow Face Wash",
   "short_description": "Face Wash",
   "description": "Glow & Lovely instant glow face wash is enriched with multivitamins like\u00a0vitamin B3, C & E to nourish and moisturise from within instantly to give you a glow. Deep cleanses to remove\u00a0dirt and pollution from deep within your skin with every wash. Exfoliates to remove dead skin cells and helps\u00a0remove bacteria causing germs to unclog pores with every wash. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 50.0,
-  "category_code": "HB"
+  "price_of_unit": 575.0
 }

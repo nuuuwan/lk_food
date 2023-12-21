@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0739",
+  "category_code": "HB",
   "name": "Bellose Hair Colour Women,1.0",
   "short_description": "Hair Colour",
   "description": "Bellose 5 minutes hair color cream protects the hair fiber by increasing the volume of the hair shaft & increasing the elasticity of the hair. The Bellose 5 minutes hair color cream also nourishes and conditions the hair during the coloring process with the upshot of brilliant, long lasting full grey coverage.*Images are for illustration purpose only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 30.0,
-  "category_code": "HB"
+  "price_of_unit": 351.0
 }

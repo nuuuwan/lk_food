@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DTE0222",
+  "category_code": "HB",
   "name": "SB Zinc Oxide Plaster 1\"X5yd",
   "short_description": "Surgical Instruments",
   "description": "Zinc Oxide Plaster is painted with adhesive, made of natural rubber and zinc oxide adhesive on the weaving-cloth back lining. It is used in surgical operations, for dressing or catheters, and for sports protection and labor protection.*Images for illustration purpose only, Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "HB"
+  "price_of_unit": 230.0
 }

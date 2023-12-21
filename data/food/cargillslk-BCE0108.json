@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BCE0108",
+  "category_code": "FC",
   "name": "Mr.POP Brekkie Cereal Choco Balls",
   "short_description": "Cereal",
   "description": "Mr.Pop Brekkie cereal includes many important nutritional benefits, that will fullfil your daily energy, to keep you healthy, focused, and competitive in daily activities.*Images for illustration purpose only. Products received may vary.",
   "unit_of_measure": "g",
   "unit_size": 150.0,
-  "category_code": "FC"
+  "price_of_unit": 350.0
 }

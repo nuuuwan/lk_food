@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0575",
+  "category_code": "HB",
   "name": "Signal Charcoal & Lemon Toothpaste",
   "short_description": "Toothpaste",
   "description": "Introducing Signal Nature Essentials. This Charcoal White toothpaste is infused with Charcoal and Lemon Essence to help fight bacteria and whiten teeth naturally. The active formula gently polishes away tooth stains and restores your white smile naturally.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 120.0,
-  "category_code": "HB"
+  "price_of_unit": 345.0
 }

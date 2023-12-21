@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HH60091",
+  "category_code": "HH",
   "name": "Flora Hygienic Wet Wipes",
   "short_description": "Wet Wipes",
   "description": "You may have this product in 04 fragrances namely Sassy Pink, Purple Passion, Chill Blue and Misty Green based on the colours of the packs. 10 wet tissues are available in a pack and you will feel cooling and refreshing on a wipe with it especially on a hot day. It paves an easy way for you to hygienically clean your face and hands at home and on the go. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 10.0,
-  "category_code": "HH"
+  "price_of_unit": 250.75
 }

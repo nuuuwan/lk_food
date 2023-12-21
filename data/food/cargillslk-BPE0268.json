@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BPE0268",
+  "category_code": "BP",
   "name": "Pampers Baby Diaper Pants,XL",
   "short_description": "Baby Diaper Pants",
   "description": "Size, XL ; Weight Range, 12-17 kg ; Qty/Pcs, 56 Pants ; Special Features, The Double Leak Guard, Ultra Absorb.*Images for illustration purpose only. Product received may vary",
   "unit_of_measure": "pcs",
   "unit_size": 56.0,
-  "category_code": "BP"
+  "price_of_unit": 7550.0
 }

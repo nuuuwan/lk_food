@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DY32911",
+  "category_code": "DY",
   "name": "Anchor Cheddar Cheese Slices",
   "short_description": "Cheddar Cheese Slices",
   "description": "With Anchor Cheddar Cheese Slices, it\u2019s never been simpler to prepare tasty treats for the whole family. These convenient slices come individually-wrapped, so they can be easily added to your recipes or enjoyed on-the-go. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "DY"
+  "price_of_unit": 611.0
 }

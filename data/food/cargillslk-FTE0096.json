@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FTE0096",
+  "category_code": "FT",
   "name": "Red Banana",
   "short_description": "Red Banana",
   "description": "These are soft bananas that have a sweet flavour when ripe. They\u2019re particularly rich in potassium, vitamin C and vitamin B6 and contain a fair amount of fiber. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 500.0,
-  "category_code": "FT"
+  "price_of_unit": 332.5
 }

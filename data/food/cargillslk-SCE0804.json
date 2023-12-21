@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SCE0804",
+  "category_code": "SC",
   "name": "Munchee Super Cream Cracker",
   "short_description": "Cream Cracker",
   "description": "This iconic vitamin enriched cracker is light, flaky and sugar free, baked to contain air pockets on its surface for the perfect crisp.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 230.0,
-  "category_code": "SC"
+  "price_of_unit": 230.0
 }

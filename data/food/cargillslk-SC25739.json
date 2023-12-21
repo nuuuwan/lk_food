@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SC25739",
+  "category_code": "SC",
   "name": "Asiri Cocktail Mixture",
   "short_description": "Cocktail Mixture",
   "description": "Wheat flour, gram flour, Dhal, peanuts, gram, Cashew, Chili powder, Salt powder, Garlic, curry leaves, cumin seeds; all fried in palm oil and seasoned. Makes for a delicious snack or bite.*Images for illustration purposes only. Product received may vary.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 500.0,
-  "category_code": "SC"
+  "price_of_unit": 972.0
 }

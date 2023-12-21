@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DYE0218",
+  "category_code": "DY",
   "name": "Frutty Fro Mixed Berry Flavoured Greek Yoghurt",
   "short_description": "Flavoured Greek Yoghurt",
   "description": "100% natural with mixed berries. No chemicals or preservatives. High protein and zero cholesterol. Full of probiotics, vitamins and minerals. 100% vegetarian.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 90.0,
-  "category_code": "DY"
+  "price_of_unit": 295.0
 }

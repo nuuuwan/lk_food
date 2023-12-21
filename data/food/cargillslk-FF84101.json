@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FF84101",
+  "category_code": "FF",
   "name": "Spring Home Rotti Paratha Plain",
   "short_description": "Flaky Flatbread",
   "description": "Enjoy Spring Home\u2019s healthier choice option of this crispy and flaky flatbread that is imbued with natural rosemary preservatives. 64 layers of crispiness. Flaky on the outside, soft on the inside. No cooking oil needed. Cooking Method: Oven Bake, Pan Fry, Air Fry *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 5.0,
-  "category_code": "FF"
+  "price_of_unit": 943.5
 }

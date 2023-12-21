@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DYE0246",
+  "category_code": "DY",
   "name": "Richlife Cheese Wedges",
   "short_description": "Cheese",
   "description": "Soft and cream, made from blend of processed cheddar cheese, easy to spread or bite, rich and tasty.It is ideal for your snack apples, foods-baguettes, bagels and crackers.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 120.0,
-  "category_code": "DY"
+  "price_of_unit": 480.0
 }

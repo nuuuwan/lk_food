@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC31957",
+  "category_code": "HB",
   "name": "Revlon Top Speed Natural Black Hair Colour",
   "short_description": "Hair Colour",
   "description": "Revlon Top Speed hair color has SUC (Speed up Coloring) Technology that gives a 100% gray coverage in Just 5 Minutes. Top Speed is Ammonia free and infused with Mother of Pearl and Ginseng root extract for shiny and resilient Hair.*Images for illustration purposes only.Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 60.0,
-  "category_code": "HB"
+  "price_of_unit": 4200.0
 }

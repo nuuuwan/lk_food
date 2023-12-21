@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FF80165",
+  "category_code": "FF",
   "name": "Finagle Koththu Roti",
   "short_description": "Koththu Roti",
   "description": "Finagle kottu rotti is frozen and pre-chopped for all your kottu rotti needs. Making kottu at home just became a whole lot easier.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 750.0,
-  "category_code": "FF"
+  "price_of_unit": 620.0
 }

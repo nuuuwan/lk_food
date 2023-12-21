@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS77707",
+  "category_code": "RI",
   "name": "White Raw Rice",
   "short_description": "Bulk Rice",
   "description": "A popular breakfast rice, due to its milky taste and pure white colour. This rice is raw, not boiled at all in processing and high in satiety and energy.",
   "unit_of_measure": "kg",
   "unit_size": 1.0,
-  "category_code": "RI"
+  "price_of_unit": 200.0
 }

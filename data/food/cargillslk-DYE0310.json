@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DYE0310",
+  "category_code": "FC",
   "name": "Imported White Eggs",
   "short_description": "White Eggs",
   "description": "Eggs are highly nutritious, consisting of many vitamins and minerals and proteins. They are linked to a reduced risk of heart disease. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 10.0,
-  "category_code": "FC"
+  "price_of_unit": 420.0
 }

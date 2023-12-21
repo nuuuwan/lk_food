@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HH60801",
+  "category_code": "HH",
   "name": "Nimex Toilet Roll 2ply",
   "short_description": "Toilet Tissue",
   "description": "2 ply toilet tissue designed for softness and strength. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 133.0,
-  "category_code": "HH"
+  "price_of_unit": 265.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS14526",
+  "category_code": "CE",
   "name": "Orient Sago",
   "short_description": "Sago",
   "description": "Sago is an edible starch that is made from the pith of an array of tropical palm trees. It's a staple food in parts of the tropics. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 200.0,
-  "category_code": "CE"
+  "price_of_unit": 334.0
 }

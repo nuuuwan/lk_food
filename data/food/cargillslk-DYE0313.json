@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DYE0313",
+  "category_code": "DY",
   "name": "Anchor Shake Shake Mango Set Yoghurt",
   "short_description": "Mango Yoghurt",
   "description": "Anchor Newdale Shake Shake Mango flavour The only 2-in-1 yoghurt in Sri Lanka. Eat it as a yoghurt or simply shake it to drink as a drinking yoghurt. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 120.0,
-  "category_code": "DY"
+  "price_of_unit": 120.0
 }

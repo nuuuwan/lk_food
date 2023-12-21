@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0074",
+  "category_code": "HB",
   "name": "Chandanalepa Whitening Cream",
   "short_description": "Whitening Cream",
   "description": "Chandanalepa Whitening Cream is scientifically made combining SEPIWHITE TM, an advanced French cosmetics ingredient with natural Orange Peel, ensuring visible skin whitening by safely controlling \u201cmelanin\u201d. This unique product will noticeably remove dark spots and blemishes, gifting you with radiant and glowing skin.",
   "unit_of_measure": "g",
   "unit_size": 20.0,
-  "category_code": "HB"
+  "price_of_unit": 420.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HH40167",
+  "category_code": "HH",
   "name": "Mortein Flying Insect Killer",
   "short_description": "Insect Repellent",
   "description": "For fast effective results, spray directly at the fly, mosquito or other flying insects. To kill most flying insects, close windows and doors and spray high into the air for 3-5 seconds. Spray directly onto insects to kill cockroaches, ants, spiders, fleas and silverfish. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 400.0,
-  "category_code": "HH"
+  "price_of_unit": 1350.0
 }

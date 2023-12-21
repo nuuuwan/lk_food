@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0031",
+  "category_code": "HB",
   "name": "Nature s Secrets Anti Wrinkle Night Cream",
   "short_description": "Face Cream",
   "description": "Rich in retinol, vitamin A in its purest form, and ultra-nourishing sweet almond oil, this beauty cream helps rejuvenate skin and reduce the effects of skin aging for a more youthful and healthy complexion. Further enriched with virgin coconut oil and olive oil, this mineral-oil free cream effectively hydrates and nourishes skin for beautiful radiance. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 50.0,
-  "category_code": "HB"
+  "price_of_unit": 690.0
 }

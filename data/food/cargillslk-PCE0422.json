@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0422",
+  "category_code": "HB",
   "name": "Champion Soap Cool Mint Multi Pack 90g",
   "short_description": "Champion Germ Fighting Soap \u2013 Cool Mint",
   "description": "Powered by 7 germ-fighting natural extracts with refreshing Mint, Champion Cool Mint Soap cleans, protects and refreshes your skin. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 4.0,
-  "category_code": "HB"
+  "price_of_unit": 600.0
 }

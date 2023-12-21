@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BV11530",
+  "category_code": "DY",
   "name": "Anchor UHT White Milk",
   "short_description": "Milk",
   "description": "Anchor liquid milk is sourced from thousands of Sri Lankan dairy farmers, bringing consumers the goodness of Sri Lankan fresh milk made to international standards. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "l",
   "unit_size": 1.0,
-  "category_code": "DY"
+  "price_of_unit": 500.0
 }

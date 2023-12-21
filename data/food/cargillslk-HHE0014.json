@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HHE0014",
+  "category_code": "HH",
   "name": "Lysol Citronella Surface Cleaner",
   "short_description": "Surface Cleaner",
   "description": "Kills 99.9% of germs and cleans tough stains. Better cleaning and protection than standard surface cleaners. Use directly or dilute for regular use. Suitable for cleaning all kinds of surfaces. Leaves a pleasant fragrance. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 500.0,
-  "category_code": "HH"
+  "price_of_unit": 400.0
 }

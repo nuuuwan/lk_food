@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS77786",
+  "category_code": "RI",
   "name": "Basmati Rice",
   "short_description": "Bulk Rice",
   "description": "Long-grain\u00a0rice\u00a0that is characterized by a light nutty flavor and floral aroma.",
   "unit_of_measure": "kg",
   "unit_size": 1.0,
-  "category_code": "RI"
+  "price_of_unit": 599.0
 }

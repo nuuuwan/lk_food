@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC37148",
+  "category_code": "HB",
   "name": "Garnier Long & Strong Conditioner",
   "short_description": "Conditioner",
   "description": "Hair is strengthened from within and shines from outsides. Helps reduce breakage and split-ends.Long and Strong Cream Conditioner can be used on all hair types.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 175.0,
-  "category_code": "HB"
+  "price_of_unit": 1650.0
 }

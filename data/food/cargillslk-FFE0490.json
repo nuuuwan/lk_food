@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FFE0490",
+  "category_code": "FF",
   "name": "Pizza Oven Chocolate Croissant, 6 pcs",
   "short_description": "Croissant",
   "description": "A Flaky buttery pastry that's filled with chocolate flavour and has a melt-in-your-mouth consistency. Although considered a pastry, it can be eaten for breakfast or enjoyed during tea breaks as well. Goes well as a side with fruit salad too. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 190.0,
-  "category_code": "FF"
+  "price_of_unit": 650.0
 }

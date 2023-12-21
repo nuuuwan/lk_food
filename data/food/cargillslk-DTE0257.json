@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DTE0257",
+  "category_code": "HB",
   "name": "Airpore Hydrocolloid Dressing, 4cmX6cm, 10`s",
   "short_description": "Hydrocolloid Foam Dressing",
   "description": "Airpore\u2122 hydrocolloid foam dressing absorbs fluids, and when this happens the physical state of the dressing changes to form a gel. They are capable of absorbing low-to-moderate amounts of exudates. Depends on presentation. *Images for illustration purpose only, Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "HB"
+  "price_of_unit": 1253.0
 }

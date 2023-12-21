@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HH42623",
+  "category_code": "HH",
   "name": "GoodKnight Liquid Vaporizer Cordless Machine with Refill, 60 Night",
   "short_description": "Insect Repellent",
   "description": "Good Knight Liquid Vaporizer Cordless Machine with Refill is an extra powerful mosquito repellent that protects you against mosquito bites all night and allows you to enjoy a cozy and comfortable sleep.*Images for illustration purpose only, Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "HH"
+  "price_of_unit": 860.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0741",
+  "category_code": "HB",
   "name": "Lux Fragrant Skin Body Wash",
   "short_description": "Body Wash",
   "description": "Lux Fragrant Skin is infused with Black Orchid scent and Juniper Oil and is inspired by the Exotic orchids & Floral oil designed to give a 12-hour lasting fragrance after shower. This product is Paraben Free and provides a luxurious floral fragrant leaving the skin soft.*Images for illustration purpose only.Product recieved may vary.",
   "unit_of_measure": "ml",
   "unit_size": 240.0,
-  "category_code": "HB"
+  "price_of_unit": 650.0
 }

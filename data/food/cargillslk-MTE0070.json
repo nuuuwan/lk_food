@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "MTE0070",
+  "category_code": "CT",
   "name": "Finest Roasted Turkey",
   "short_description": "Roasted Turkey",
   "description": "Please note that this item will be ready for delivery after two days from order placement due to the special preparation process. Therefore, we kindly request you to select your delivery date accordingly. Thank you!\r\n\r\nMinimum delivery weight 3kg\r\n\r\nMade in a wood-fire chamber using premium quality\r\ncured turkey.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "CT"
+  "price_of_unit": 15900.0
 }

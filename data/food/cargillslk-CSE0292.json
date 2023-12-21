@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CSE0292",
+  "category_code": "SS",
   "name": "Wijaya Curry Powder",
   "short_description": "Curry Powder",
   "description": "Wijaya Curry powder is produced using the highest quality ingredients such as Coriander, Cumin seeds, and fennel seeds as the major ingredient. These products are specially formulated to enhance the flavour of cooked meat, fish, vegetables etc.*Images for illustration purpose only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "SS"
+  "price_of_unit": 190.0
 }

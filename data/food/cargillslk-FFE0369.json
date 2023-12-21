@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FFE0369",
+  "category_code": "FF",
   "name": "Sam's Fish Fingers",
   "short_description": "Frozen Fish Fingers",
   "description": "Deep fry in hot oil and serve the fingers hot. These fingers are made of juicy fillets rolled in breadcrumbs and make an ideal choice for evening snacks. *Images for illustration purposes only. Product recieved may vary.",
   "unit_of_measure": "g",
   "unit_size": 500.0,
-  "category_code": "FF"
+  "price_of_unit": 1300.0
 }

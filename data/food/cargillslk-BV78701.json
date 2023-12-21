@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BV78701",
+  "category_code": "BV",
   "name": "Pfanner Apple Juice",
   "short_description": "Apple Juice",
   "description": "Juicy, freshly harvested apples are used for 1 litre of Pfanner 100% Apple Juice. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "l",
   "unit_size": 1.0,
-  "category_code": "BV"
+  "price_of_unit": 1650.0
 }

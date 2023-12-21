@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS15211",
+  "category_code": "FC",
   "name": "Shan Bombay Biriyani Mix",
   "short_description": "Bombay Biriyani Mix",
   "description": "Shan Bombay Biryani mix helps you recreate the authentic traditional taste of Bombay Biryani which is a true legacy of the sub-continental cuisine. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 60.0,
-  "category_code": "FC"
+  "price_of_unit": 675.0
 }

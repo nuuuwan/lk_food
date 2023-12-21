@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SC10783",
+  "category_code": "SC",
   "name": "Munchee Kome Rice Cracker, Onion",
   "short_description": "Rice Cracker",
   "description": "The crisp crackle of the light sugar free Kome rice cracker, baked to perfection with the subtle flavor of caramelized onions. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 90.0,
-  "category_code": "SC"
+  "price_of_unit": 200.0
 }

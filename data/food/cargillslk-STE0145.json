@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "STE0145",
+  "category_code": "ST",
   "name": "JK Copier Paper A4, 100 sheets",
   "short_description": "White A4 Papers",
   "description": "Ideal for quality photocopying. Suitable for office printers, inkjet and laserjet. Fast drying, bolder blacks, vivid colors. Crisp image formation.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "ST"
+  "price_of_unit": 500.0
 }

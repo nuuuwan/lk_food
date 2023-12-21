@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DY40943",
+  "category_code": "DY",
   "name": "Kotmale Drinking Yoghurt Woodapple",
   "short_description": "Drinking Yoghurt",
   "description": "This product is made from 100% Sri Lankan fresh, cow's milk & real strawberry. Contains Pro Biotics, suitable for vegetarians. Rs.50 cents from every 1L of fresh milk collected is contributed to a special welfare fund \"Sarubima\" focused on empowering Farmers children through education.      *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 180.0,
-  "category_code": "DY"
+  "price_of_unit": 150.0
 }

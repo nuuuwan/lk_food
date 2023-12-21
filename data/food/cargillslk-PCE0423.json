@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0423",
+  "category_code": "HB",
   "name": "Lifebuoy Hand Wash Green Tea",
   "short_description": "Hand Wash",
   "description": "Lifebuoy with active natural shield, green tea and aloe vera for germ protection in 10 seconds. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 200.0,
-  "category_code": "HB"
+  "price_of_unit": 525.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC33801",
+  "category_code": "HB",
   "name": "Godrej Expert Hair Dye Powder Black",
   "short_description": "Hair Dye",
   "description": "Godrej natural black expert powder hair colour. No ammonia, natural looking hair, colour lock formula for long lasting colour, pleasant fragrance.",
   "unit_of_measure": "g",
   "unit_size": 10.0,
-  "category_code": "HB"
+  "price_of_unit": 230.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "VGE0296",
+  "category_code": "VG",
   "name": "Rosemary",
   "short_description": "Fresh Herbs",
   "description": "Rosemary is a fragrant evergreen herb native to the Mediterranean. It is used as a culinary condiment, to make bodily perfumes, and for its potential health benefits. The herb not only tastes good in culinary dishes, such as rosemary chicken and lamb, but it is also a good source of iron, calcium, and vitamin B-6. [Source: www.medicalnewstoday.com] Disclaimer: Please note that the image is used for presentation purposes only. Actual product may slightly defer. Our team at Cargills Online takes every step to ensure to maintain the accuracy of all information displayed.",
   "unit_of_measure": "g",
   "unit_size": 30.0,
-  "category_code": "VG"
+  "price_of_unit": 35.5
 }

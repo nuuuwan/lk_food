@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DNE0276",
+  "category_code": "HB",
   "name": "Helayu Moringa Tea",
   "short_description": "Herbal Tea",
   "description": "\u2018Helayu Moringa Tea\u2019 is a herbal tea made by extracting natural herb \u2018Moringa\u2019, is a rich source of vitamins which is ideal to be consumed as a nutritional supplement. The medicinal value of this herbal tea will lower the risk of heart diseases and cancer.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 20.0,
-  "category_code": "HB"
+  "price_of_unit": 600.0
 }

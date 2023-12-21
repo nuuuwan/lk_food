@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DYE0302",
+  "category_code": "FC",
   "name": "Fondre Fat Spread",
   "short_description": "Spread",
   "description": "Fondre is a 100% vegetarian, trans-fat-free, Extra soft fat spread that includes healthy fats such as Omega 3, 6 and Vitamin A,B,D, and E. Fondre also adds a unique taste to your healthy family dishes.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 500.0,
-  "category_code": "FC"
+  "price_of_unit": 1035.0
 }

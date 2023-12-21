@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DNE0235",
+  "category_code": "HB",
   "name": "Glucon-D Instant Energy Powder, Tangy Orange",
   "short_description": "Instant Energy Powder",
   "description": "Glucon D helps to provide instant energy and contains calcium for bone health. Contains vitamin C which improves mental alertness that helps you to concentrate better while engaging in daily tasks. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 125.0,
-  "category_code": "HB"
+  "price_of_unit": 170.4
 }

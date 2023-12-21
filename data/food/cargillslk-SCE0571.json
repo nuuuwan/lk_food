@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SCE0571",
+  "category_code": "SC",
   "name": "Royal Cheese & Onion Cashew Nuts",
   "short_description": "Cashew Nuts",
   "description": "Premium Sri Lankan cashews mixed in cheese powder, sugar powder, sea salt and dry onion powder to give a spicy and delicious snack.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 250.0,
-  "category_code": "SC"
+  "price_of_unit": 3200.0
 }

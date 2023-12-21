@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HH60181",
+  "category_code": "HH",
   "name": "Flora Toilet Rolls",
   "short_description": "Toilet Roll",
   "description": "Flora toilet papepr rolls are a 2 ply, 133g , plain or embossed perforated tissue paper in a roll. Each sheet is 110 x 130mm and there are about 240 sheets per roll. Vigin Poly Wrapper. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 10.0,
-  "category_code": "HH"
+  "price_of_unit": 2625.0
 }

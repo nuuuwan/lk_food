@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "JSE0002",
+  "category_code": "FC",
   "name": "New Beginnings Peanut Butter Smooth",
   "short_description": "Peanut Butter",
   "description": "Delicious & smooth peanut butter. Peanuts are sourced from farmers in the areas around the factory for a 100% Sri Lankan made product *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 325.0,
-  "category_code": "FC"
+  "price_of_unit": 1400.0
 }

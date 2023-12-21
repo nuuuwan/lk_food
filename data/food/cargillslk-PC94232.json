@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC94232",
+  "category_code": "HB",
   "name": "Adfit Adult Diaper Pants L",
   "short_description": "Adult Diapers L",
   "description": "AdFit is an adult diaper product of the highest quality that is present to overcome the problem of urine incontinence and has been clinically tested by Dermatologists as an adult diaper that is safe for sensitive skin. Therefore, it is safe to use on any skin type. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 10.0,
-  "category_code": "HB"
+  "price_of_unit": 4170.0
 }

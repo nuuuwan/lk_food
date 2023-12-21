@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC11005",
+  "category_code": "HB",
   "name": "Khomba Original Soap",
   "short_description": "Soap Bar",
   "description": "The oil which is extracted from the Khomba/Margosa seeds has both medicinal and therapeutic properties. Margosa oil is an active ingredient of Khomba (Margosa) soap. Not only does it keep the skin healthy, but it also cleanses the body of all external impurities. Herbal beauty soap - Khomba pure, all natural soap for safety and good health. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 90.0,
-  "category_code": "HB"
+  "price_of_unit": 138.75
 }

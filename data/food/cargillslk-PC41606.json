@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC41606",
+  "category_code": "HB",
   "name": "BIC Soleil Pure 3 Women`s Triple Blade Disposable",
   "short_description": "Razor",
   "description": "The BIC Soleil Click 3 razor is true shaving innovation! It features one disposable handle and six snap-in cartridges each with three blades, a pivoting head and a Soothing Moisture Strip enriched with cocoa butter for ultimate comfort. 3 Long lasting flexible blades individually adjust to the contours of your skin.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "HB"
+  "price_of_unit": 240.0
 }

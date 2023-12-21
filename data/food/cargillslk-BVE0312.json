@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BVE0312",
+  "category_code": "TC",
   "name": "Jones Special Blend Tea",
   "short_description": "Tea",
   "description": "A premium quality Ceylon BOPF from the lush mountains of the Dimbula region. Selected carefully with the fine touch of our tea tasters to make the perfect brew.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 400.0,
-  "category_code": "TC"
+  "price_of_unit": 1020.0
 }

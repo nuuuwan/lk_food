@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC50362",
+  "category_code": "HB",
   "name": "Velvet Body Lotion, All Day Fresh",
   "short_description": "BODY LOTION",
   "description": "A body lotion designed to give you instant cooling freshness in a non-greasy formula with the goodness of the Sakura flower. This lotion has Fragrance lock Technology for long lasting fragrance to keep your skin fresh, smooth and supple throughout the day. This lotion is specially designed for Sri Lankan skin.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 225.0,
-  "category_code": "HB"
+  "price_of_unit": 700.0
 }

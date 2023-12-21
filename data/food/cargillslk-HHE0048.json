@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HHE0048",
+  "category_code": "HH",
   "name": "Sunlight Care Pearls Detergent Powder",
   "short_description": "Care Pearls Detergent Powder",
   "description": "Sunlight Care pearls soft pink detergent powder; the perfect and long lasting care for your clothes.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "kg",
   "unit_size": 1.0,
-  "category_code": "HH"
+  "price_of_unit": 620.0
 }

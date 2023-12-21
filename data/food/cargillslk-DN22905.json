@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DN22905",
+  "category_code": "HB",
   "name": "Zincovit Syrup",
   "short_description": "Multivitamin Syrup",
   "description": "Zincovit Syrup is used to treat nutritional deficiencies in diet. Zincovit syrup contains many minerals and vitamins and primarily zinc. Apart from treating the basic nutritional deficiencies, Zincovit Syrup is also used to treat weak immunity, chronic diseases such as\u00a0diabetes\u00a0, cardiovascular ailments and rheumatic arthritis. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 200.0,
-  "category_code": "HB"
+  "price_of_unit": 895.33
 }

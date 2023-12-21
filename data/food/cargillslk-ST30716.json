@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "ST30716",
+  "category_code": "ST",
   "name": "Promate Square Ruled Book,120 pages",
   "short_description": "Exercise Book",
   "description": "Square Ruled, 120 pages, 148mm X 210mm*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "ST"
+  "price_of_unit": 176.0
 }

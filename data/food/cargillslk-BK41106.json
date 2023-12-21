@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BK41106",
+  "category_code": "BK",
   "name": "Tiara Chocolate Swiss Roll",
   "short_description": "Swiss Roll Chocolate",
   "description": "Soft sponge cake roll with chocolate frosting.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 200.0,
-  "category_code": "BK"
+  "price_of_unit": 380.0
 }

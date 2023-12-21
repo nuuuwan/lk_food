@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS26636",
+  "category_code": "FC",
   "name": "Edinborough Tomato Sauce",
   "short_description": "Sauce",
   "description": "Edinborough Tomato Sauce 405g is a savory sauce used to enhance the flavor of a wide range of dishes like pasta, Spaghetti, french fries or burgers. The sauce is a popular choice for pasta dishes, stews, casseroles, and grilled meats as well. The bottle features an easy-to-use screw-top lid, which makes it convenient to pour and store. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 405.0,
-  "category_code": "FC"
+  "price_of_unit": 318.5
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DNE0215",
+  "category_code": "HB",
   "name": "Diabetasol Chocolate Tin",
   "short_description": "Nutrition Powder For Diabetic",
   "description": "For people with diabetes, having a balanced daily nutrition intake is crucial to keep blood sugar levels stable.\u00a0Diabetasol is a\u00a0Balanced Nutrition for Diabetes\u00a0with\u00a0Vitadigest\u00a0(mix of slow release carbohydrate and fiber) which is\u00a0Clinically Proven\u00a0to perform. It has a low Glycemic Index (GI) profile and keeps you feeling full for longer. Diabetasol contains High Calcium and Fiber levels, is Cholesterol Free,\u00a0and contains 11 vitamins and 6 minerals. Drink Diabetasol daily to help\u00a0maintain blood sugar levels. Diabetasol provides solutions for people with diabetes with a wide range of products including nutrition powder, sweetener safe for diabetics and daily snacks for diabetics.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 360.0,
-  "category_code": "HB"
+  "price_of_unit": 3736.0
 }

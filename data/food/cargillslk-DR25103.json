@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DR25103",
+  "category_code": "HB",
   "name": "Beam Thulasi Cough Syrup",
   "short_description": "Herbal Cough Syrup",
   "description": "An Expectorant and antispasmodic. An excellent remedy for chronic cough, bronchial asthma, and catarrh. Especially good for cough during night. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 266.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC30182",
+  "category_code": "HB",
   "name": "Sunsilk Long and Healthy Growth Shampoo",
   "short_description": "Shampoo",
   "description": "Sunsilk Long & Healthy Growth Shampoo for longer & healthy hair! Enriched with biotin, this formula nourishes hair from the roots. Enjoy Hair that is as gorgeous as you are. Sunsilk Long & Healthy Growth Shampoo, is now New Outside & wow Inside.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 180.0,
-  "category_code": "HB"
+  "price_of_unit": 600.0
 }

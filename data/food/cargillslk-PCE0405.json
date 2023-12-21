@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0405",
+  "category_code": "HB",
   "name": "Lux Skin Detox Body Wash",
   "short_description": "Body Wash",
   "description": "LUX Skin Detox\u00a0formulated with scents of freesia and infused with tea tree oil. These natural ingredients work in synergy to detoxify your skin, leaving it with a beautifully soft touch and delicately fragranced. Let the fragrance ignite your senses, and take you into a tranquil garden as you wash away the stress of everyday life.*Images for illustration purpose only. Products received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 240.0,
-  "category_code": "HB"
+  "price_of_unit": 422.5
 }

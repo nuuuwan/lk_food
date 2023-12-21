@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BP50710",
+  "category_code": "BP",
   "name": "Baby Cheramy Moisturising Soap",
   "short_description": "Baby Soap",
   "description": "This soap has moisturizing properties which are good for the skin.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 90.0,
-  "category_code": "BP"
+  "price_of_unit": 190.0
 }

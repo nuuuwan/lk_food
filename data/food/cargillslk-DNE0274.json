@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DNE0274",
+  "category_code": "HB",
   "name": "Helayu Katupila Tea",
   "short_description": "Herbal Tea",
   "description": "\u2018Helayu Katupila tea\u2019 is an ideal herbal tea produced using 100% naturally extracted \u2018Katupila\u2019 herb which is a natural antidote for healing wounds. Also, this herbal tea contains the ability to fight against cancer and is an exact treatment against discomfort in the urinary trat, menstrual disorders and seminal weaknesses.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 20.0,
-  "category_code": "HB"
+  "price_of_unit": 600.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DIE0111",
+  "category_code": "DI",
   "name": "Delish Jelly Crystals, Orange",
   "short_description": "Orange Flavoured Jelly",
   "description": "Delish Orange Jelly Powder is an easy to make orange flavoured dessert. Perfect for cooling off on a hot day, this orange flavoured jelly is low in calories.*Images for illustration purpose only, Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "DI"
+  "price_of_unit": 210.0
 }

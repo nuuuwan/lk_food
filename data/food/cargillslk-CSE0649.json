@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CSE0649",
+  "category_code": "CE",
   "name": "Mas Sambol Seasoning Cube",
   "short_description": "Seasoning Cubes",
   "description": "Introducing the Ma`s Sambol Seasoning Cube, a culinary delight that eases your cooking and brings an explosion of flavour to your dishes like never before. MA`s Kitchen Sambol seasoning cube is meticulously crafted to make delicious sambol within minutes- all without any added MSG.*Images for illustration purpose only, Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 20.0,
-  "category_code": "CE"
+  "price_of_unit": 120.0
 }

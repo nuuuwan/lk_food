@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BVE0514",
+  "category_code": "TC",
   "name": "Bogawantalawa Lemongrass Liquorice Tea",
   "short_description": "Only Branded Tea above 5000 ft. (sea-level]",
   "description": "A caffeine-free tea with a zesty combination of refreshing lemongrass and liquorice is fresh and mellow with hints of natural sweetness.*Images for illustration purpose only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 20.0,
-  "category_code": "TC"
+  "price_of_unit": 1795.63
 }

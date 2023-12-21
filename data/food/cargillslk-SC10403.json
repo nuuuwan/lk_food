@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SC10403",
+  "category_code": "SC",
   "name": "Maliban Nice Biscuits",
   "short_description": "Biscuits",
   "description": "This is a firm favourite amongst sweet lovers, young and old. It is flavoured with desiccated coconut and sprinkled over with sugar. Maliban Nice is a truly Sri Lankan biscuit that has delighted generations of biscuit fans. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 400.0,
-  "category_code": "SC"
+  "price_of_unit": 430.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FF30207",
+  "category_code": "FF",
   "name": "Krest Chicken Mini Kieves",
   "short_description": "Chicken Kieves",
   "description": "The Superior Golden Crispy Crumbs Deliver the ultimate snacking experience where with each bite you are guaranteed the delicious Krest experience.\r\n\r\nReady-to\u2013fry Formed Meat range is ideal for both snacks and meal times. Beautifully battered and crumbed with Superior Crispy Crumbs, they turn into hot, crisp, appetizing feasts in minutes.\r\n\r\n *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 240.0,
-  "category_code": "FF"
+  "price_of_unit": 733.5
 }

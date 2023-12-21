@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0038",
+  "category_code": "HB",
   "name": "Nature`s Secrets Chandi Panda Herbal Soap",
   "short_description": "Soap",
   "description": "Chandi Panda soap provides 100% nature-based protection with 10 powerful germ-fighting plant extracts and a nature-identical, advanced antimicrobial compound. It kills germs whilst softly cleaning the skin to protect your child. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 90.0,
-  "category_code": "HB"
+  "price_of_unit": 136.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DR25101",
+  "category_code": "HB",
   "name": "Valmelix Syrup",
   "short_description": "Herbal Cough Syrup",
   "description": "Morison\u2019s Valmelix has been relied upon to provide relief from coughs and sore throats for over 50 years, spreading relief and comfort for generations. The cough syrup has been specifically designed to provide quick relief from coughs and sore throats with the benefit of not having side-effects, which makes it one of the go-to medications that are recommended by anyone. One of the great features of Morison Valmelix Cough Syrup is that it is a non-sedative cough suppressant. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 380.0
 }

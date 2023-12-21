@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS20216",
+  "category_code": "FC",
   "name": "Kist Tomato Ketchup",
   "short_description": "Tomato Ketchup",
   "description": "Kist Ketchup is a version of Tomato sauce to individuals that prefer less sweetness with slightly more spiciness \u2013 especially cardamom. It can be used as a delicious dip for fried savories & French fries or as a perfect ingredient to be used in preparation of various dishes. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 375.0,
-  "category_code": "FC"
+  "price_of_unit": 520.0
 }

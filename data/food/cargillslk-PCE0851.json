@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0851",
+  "category_code": "HB",
   "name": "Vivya Brightening Facial Scrub",
   "short_description": "Facial Scrub",
   "description": "The brightening rice exfoliators naturally remove impurities, and evens the skin tone. Goodness of Heirloom rice bran in the powers of Golden Trice Technology nourishes your skin and helps to remove dead cells, while mineral clay removes pollution and impurities giving youthful, radiant fresh skin. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 975.0
 }

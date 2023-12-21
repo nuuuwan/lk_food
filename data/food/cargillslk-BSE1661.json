@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BSE1661",
+  "category_code": "ST",
   "name": "Cargills ESL Home Learning,Lets Play, Hide and seek",
   "short_description": "Educational Book",
   "description": "Characters play hide and seek in a house is the story line. Kids learn the vocabulary associated with a house. Story helps to develop imagination and problem-solving skills of the young reader by studying the way the friends are hiding and the catcher is finding them.*Images for illustration purpose only, Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "ST"
+  "price_of_unit": 315.0
 }

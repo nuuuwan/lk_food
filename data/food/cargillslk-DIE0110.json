@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DIE0110",
+  "category_code": "DI",
   "name": "Delish Jelly Crystals, Blackcurrant",
   "short_description": "Blackcurrant Flavoured\u00a0Jelly",
   "description": "Delish Black Currant Jelly has a punch of the rich Black Currant Flavour and is an easy to make Black currant flavoured dessert.*Images for illustration purpose only, Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "DI"
+  "price_of_unit": 210.0
 }

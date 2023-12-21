@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DI40126",
+  "category_code": "DI",
   "name": "MD Kheer Pudding Mix",
   "short_description": "Kheer Pudding Mix",
   "description": "Decadent, mellow pudding that has many layers of subtle flavour. The rich, creamy taste of sweetened milk is enhanced by the fragrance of cardamom and saffron. Sugar, Rice, Corn Flour, Cashew Nuts and Cardamom. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "DI"
+  "price_of_unit": 135.0
 }

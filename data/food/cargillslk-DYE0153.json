@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DYE0153",
+  "category_code": "DY",
   "name": "Babybell Cheese",
   "short_description": "Mini Cheese",
   "description": "Delicious taste of 100% real cheese. Made with 98% milk. Rich in calcium and protein. Makes a great snack the whole family will love. No added preservatives, colors or flavours. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 5.0,
-  "category_code": "DY"
+  "price_of_unit": 2400.0
 }

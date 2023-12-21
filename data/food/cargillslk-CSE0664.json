@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CSE0664",
+  "category_code": "SS",
   "name": "Mc Currie Coriander Powder",
   "short_description": "Coriander Powder",
   "description": "Finely ground coriander powder. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 120.0,
-  "category_code": "SS"
+  "price_of_unit": 240.0
 }

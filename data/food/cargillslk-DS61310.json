@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DS61310",
+  "category_code": "HB",
   "name": "Cetaphil Clensing Lotion",
   "short_description": "Soap Free Cleansing Lotion",
   "description": "Cetaphil cleansing lotion\u00a0is a non-soap and liquid free\u00a0lotion\u00a0that allows gentle and thorough\u00a0cleansing\u00a0without the irritation associated with harsh soaps and cleansers.\u00a0Cetaphil cleansing lotion\u00a0is fragrance free and non comedogenic. It has emollient properties, which leave the cleansed skin soft and supple. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 125.0,
-  "category_code": "HB"
+  "price_of_unit": 2962.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC31964",
+  "category_code": "HB",
   "name": "Revlon Colorsilk 3D Hair Color -Brown Black",
   "short_description": "Hair Dye - Brown Black",
   "description": "Revlon 3D Color Gel Technology\u2122 delivers natural-looking, multi-tonal color, giving your hair definition and dimensionality from root to tip. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 40.0,
-  "category_code": "HB"
+  "price_of_unit": 2975.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "VGE0387",
+  "category_code": "VG",
   "name": "Eramusu",
   "short_description": "Fresh Herbal Leaves",
   "description": "Eramusu is a widely used herbal plant to drink instead of tea. The roots, leaves and stem are used for many medical remedies in indigenous ayurvedic medicine. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "VG"
+  "price_of_unit": 79.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CFE0160",
+  "category_code": "CE",
   "name": "Kamer Sliced Jalapeno Peppers",
   "short_description": "Sliced Jalapeno Pepper",
   "description": "Pickled Jalape\u00f1o Peppers bring that extra hit of spice to any dish. You can add them in your sandwiches, guacamole or salsa. Add them on top of your rice or in a quick grilled cheese. Our fave is adding them to our cheeseburgers.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 340.0,
-  "category_code": "CE"
+  "price_of_unit": 1972.0
 }

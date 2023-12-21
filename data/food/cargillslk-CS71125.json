@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS71125",
+  "category_code": "CE",
   "name": "Nikado Red Raw Rice String Hopper Flour",
   "short_description": "Red Raw Rice String Hopper Flour",
   "description": "Nikado red String Hopper flour is a convenient way to prepare your String hoppers. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "kg",
   "unit_size": 1.0,
-  "category_code": "CE"
+  "price_of_unit": 350.0
 }

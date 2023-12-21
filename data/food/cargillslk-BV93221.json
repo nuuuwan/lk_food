@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BV93221",
+  "category_code": "BV",
   "name": "Elephant House Dry Ginger Ale",
   "short_description": "Ginger Ale",
   "description": "Elephant House Ginger Ale is a carbonated soft drink flavoured with ginger. It is consumed on its own or used as a mixer, often with spirit-based drinks. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 500.0,
-  "category_code": "BV"
+  "price_of_unit": 170.0
 }

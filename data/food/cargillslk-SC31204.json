@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SC31204",
+  "category_code": "SC",
   "name": "Ritzbury Pebbles Chocolate",
   "short_description": "Chocolate",
   "description": "Kids simply love these sugar coated chocolate beans. The assortment of bright colours makes it fun as you pop them into your mouth! *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 25.0,
-  "category_code": "SC"
+  "price_of_unit": 70.0
 }

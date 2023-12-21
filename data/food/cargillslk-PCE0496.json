@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0496",
+  "category_code": "HB",
   "name": "Clear Men Deep Cleanse Shampoo",
   "short_description": "Men's Shampoo",
   "description": "The CLEAR Deep Cleanse shampoo consisting of Nutrium 10, deep cleanses the scalp with its activated charcoal formula. Engineered Specifically for men. Nutrium Oil Complex. Nourishes 3 Scalp layers deep. Targets Dandruff at the source. Activated charcoal and citrus deep cleanses the scalp to remove dirt and grease. Reenergizes and deeply nourishes the scalp. Helps to increase the natural resistance against dandruff, itch and removes grease. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 180.0,
-  "category_code": "HB"
+  "price_of_unit": 810.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "MT30807",
+  "category_code": "MT",
   "name": "New Anthonys Chico Cubes",
   "short_description": "Frozen Chicken Cubes",
   "description": "New Anthony's Frozen Chicken Cubes 700g Pack. Please note that our team at Cargills Online has taken all the necessary precautions in order to deliver this item in its frozen state to your doorstep.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 700.0,
-  "category_code": "MT"
+  "price_of_unit": 1040.0
 }

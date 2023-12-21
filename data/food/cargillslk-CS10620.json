@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS10620",
+  "category_code": "FC",
   "name": "Ma's Sri Lankan Ambulthiyal Paste",
   "short_description": "Spice Blend",
   "description": "An easy to use paste made from a perfect blend of spices to create the delicious traditional flavours of ambulthiyal at home. Proudly manufactured and packed in Sri Lanka. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 50.0,
-  "category_code": "FC"
+  "price_of_unit": 240.0
 }

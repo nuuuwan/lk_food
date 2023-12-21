@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HOE0166",
+  "category_code": "CD",
   "name": "Multi function Christmas Light",
   "short_description": "Christmas Lights",
   "description": "Multi functional christmas lights set. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "CD"
+  "price_of_unit": 580.0
 }

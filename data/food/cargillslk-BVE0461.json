@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BVE0461",
+  "category_code": "TC",
   "name": "Ceylon Since 1844 Organic Spiced Black Tea",
   "short_description": "Tea",
   "description": "Ceylon since 1844 Organic Ceylon tea is grown at 1706 feet above sea level, and produces a bright infusion with a coppery tone, and is intensely full bodied whilst adding a spicy flavour through mixing with pure Ceylon spices.15 pieces of pyramid tea bags. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 15.0,
-  "category_code": "TC"
+  "price_of_unit": 870.0
 }

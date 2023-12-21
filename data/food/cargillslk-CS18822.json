@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS18822",
+  "category_code": "CE",
   "name": "Renuka Desiccated Coconut",
   "short_description": "Dessicated Coconut",
   "description": "Dehydrated coconut flakes. *Images are for illustration purpose only. Products recieved may be vary.",
   "unit_of_measure": "g",
   "unit_size": 250.0,
-  "category_code": "CE"
+  "price_of_unit": 295.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC58269",
+  "category_code": "HB",
   "name": "Nature s Secrets Papaya Cleansing Milk",
   "short_description": "Skin Cleanser",
   "description": "Enriched with natural vitamins and antioxidants of papaya fruit, this milky facial cleanser penetrates and removes deep seated impurities from pores, and helps reduce dark patches on the face caused due to sun exposure. It also removes all traces of make-up. Daily use brightens skin and leaves it radiantly healthy. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 340.0
 }

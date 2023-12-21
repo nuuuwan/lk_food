@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC42002",
+  "category_code": "HB",
   "name": "Black Knight After Shave Cool",
   "short_description": "After Shave",
   "description": "Tangy fragrance with hints of blooms and rounding off a heady, musky mix for a memorable scent whilst rehydrating and soothing your skin after a shave.\nBlack Knight Cool Blue After Shave is manufactured with the finest fragrances. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 1300.0
 }

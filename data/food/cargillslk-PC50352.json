@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC50352",
+  "category_code": "HB",
   "name": "Velvet Body Lotion, Glow Perfect",
   "short_description": "BODY LOTION",
   "description": "A body lotion designed to give an instant golden glowing skin with the goodness of saffron/curcumin extracts. It also has 360 UV Protection and BB cream effect to give you a perfect glow for a moiturized beautiful skin. This lotion is specially designed for Sri Lankan skin.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 225.0,
-  "category_code": "HB"
+  "price_of_unit": 700.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BC10398",
+  "category_code": "FC",
   "name": "Nestle Nestum Original",
   "short_description": "Multigrain Cereal",
   "description": "Nestl\u00e9 Nestum is a nutritious multi-grain wholesome family cereal that provides a great selection of wholewheat, multi-grains, rice and corn and fortified with 13 vitamins and minerals for your well-being.  You can prepare it any way you want \u2013 as a drink or porridge. Add in fresh or dry fruits to make it more nutritious and exciting! *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 250.0,
-  "category_code": "FC"
+  "price_of_unit": 1150.0
 }

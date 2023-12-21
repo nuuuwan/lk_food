@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DN46113",
+  "category_code": "HB",
   "name": "Paspanguwa",
   "short_description": "Natural Herbal Remedy For Cough, Headache",
   "description": "The paspanguwa formulation consists of five ingredients: Ginger (Zingiber officinale), Pathpadagam (Hedyotis corymbosa), Katuwalbatu (Solanum xanthocarpum), Veniwalgata (Coscinium fenestratum) and Coriander (Coriandrum sativum). In some instances other herbs such as \u2018Thippili\u2019 (Piper longum), Thai eggplant (Solanum melongena), Black pepper (Piper nigrum), Wishnukranthiya (Evolvulus alsinoides) and Pawatta (Justicia adhatoda) may also be used. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 23.0,
-  "category_code": "HB"
+  "price_of_unit": 100.0
 }

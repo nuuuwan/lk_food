@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SC10315",
+  "category_code": "SC",
   "name": "Maliban Real Bran Cracker",
   "short_description": "Biscuits",
   "description": "For those who want to keep fit while enjoying life to the fullest, Maliban Real Bran Cracker is ideal, with low energy and fat content and also high fiber. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 140.0,
-  "category_code": "SC"
+  "price_of_unit": 200.0
 }

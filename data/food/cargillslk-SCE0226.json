@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SCE0226",
+  "category_code": "SC",
   "name": "Ritzbury Chit Chat",
   "short_description": "Chocolate",
   "description": "Crispy with a unique taste, Chit Chat is a great snack when taking a break: be at home, work or on the go! It fits in your pocket and is very handy to carry. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 10.0,
-  "category_code": "SC"
+  "price_of_unit": 25.0
 }

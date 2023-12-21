@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BVE0600",
+  "category_code": "DY",
   "name": "Anchor Hot Chocolate 40g X 10 Sachets",
   "short_description": "Hot Chocolate Drink",
   "description": "Anchor Hot Chocolate, a luxurious and indulgent treat for chocolate lover: Made with high-quality Belgian cocoa and finest milk from New Zealand, this hot chocolate powder delivers a rich and creamy taste experience. Anchor Hot Chocolate is easy to prepare, simply add hot water, stir, and enjoy. Meaning you can enjoy a delicious cup of hot chocolate whenever you crave it *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 400.0,
-  "category_code": "DY"
+  "price_of_unit": 1350.0
 }

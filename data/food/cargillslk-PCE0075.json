@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0075",
+  "category_code": "HB",
   "name": "Chandanalepa Cinnamon Herbal Soap",
   "short_description": "Soap",
   "description": "Cinnamon Herbal Soap is explicitly made by mingling natural Cinnamon Bark together with highly effective Cinnamon Oil, gifting you with the inherent values of Ceylon Cinnamon that are well known globally.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 330.0
 }

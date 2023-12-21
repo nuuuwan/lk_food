@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0548",
+  "category_code": "HB",
   "name": "Bellose Silicone Hair Treatment",
   "short_description": "Silicone Oil",
   "description": "Bellose Silicone Hair Treatment, is a lightweight formula offering superior smoothness , shine and softness to your frizzy untamed hair. It prevents your hair from being greasy and sticky. The Bellose Silicone Hair Treatment does not weigh your hair down , helps undo environmental damage caused to your hair and helps to protect your hair from damages caused by UV rays. *Images for illustration purpose only, Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 50.0,
-  "category_code": "HB"
+  "price_of_unit": 690.0
 }

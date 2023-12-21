@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SCD1802",
+  "category_code": "SC",
   "name": "Rancrisp Devilled Cashew Nuts",
   "short_description": "Cashew Nuts",
   "description": "Chilli powder holds a prominent place in the Sri Lankan kitchen, unarguably the most important spice. Needless to say, chili powder and salt mixed with cashews have resulted in\u00a0the most unique, appetizing snack for all spice-lovers. Rancrisp devilled cashews are the most delectable devilled cashews. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "SC"
+  "price_of_unit": 990.0
 }

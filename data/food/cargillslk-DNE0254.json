@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DNE0254",
+  "category_code": "HB",
   "name": "Wellman Tablets",
   "short_description": "Original Vitamin developed for Men",
   "description": "Made for men, this gives you 29 nutrients including Siberian Ginseng in one daily tablet. With vitamin B6 and B12 which contribute to normal energy release. With vitamin C and D which contribute to normal immune system function. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 30.0,
-  "category_code": "HB"
+  "price_of_unit": 5500.0
 }

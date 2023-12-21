@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0063",
+  "category_code": "HB",
   "name": "Ayush Anti Pimple Turmeric Face Wash",
   "short_description": "Face Wash",
   "description": "Anti Pimple Face Wash with Turmeric - Cure skin infections & rashes. For clean & spotless fair skin. Contains goodness of Turmeric & Nalpamaradi Tailam. Turmeric (Haldi) is prescribed in Ayurveda for purification and also well known for its antiseptic and healing properties. Nalpamaradi Tailam cures skin infections & rashes, leaving your skin clear and glowing. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 80.0,
-  "category_code": "HB"
+  "price_of_unit": 1100.0
 }

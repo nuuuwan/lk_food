@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "VGE0198",
+  "category_code": "VG",
   "name": "Good Harvest Thalana Batu",
   "short_description": "SL-GAP Certified Thalana Batu",
   "description": "Our very own range of SL-GAP (SL- Good Agricultural Practices) Certified Vegetables and Fruits. Reduces cholesterol and sugar levels in the blood, can be used to treat cough and asthma. Diuretic. Improves heart and liver function. Aids digestion. Contains - Vitamin: A, E, C, Niacin\nMinerals: Calcium, Phosphorous, Iron. Disclaimer: Please note that the image is used for presentation purposes only. Actual product may slightly defer. Our team at Cargills Online takes every step to ensure to maintain the accuracy of all information displayed. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 350.0,
-  "category_code": "VG"
+  "price_of_unit": 243.0
 }

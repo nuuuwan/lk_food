@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BV90807",
+  "category_code": "BV",
   "name": "7 Up",
   "short_description": "Soft Drink",
   "description": "7UP is a lemon-lime-flavoured non-caffeinated soft drink. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "l",
   "unit_size": 1.5,
-  "category_code": "BV"
+  "price_of_unit": 350.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DT60914",
+  "category_code": "HB",
   "name": "Hydrogen Peroxide",
   "short_description": "Surgical applications",
   "description": "Hydrogen peroxide is another antiseptic, or disinfectant, that kills viruses and various forms of bacteria. But it needs more time than rubbing alcohol does to kill germs. It needs up to 5 minutes to do its job.*Images for illustration purpose only, Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 60.0,
-  "category_code": "HB"
+  "price_of_unit": 150.0
 }

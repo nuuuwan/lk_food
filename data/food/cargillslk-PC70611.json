@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC70611",
+  "category_code": "HB",
   "name": "Goya Cologne Jasmine",
   "short_description": "Cologne",
   "description": "Soothing fragrance of the Mesmerizing Jasmine to fill your day with sweet freshness of a morning. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 50.0,
-  "category_code": "HB"
+  "price_of_unit": 792.0
 }

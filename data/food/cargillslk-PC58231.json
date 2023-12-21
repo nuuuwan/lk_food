@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC58231",
+  "category_code": "HB",
   "name": "Nature`s Secrets Sunscreen (SPF 20 )",
   "short_description": "Sun Screen",
   "description": "Sun and Fun is an effective broad-spectrum sunscreen with SPF 25 & PA    values clinically tested and certified in USA. It shields the skin against harmful UVB rays which cause sunburn, and further protects against UVA rays which cause premature skin ageing, wrinkles and loss of elasticity. The sunscreen is further enriched with the natural goodness of  virgin coconut oil, bee\u2019s Wax and vitamin E to moisturise and nourish for smooth, firm skin. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 80.0,
-  "category_code": "HB"
+  "price_of_unit": 935.0
 }

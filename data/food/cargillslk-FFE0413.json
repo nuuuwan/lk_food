@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FFE0413",
+  "category_code": "FF",
   "name": "Prima Sunrise Naan Roti",
   "short_description": "Frozen Rotti",
   "description": "The ready-to-eat frozen plain naan rotti prepared with the finest ingredients. It is a must-try product of the microwaveable, frozen food and bread range to spice things up. *Images are for illustration purpose only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 475.0,
-  "category_code": "FF"
+  "price_of_unit": 700.0
 }

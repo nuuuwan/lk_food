@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DSE0084",
+  "category_code": "HB",
   "name": "Heal and Joy Head Massage Oil",
   "short_description": "Massage Oil",
   "description": "100ml Head massage oil.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 450.0
 }

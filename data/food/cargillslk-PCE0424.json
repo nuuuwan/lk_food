@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0424",
+  "category_code": "HB",
   "name": "Lifebuoy Handwash Charcoal and Mint",
   "short_description": "Lifebuoy Handwash",
   "description": "World's number 1 selling germ protection soap. Lifebuoy with active natural shield, charcoal and mint for germ protection in 10 seconds. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 200.0,
-  "category_code": "HB"
+  "price_of_unit": 393.75
 }

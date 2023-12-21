@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BPE0294",
+  "category_code": "BP",
   "name": "Marvel Baby Diaper New Born",
   "short_description": "Diaper Pants",
   "description": "Your cute one could now get an uninterrupted 12-hour sleep with Marvel Baby Diapers. Marvel Baby Diapers are made with ultra-absorbent layers, extra leakage protection and wetness indicators.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 16.0,
-  "category_code": "BP"
+  "price_of_unit": 840.0
 }

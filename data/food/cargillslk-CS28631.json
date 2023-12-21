@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS28631",
+  "category_code": "FC",
   "name": "Dad's Garden Lemon Mustard Sauce",
   "short_description": "Lemon Mustard Sauce",
   "description": "The perfect pairing with hams, roasts and rolls. Versatile in a variety of sandwich fillings or topped on shorteats. Proudly manufactured and packed in Sri Lanka. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 260.0,
-  "category_code": "FC"
+  "price_of_unit": 630.0
 }

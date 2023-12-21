@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS63102",
+  "category_code": "CE",
   "name": "Kist Coconut Vinegar",
   "short_description": "Coconut VInegar",
   "description": "The islands best coconuts treated in the age old tradition and turned to vinegar for all those yummy local preparations such as pickles and marinations. This adds flavor to vegetable and meat products. It is one of the ingredients used for salad dressings and sauces. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 750.0,
-  "category_code": "CE"
+  "price_of_unit": 350.0
 }

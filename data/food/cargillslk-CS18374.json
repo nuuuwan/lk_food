@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS18374",
+  "category_code": "SS",
   "name": "My Choice Fennel Seeds",
   "short_description": "Fennel Seeds",
   "description": "These are the dried seeds of the fennel plant. They have a distinct anise-like flavor and smell which is fully released after dry toasting them to release their oil. Being an aromatic and enticing seed with culinary and medicinal importance, fennel seeds are used for garnishing salad and as a mouth freshener *Images for illustration purpose only, Product recieved may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "SS"
+  "price_of_unit": 340.0
 }

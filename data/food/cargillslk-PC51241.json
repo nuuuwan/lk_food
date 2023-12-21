@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC51241",
+  "category_code": "HB",
   "name": "Vaseline Total Moisture Nourishing Body Lotion",
   "short_description": "Body Lotion",
   "description": "Every day, your skin is exposed to damaging environmental factors like extreme temperatures, low humidity, harsh cleansers, and hot water. Vaseline Intensive care Deep Restore Body Lotion is designed to penetrate the outermost layer of the skin to help heal dry skin for long periods of time, not just to provide temporary, superficial relief. Vaseline Intensive Care Deep Restore Body Lotion delivers fast absorbing moisture to give you deeply moisturized, healthy skin. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 400.0
 }

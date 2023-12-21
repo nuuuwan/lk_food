@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0603",
+  "category_code": "HB",
   "name": "Vaseline Advanced Repair Body Lotion",
   "short_description": "Body Lotion",
   "description": "When we've got soft, supple skin that really glows, we feel healthy.  But what happens when we develop dry skin? Dehydrated skin can be sore and uncomfortable, not to mention something that could make people feel self-conscious about their appearance.  Vaseline Intenstive Care Advanced Repair relieves dryness from the first application with faster moisturization for visibly reduced dry skin *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 400.0,
-  "category_code": "HB"
+  "price_of_unit": 3375.0
 }

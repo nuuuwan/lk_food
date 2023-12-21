@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DAE0011",
+  "category_code": "HB",
   "name": "Posa Vet Flea Tick Guard Powder",
   "short_description": "Tick Guard Powder",
   "description": "Fleatick guard powder will get rid of Ticks and Fleas on dogs and cats.Contains -Eucalyptus and Cinnamon oil.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 70.0,
-  "category_code": "HB"
+  "price_of_unit": 625.0
 }

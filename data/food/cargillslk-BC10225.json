@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BC10225",
+  "category_code": "FC",
   "name": "Oateo Oat Flour",
   "short_description": "Oat Flour",
   "description": "Versatile and healthy, OATEO\u2019s Whole grain Oat flour is an expert in enhancing immunity and stabilizing blood sugar levels. You can try out a wide range of recipes and give your family melt-in-the-mouth cookies, the softest bread loaves, crunchy cutlets and lots more.*Images for illustration purposes only.Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 500.0,
-  "category_code": "FC"
+  "price_of_unit": 590.0
 }

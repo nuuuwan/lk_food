@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC11012",
+  "category_code": "HB",
   "name": "Khomba Body Wash, Lemongrass",
   "short_description": "Body Wash",
   "description": "Contains Kohomba, nature\u2019s miracle ingredient, with Lemongrass to bring you a refreshing herbal shower experience.*Images for illustration purpose only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 250.0,
-  "category_code": "HB"
+  "price_of_unit": 650.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": null,
+  "category_code": null,
   "name": "Value cannot be null.\r\nParameter name: source",
   "short_description": null,
   "description": null,
   "unit_of_measure": null,
   "unit_size": null,
-  "category_code": null
+  "price_of_unit": null
 }

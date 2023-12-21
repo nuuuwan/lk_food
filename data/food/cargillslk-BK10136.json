@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BK10136",
+  "category_code": "FF",
   "name": "Panaderia Arabic Breads (Pack of 4)",
   "short_description": "Arabic Bread",
   "description": "Soft and fluffy arabic bread. Similar to Pita bread. Disclaimer: Please note that our team at Cargills Online have take all necessary measures to deliver this product frozen to the customer. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "FF"
+  "price_of_unit": 500.0
 }

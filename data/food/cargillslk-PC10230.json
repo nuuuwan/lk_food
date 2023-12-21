@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC10230",
+  "category_code": "HB",
   "name": "Chandanalepa Beauty Soap",
   "short_description": "Soap Bar",
   "description": "Chandanalepa Ayurvedic Herbal Soap is produced with all-natural herbal extracts to add nutrition to the skin and boost immunity against infectious disease. It contains no harmful toxins or chemicals. Reverting to the age old ayurvedic products that gave Sri Lankan royal princesses a unique translucent beauty, Chandanalepa Ayurveda Herbal Soap uses a combination of Sandalwood, Suwanda Kottan, Lothsumbulu, Kasthurika, Weniwel, Velmi and Savandara, all of which have proven medicinal properties for beautiful youthful skin. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 330.0
 }

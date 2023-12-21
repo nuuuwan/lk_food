@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BVE0408",
+  "category_code": "BV",
   "name": "Kist Ride Red Berry Caffeinated Beverage",
   "short_description": "Energy Drink",
   "description": "Kist Ride is an alcohol free red berry flavoured, caffeinated beverage. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 250.0,
-  "category_code": "BV"
+  "price_of_unit": 350.0
 }

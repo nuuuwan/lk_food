@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DY35416",
+  "category_code": "DY",
   "name": "Ambewela Gouda Garlic Ball Cheese",
   "short_description": "Gouda Cheese",
   "description": "Typically made from cow's milk, this semi-hard\u00a0cheese\u00a0is characterized by its aromatic and caramel-like flavour combined with its dense and springy texture. Hints of nuts with sweet and creamy notes embrace your palate in a graceful sensation.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 250.0,
-  "category_code": "DY"
+  "price_of_unit": 1350.0
 }

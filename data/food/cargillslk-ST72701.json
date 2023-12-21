@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "ST72701",
+  "category_code": "ST",
   "name": "Nataraj Full Size Colour Pencils,(Pack of 12 shades)",
   "short_description": "Colour Pencils",
   "description": "Brilliant colours with good colour mixing quality. Strong lead resists breakage. Attractive packaging.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "ST"
+  "price_of_unit": 550.0
 }

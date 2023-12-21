@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC53786",
+  "category_code": "HB",
   "name": "Janet Peppermint Face Wash",
   "short_description": "Face wash",
   "description": "Pimples out face wash is a Fast-acting treatment for Acne & Pimples.It Effectively controls & soothes Acne, Rashes & problematic skin conditions without excessive dryness. It's suitable for those with oily, pimple prone skin. Ingredients are Peppermint, Clove, Eucalyptus and Camphor.*Images for illustration purpose only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 150.0,
-  "category_code": "HB"
+  "price_of_unit": 995.0
 }

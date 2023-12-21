@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FFE0208",
+  "category_code": "FF",
   "name": "Premero Garlic Bread",
   "short_description": "Garlic Bread",
   "description": "Drenched in butter, garlic and other herb. Generally served along with pasta and other main courses.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 200.0,
-  "category_code": "FF"
+  "price_of_unit": 545.0
 }

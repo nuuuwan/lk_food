@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FFE0349",
+  "category_code": "SF",
   "name": "Fresh Harvest Tuna Cubes",
   "short_description": "Frozen Tuna Cubes",
   "description": "Fully cleaned, cut and ready to cook Tuna Cubes. Please note that our team at Cargills Online has taken all the necessary precautions in order to deliver this item in its frozen state to your doorstep. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 500.0,
-  "category_code": "SF"
+  "price_of_unit": 3150.0
 }

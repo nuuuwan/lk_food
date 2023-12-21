@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DI30628",
+  "category_code": "DI",
   "name": "MD Kithul Treacle",
   "short_description": "Kithul Treacle",
   "description": "Also called Kithul honey and has a unique taste and aroma. As an all-natural, chemical-free product with no additives or preservatives, treacle is a healthy alternative to granular sugar. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 350.0,
-  "category_code": "DI"
+  "price_of_unit": 495.0
 }

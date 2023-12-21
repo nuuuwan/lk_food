@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS70601",
+  "category_code": "CE",
   "name": "Harischandra Ulundu Flour",
   "short_description": "Ulundu Flour",
   "description": "Harischandra Ulundu Flour is a great source of vegetable protein, along with a host of vitamins and minerals. Mostly used for South Indian cuisine such as dosas and wades. This Ulundu Flour can also be added onto regular flour mixes when preparing other savoury dishes, or substituted as a whole to increase the nutritive value of your dish.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 200.0,
-  "category_code": "CE"
+  "price_of_unit": 400.0
 }

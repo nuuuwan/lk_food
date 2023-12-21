@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC30133",
+  "category_code": "HB",
   "name": "Sunsilk Damage Restore Shampoo",
   "short_description": "Shampoo",
   "description": "Sunsilk Damage Restore Shampoo, to repair the signs of damage from the first wash! Ready for new experiences? This exclusive formula with Max Calcium and Keratin, removes accumulated residues to prepare your hair for the next adventure. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 180.0,
-  "category_code": "HB"
+  "price_of_unit": 600.0
 }

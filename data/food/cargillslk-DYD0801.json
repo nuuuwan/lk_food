@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DYD0801",
+  "category_code": "DY",
   "name": "Highland Processed Cheese",
   "short_description": "Processed Cheese",
   "description": "This processed cheese has a rich and distinct flavour. It\u2019s a delicious snack with crackers or you can melt it on your favourite burger or vegetables. The possibilities are endless! *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 200.0,
-  "category_code": "DY"
+  "price_of_unit": 750.0
 }

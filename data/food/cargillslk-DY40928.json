@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DY40928",
+  "category_code": "DY",
   "name": "Newdale Set Yoghurt Multi Pack 80 g",
   "short_description": "Set Yoghurt - Multipack",
   "description": "Newdale Set Yoghurt is a wonderful and healthy snack for both children and adults. Furthermore, it is high in Vitamin A, Probiotics and Zinc, all which aid the immune system and gut health. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 8.0,
-  "category_code": "DY"
+  "price_of_unit": 560.0
 }

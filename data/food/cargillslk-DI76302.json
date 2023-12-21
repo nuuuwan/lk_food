@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DI76302",
+  "category_code": "DI",
   "name": "Dumbara Kithul Juggery",
   "short_description": "Kithul Juggery",
   "description": "Kitul jaggery is typically made from cane or palm sugar. It is a healthy alternative to sugar. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 250.0,
-  "category_code": "DI"
+  "price_of_unit": 1110.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SC10343",
+  "category_code": "SC",
   "name": "Maliban Lemon Puff",
   "short_description": "Biscuits",
   "description": "The timeless Maliban Lemon Puff has enjoyed the status of tea and snack time staple in Sri Lanka for generations. This classic which comes in the form of two soft flaky biscuits, joined by a sweet and sour punch of real lemon cream has delighted and fulfilled Sri Lankans of all ages with its iconic taste. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 400.0,
-  "category_code": "SC"
+  "price_of_unit": 540.0
 }

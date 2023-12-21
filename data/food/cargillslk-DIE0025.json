@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DIE0025",
+  "category_code": "DI",
   "name": "Absolute Organic Maple Syrup",
   "short_description": "Maple Syrup",
   "description": "Rich in nutrients such as manganese, zinc, thiamine & calcium. A well acclaimed natural sweetener. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 250.0,
-  "category_code": "DI"
+  "price_of_unit": 6200.0
 }

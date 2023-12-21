@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DI70101",
+  "category_code": "DI",
   "name": "Motha Baking Powder",
   "short_description": "Baking Powder",
   "description": "An essential leavening (rising agent) ingredient in doughs and batters, giving breads, cakes and other baked goods their soft, sponge-like textures. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "DI"
+  "price_of_unit": 342.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CSE0538",
+  "category_code": "CE",
   "name": "Ceylon Since 1844 Organic Coconut Cream",
   "short_description": "Coconut Cream",
   "description": "Organic,Premium Quality,Authentic,Traditional,Adulteration free,No added preservatives ,No Artificial Colour or Flavor,Ideal for healthy life*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 400.0,
-  "category_code": "CE"
+  "price_of_unit": 520.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0563",
+  "category_code": "HB",
   "name": "Glow & Lovely Ayurvedic Care Face Cream",
   "short_description": "Face Cream",
   "description": "Glow & Lovely Ayurvedic Care cream is infused with 16 expert ayurvedic ingredients which gives you a\u00a0natural glow\u00a0everyday. Best effects obtained on regular usage. Suitable for all skin types but not advised for application on broken or\u00a0inflamed skin. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 50.0,
-  "category_code": "HB"
+  "price_of_unit": 1155.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BKE0097",
+  "category_code": "CT",
   "name": "Panaderia Christmas Cake Pieces (Red)",
   "short_description": "Christmas Cake",
   "description": "Individually wrapped Christmas cake pieces in box.Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 6.0,
-  "category_code": "CT"
+  "price_of_unit": 2600.0
 }

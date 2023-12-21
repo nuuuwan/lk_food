@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0834",
+  "category_code": "HB",
   "name": "Sunsilk Soft & Smooth Conditioner",
   "short_description": "Conditioner",
   "description": "Sunsilk Nourishing Soft & Smooth Conditioner ensures hair retains its natural softness. Its unique blend of 5 natural oils and revolutionary conditioner technology act as softening and shaping agents to keep hair manageable. For silky, smooth hair from the first wash.*Images are illustration purpose only. Product recieved may vary.",
   "unit_of_measure": "l",
   "unit_size": 1.0,
-  "category_code": "HB"
+  "price_of_unit": 1900.0
 }

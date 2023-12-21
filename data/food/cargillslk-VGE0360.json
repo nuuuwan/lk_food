@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "VGE0360",
+  "category_code": "VG",
   "name": "Grow Eden Rainbow Swiss Chard",
   "short_description": "Rainbow Swiss Chard",
   "description": "Rainbow Swiss chard is a variety of wrinkled, slightly savoyed rich green and bronze leaves and bright colored stems.The leaves are succulent and tender when young, the stems, fibrous and sometimes a bit bitter.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 150.0,
-  "category_code": "VG"
+  "price_of_unit": 400.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DTE0144",
+  "category_code": "HB",
   "name": "Safe Guard Disposable Masks Coloured",
   "short_description": "Face Masks - Coloured",
   "description": "Safe Guard 3Ply disposable colored medical face masks with the assurance of NMRA certification will filter dust, particles through 3 layers and keep you protected from viruses, germs and bacteria with a 95% efficiency.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 10.0,
-  "category_code": "HB"
+  "price_of_unit": 200.0
 }

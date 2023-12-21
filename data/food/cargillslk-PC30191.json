@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC30191",
+  "category_code": "HB",
   "name": "Sunsilk Smooth and Nourish Shampoo Almond & Honey",
   "short_description": "Sunsilk Shampoo",
   "description": "Do you feel your hair is coarse, unlively, and dull because of the heat and UV from the sun ?  Our exclusive formula infused with almond and honey, will protect your hair with the nourishment of honey and almond giving hair an amazing softness. Contains Honey which has nourishing properties and almond oil well known to give shine and a soft sensation to hair. Enjoy soft and smooth hair all day long! *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 180.0,
-  "category_code": "HB"
+  "price_of_unit": 785.0
 }

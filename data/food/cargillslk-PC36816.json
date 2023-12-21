@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC36816",
+  "category_code": "HB",
   "name": "Kumarika Thick & Strong Shampoo",
   "short_description": "Shampoo",
   "description": "earning for thicker and stronger hair? Long, thick and stronger hair is a visible sign of vitality and youthfulness. With 100% natural extracts of Green Almond Oil and active Fruit Vitamins, Kumarika Thick & Strong Shampoo & Conditioner nourishes your hair every time you shampoo giving you a visibly fuller, thicker and stronger hair. The Green Almond Oil is full of essential minerals and nutrients that are critical for your hair\u2019s health while the Fruit Vitamins includes Vitamins A, C and E to nourish your hair. The Kumarika Thick & Strong Shampoo formulation has been tested and is proven to give results of 5X thicker* hair. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 180.0,
-  "category_code": "HB"
+  "price_of_unit": 650.0
 }

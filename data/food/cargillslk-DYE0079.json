@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DYE0079",
+  "category_code": "DY",
   "name": "Hotos Original Feta Cheese",
   "short_description": "Feta Cheese",
   "description": "Made exclusively of 100% fresh pasteurized Greek sheep's and goat's milk. It has a pleasant taste, slightly sour, not very salty and has a rich aroma. The texture is hard, solid and does not crumble. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 200.0,
-  "category_code": "DY"
+  "price_of_unit": 3230.0
 }

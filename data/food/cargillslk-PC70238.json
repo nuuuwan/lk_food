@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC70238",
+  "category_code": "HB",
   "name": "Black Knight Dark Knight Cologne Spray",
   "short_description": "Cologne",
   "description": "Spicy and bold, this fragrance combines spices for a unique scent that lingers. Manufactured with the finest fragrances, Black Knight Dark Knight Vaporisateur is guaranteed to grab attention. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 1500.0
 }

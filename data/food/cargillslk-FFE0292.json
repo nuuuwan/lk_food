@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FFE0292",
+  "category_code": "MT",
   "name": "Goldi Jumbo Chicken Sausages",
   "short_description": "Chicken Sausages",
   "description": "Contains real chicken & is suited best  for budget conscious customers . Ideal for small Hotels as well as it is   good quality product which is  value for money  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 330.0,
-  "category_code": "MT"
+  "price_of_unit": 520.0
 }

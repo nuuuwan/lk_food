@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PS13641",
+  "category_code": "FC",
   "name": "Alli Special Dry Noodles",
   "short_description": "Noodles",
   "description": "A simple noodle produced with basic ingredients. However, a three step production process is involved to ensure the texture and strand of noodle after boiling is kept at its highest quality.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 400.0,
-  "category_code": "FC"
+  "price_of_unit": 238.0
 }

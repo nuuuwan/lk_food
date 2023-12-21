@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BP50949",
+  "category_code": "BP",
   "name": "Pears Baby Cologne Active Floral",
   "short_description": "Pears Baby Cologne",
   "description": "Pears Active Floral cologne to keep your babies skin refreshed and for an irresistible baby fragrance *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "BP"
+  "price_of_unit": 575.0
 }

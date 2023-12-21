@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0871",
+  "category_code": "HB",
   "name": "Prasara Exfoliating & Cleansing Soap",
   "short_description": "Body Soap",
   "description": "Prasara cleansing soap made by the extracts inspired by Hela osu, enriched with goodness of Venival and Machaadi which purifies, refreshes & nourishes your skin. Suitable for all skin types. *Images for illustration purpose only, product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 191.25
 }

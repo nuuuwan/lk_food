@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BV61162",
+  "category_code": "BV",
   "name": "Sunquick Pink Guava and Strawberry Concentrate",
   "short_description": "Sunquick Guava & Strawberry 840ml",
   "description": "Sunquick Guava & Strawberry is made from real fruit juice and provide Vitamin C. Sunquick jumbo bottle contains 840ml concentrate to make 40 glasses of delicious fruit drinks.  Sunquick is a high quality fruit drink with a refreshing and unique fruit taste. Each bottle of concentrate gives you 40 glasses of delicious fruit drink, making Sunquick perfect for sharing with family and friends. Sunquick is not containing Any artificial colorings, artificial sweeteners or artificial flavorings *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 700.0,
-  "category_code": "BV"
+  "price_of_unit": 1400.0
 }

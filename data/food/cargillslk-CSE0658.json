@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CSE0658",
+  "category_code": "CE",
   "name": "Coopoliva Olive pomace Oil",
   "short_description": "Olive Oil",
   "description": "Coopoliva Olive pomace Oil is an ideal oil for frying, roasting, baking, and more. Experience unmatched taste and quality. *Images for illustration purpose only, Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 500.0,
-  "category_code": "CE"
+  "price_of_unit": 2850.0
 }

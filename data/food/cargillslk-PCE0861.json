@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0861",
+  "category_code": "HB",
   "name": "Romantra Perfume cologne Spray L`amour",
   "short_description": "Perfume Cologne Spray",
   "description": "A very unique, noble and pure fragrance for both  men and women. Contains the scent of flowers,  spices and warm wood which promotes a harmonious and romantic feel. A charismatic  fragrance of achievement and ideal for a daily  wear.*Images for illustration purpose only, Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 1791.0
 }

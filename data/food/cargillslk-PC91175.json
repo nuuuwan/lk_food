@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC91175",
+  "category_code": "HB",
   "name": "Whisper Ultra Clean XL plus",
   "short_description": "Sanitary Napkin",
   "description": "Whisper Ultra Clean has you covered, so you can get on with the things you love without having to worry about your protection. Whisper sanitary pads with wings is designed especially for heavy periods, these pads provide 5x better protection and are 40% longer for extra coverage. Ultra pads absorb liquid in seconds, it's Dri-Weave cover provides soft & dry protection.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 7.0,
-  "category_code": "HB"
+  "price_of_unit": 330.0
 }

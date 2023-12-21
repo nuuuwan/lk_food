@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS30116",
+  "category_code": "FC",
   "name": "MD Date & Lime Chutney",
   "short_description": "Date & Lime Chutney",
   "description": "MD Date & Lime Chutney is made  out of fresh and natural vegetables, and no artificial colours or preservatives added . *Images for illustration purpose only. Products received may vary.",
   "unit_of_measure": "g",
   "unit_size": 450.0,
-  "category_code": "FC"
+  "price_of_unit": 637.5
 }

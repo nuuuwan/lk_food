@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DAE0016",
+  "category_code": "PP",
   "name": "Vetzyme B E Tablets",
   "short_description": "Health and Wellness Tablet for Dogs",
   "description": "Vetzyme B plus E Tablets have been specifically formulated to help promote activity and all round good health, important for any dog, in particular for working breeds.It combines the goodness of B-complex vitamins together with vitamin E, selenium and zinc. As B complex vitamins are water soluble they cannot be stored in the body to a great extent. Vetzyme B plus E tablets are an ideal way of boosting your dog\u2019s supply of these important vitamins throughout the day. B-complex will help release energy to the muscles, promote a shiny healthy coat and skin, guard against nervousness, and promote fitness and vitality. Vitamin E will help maintain a healthy heart and circulation, maintain a healthy immune system, and maintain energy levels. Selenium and zinc will help promote healthy growth, and develop good muscle tone. Vitamin E and selenium are also important factors for the maintenance of breeding potential. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 200.0,
-  "category_code": "PP"
+  "price_of_unit": 4582.0
 }

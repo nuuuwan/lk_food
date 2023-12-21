@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HH54601",
+  "category_code": "HH",
   "name": "Macsons Naphthalene Balls",
   "short_description": "Naphthalene Balls",
   "description": "Naphtalene balls or Mothballs are small balls of chemical pesticide and deodorant, sometimes used when storing clothing and other articles susceptible to damage from mold or moth larvae *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "HH"
+  "price_of_unit": 190.0
 }

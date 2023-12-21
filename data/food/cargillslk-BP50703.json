@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BP50703",
+  "category_code": "BP",
   "name": "Baby Cheramy Regular Baby Soap Multi Pack 75 g",
   "short_description": "Baby Soap",
   "description": "Baby Cheramy baby soap is gentle on the skin with many natural ingredients. This soap contains almond oil, vitamin E and milk to gently cleanse and moisturize the skin.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 5.0,
-  "category_code": "BP"
+  "price_of_unit": 612.0
 }

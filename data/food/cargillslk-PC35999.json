@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC35999",
+  "category_code": "HB",
   "name": "Dove Oxygen Moisture Conditioner",
   "short_description": "Dove Conditioner",
   "description": "Breathes life into fine, flat hair .The new Dove oxygen moisture conditioner is here to add the difference to your hair. Dove oxygen moisture conditioner gives flat hair up to 95 percent more volume and fullness. Formulated with oxyfusion technology to breathe life into flat, fine hair. Strengthening conditioner nourishes without weighing hair down. Gives limp hair visible fullness and natural bounce. Unlock your potential for beautiful hair. Volumizing conditioner suitable for daily use. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 180.0,
-  "category_code": "HB"
+  "price_of_unit": 800.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC20183",
+  "category_code": "HB",
   "name": "Signal Herbal Toothpaste",
   "short_description": "Toothpaste",
   "description": "Signal Herbal with Clove & Munamal shell helps for strong teeth and healthy gums. Enriched with herbal properties to provide protection against cavities and plaque. Recommended for daily use due to its clinically proven advantages. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 160.0,
-  "category_code": "HB"
+  "price_of_unit": 285.0
 }

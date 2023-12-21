@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CSE0362",
+  "category_code": "FC",
   "name": "Dads Garden Steak & Grill Sauce",
   "short_description": "Steak & Grill Sauce",
   "description": "This original Steak Sauce delivers bold flavours to your favourite dishes.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 260.0,
-  "category_code": "FC"
+  "price_of_unit": 670.0
 }

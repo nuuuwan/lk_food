@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HH55511",
+  "category_code": "HH",
   "name": "My Choice Jasmine Air Freshener Spray",
   "short_description": "Air Freshner",
   "description": "My choice Air freshener Jasmine Fragrance - contains the delightful fragrance of a thousand jasmine flowers. This air freshener very quickly eliminates any interior odours. This vaporizing solution is a strong deodourizer, thereby relieving the bad odors and providing a more comfortable environment. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 475.0,
-  "category_code": "HH"
+  "price_of_unit": 550.0
 }

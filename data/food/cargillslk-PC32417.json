@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC32417",
+  "category_code": "HB",
   "name": "Dreamron Shampoo",
   "short_description": "Shampoo",
   "description": "Dreamron shampoo gives you clean, healthy hair while nourishing the scalp and preserving its natural balance. Active ingredients Vitamin E & B5 deep penetrate from root to tip, leaving your hair gorgeously glossy.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 700.0,
-  "category_code": "HB"
+  "price_of_unit": 1620.0
 }

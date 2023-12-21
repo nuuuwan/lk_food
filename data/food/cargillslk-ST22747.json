@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "ST22747",
+  "category_code": "ST",
   "name": "Rotomac Ballpoint Pen - Blue, Black, Red (Pack of 3)",
   "short_description": "Ballpoint Pens",
   "description": "Pack of 3 Ballpoint Pens, Blue, Black and Red Colour.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "ST"
+  "price_of_unit": 75.0
 }

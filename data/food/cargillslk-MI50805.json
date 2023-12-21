@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "MI50805",
+  "category_code": "HH",
   "name": "Panasonic Zinc Carbon Battery AA-4, 1.5V",
   "short_description": "Battery",
   "description": "Panasonic Zinc Carbon batteries are equipped with Anti-Leak protection. This protects devices from damage due to battery rupture and leakage.0% 0% Mercury, Lead and Cadmium added. Ideal for remote controls for television, clocks, smoke detectors and torches. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 4.0,
-  "category_code": "HH"
+  "price_of_unit": 600.0
 }

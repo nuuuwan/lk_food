@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BPE0189",
+  "category_code": "BP",
   "name": "Munchee Baby Rusks, Banana",
   "short_description": "Baby Rusks",
   "description": "Nutritional food given to young children. This can be prepared by mixing the rusk with milk or water. It is designed to encourage a child's chewing and biting.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "BP"
+  "price_of_unit": 430.0
 }

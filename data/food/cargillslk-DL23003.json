@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DL23003",
+  "category_code": "HB",
   "name": "Panadol Liquid",
   "short_description": "Effective Pain Relief",
   "description": "For effective, temporary relief from fever and pain associated with: Teething, Earache, Headache, Immunization, Cold & Flu symptoms. Gently Soothes Pain. Lowers temperature. Sugar free. For children from 2 years to 12 years. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 370.0
 }

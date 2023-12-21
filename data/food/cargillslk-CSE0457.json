@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CSE0457",
+  "category_code": "CE",
   "name": "Freelan White Rice String Hopper Flour",
   "short_description": "String Hopper Flour",
   "description": "White Raw Rice string hopper flour.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "kg",
   "unit_size": 1.0,
-  "category_code": "CE"
+  "price_of_unit": 325.0
 }

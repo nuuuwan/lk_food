@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BV30913",
+  "category_code": "BV",
   "name": "Nestle Coffeemate Pouch",
   "short_description": "Coffee Creamer",
   "description": "Coffee-mate creamer will help make your cup of coffee, even richer, smoother, and creamier. This creamer is the ideal substitute for milk, which is easy to store or carry along. The Original Rich And Deliciously Creamy Non-Dairy Creamer. Coffee-Mate Is Perfect Anytime You Want To Enjoy A Velvety-Smooth Cup Of Coffee. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 450.0,
-  "category_code": "BV"
+  "price_of_unit": 1750.0
 }

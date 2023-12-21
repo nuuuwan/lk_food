@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BK42601",
+  "category_code": "BK",
   "name": "Finagle Swiss Roll Chocolate",
   "short_description": "Swiss Roll",
   "description": "Chocolate Swiss Roll - a delicious layer of chocolate flavoured sponge cake baked just right, then coated with icing and rolled into a cylinder. It is the perfect evening snack, especially when you have visitors.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 225.0,
-  "category_code": "BK"
+  "price_of_unit": 615.0
 }

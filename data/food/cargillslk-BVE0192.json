@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BVE0192",
+  "category_code": "BV",
   "name": "Kist Kizz Orange",
   "short_description": "Sparkling Drink",
   "description": "A perfect combination of Fruit & Fizz. Extremely refreshing on a hot day. No artifical colours or flavours added and is a great refreshing treat. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 215.0,
-  "category_code": "BV"
+  "price_of_unit": 180.0
 }

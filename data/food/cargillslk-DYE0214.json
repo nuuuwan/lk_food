@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DYE0214",
+  "category_code": "DY",
   "name": "Meadowland Cooking Cream",
   "short_description": "Cooking Cream",
   "description": "Meadowland single cream comes in 1l (litre) and is ideal to include as cooking cream on finishing sauces, pasta sauces and for creamy soups. Meadowland delivers the rich, creamy taste of dairy, with a good yield. It achieves sauce consistency quickly, won\u2019t split with acid or alcohol, Bain Marie stable and won\u2019t split when heated or boiled. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "l",
   "unit_size": 1.0,
-  "category_code": "DY"
+  "price_of_unit": 2231.25
 }

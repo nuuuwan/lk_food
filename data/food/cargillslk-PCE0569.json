@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0569",
+  "category_code": "HB",
   "name": "Glow & Lovely Ayurvedic Care Face Wash",
   "short_description": "Face Wash",
   "description": "Glow and lovely ayurvedic care face wash is infused with the goodness of turmeric and kumkumadi thailam with 14 natural ingredients. This special blend is known to deep cleanse your skin for naturally glowing skin instantly with kumkumadi thailam. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 50.0,
-  "category_code": "HB"
+  "price_of_unit": 230.0
 }

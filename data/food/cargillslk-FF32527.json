@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FF32527",
+  "category_code": "MT",
   "name": "Keells Chicken Cheese & Onion Sausages",
   "short_description": "Sausages",
   "description": "Made from high-grade chicken with the best ingredients sourced. Flavoured with Cheese and Onion, the ingredients are finely minced and blended with well-balanced spices that comply with strict hygiene rules.*Images for illustration purpose only, products received may vary.",
   "unit_of_measure": "g",
   "unit_size": 250.0,
-  "category_code": "MT"
+  "price_of_unit": 706.5
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CSE0085",
+  "category_code": "FC",
   "name": "Belacan Shrimp Paste",
   "short_description": "Shrimp Paste",
   "description": "Belacan Shrimp Paste is a well known Penang specialty. Belacan is a hardened block of shrimp paste, made from fermenting tiny shrimp mixed with salt. Grounding it into paste, then sun dried, shaped into blocks, and allowed to ferment again. The resulting blocks are chalky and only slightly moist. Belacan has a pungent smell and taste. It is always toasted and used in small quantities to give a savory depth of flavor to traditional dishes that are widely used in South East Asia. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 250.0,
-  "category_code": "FC"
+  "price_of_unit": 2098.0
 }

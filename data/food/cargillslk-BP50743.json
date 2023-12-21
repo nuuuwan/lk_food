@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BP50743",
+  "category_code": "BP",
   "name": "Baby Cheramy Baby Shampoo",
   "short_description": "Baby Shampoo",
   "description": "Baby Cheramy shampoo is gentle on the hair and scalp and leaves a wonderful fragrance.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 200.0,
-  "category_code": "BP"
+  "price_of_unit": 490.0
 }

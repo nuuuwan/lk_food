@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC58241",
+  "category_code": "HB",
   "name": "Nature`s Secrets Deep Cleansing Milk",
   "short_description": "Skin Cleanser",
   "description": "Enriched with aloe vera, this milky facial cleanser penetrates and removes deep seated impurities and clears pores, safely cleaning the skin. It also removes all traces of make-up. Daily use brightens skin, moisturises and prevent dryness, while leaving it radiant and healthy. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 340.0
 }

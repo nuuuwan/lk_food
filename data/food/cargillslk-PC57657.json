@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC57657",
+  "category_code": "HB",
   "name": "Prevense Apricot and Almond Face Wash",
   "short_description": "Face Wash",
   "description": "Dry Skin: this mild, non toxic face wash will cleanse your skin without irritating the skin. Enriched Apricot kernel oil will retain elasticity, while Almond oil will re-moisturize the skin, leaving the skin soft and supple. Ingredients: Apricot, Kernel Oil, Vitamin A, C, D, E, Almond oil.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 120.0,
-  "category_code": "HB"
+  "price_of_unit": 990.0
 }

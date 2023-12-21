@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DY20407",
+  "category_code": "FC",
   "name": "Meadowlea Fat Spread",
   "short_description": "Spread",
   "description": "Made with the goodness of sunflower oil, MEADOWLEA is a fat spread that offers a delicious creamy taste and is enriched with essential nutrients such as Vitamin A, D and E. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "FC"
+  "price_of_unit": 180.0
 }

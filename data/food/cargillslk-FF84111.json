@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FF84111",
+  "category_code": "FF",
   "name": "Spring Home Samosa Pastry",
   "short_description": "Samosa Pastry",
   "description": "The quintessential product for making Spring Rolls and other delicious pastry snacks. Absorbs less oil. Strong tensile \u2013 easy to separate and peel. Remains crispy for long periods. Minimal breakage and wastage. Double fry capabilities. Cooking Method: Oven Bake, Deep Fry, Pan Fry, Air Fry *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 30.0,
-  "category_code": "FF"
+  "price_of_unit": 890.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BV30103",
+  "category_code": "BV",
   "name": "Nestomalt Malted Beverage",
   "short_description": "Malted Milk Powder",
   "description": "From its unique aroma to its iconic taste, NESTOMALT provides a perfect start to the day for the whole family. It is formulated with the golden goodness of malted barley and the renowned nutrition of milk, to provide your Mind and Body with Power, Strength, and Energy.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 400.0,
-  "category_code": "BV"
+  "price_of_unit": 830.0
 }

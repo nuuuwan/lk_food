@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PS30461",
+  "category_code": "FC",
   "name": "San Remo Elbows",
   "short_description": "Pasta",
   "description": "San Remo is proud to be the longstanding number one Dry Pasta in Australia. Made from 100% Australian Durum wheat, San Remo prides itself on its high quality, premium pasta. With San Remo's generous range of authentic products, you\u2019ll find a pasta or sauce to help create the perfect dish. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 500.0,
-  "category_code": "FC"
+  "price_of_unit": 990.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0859",
+  "category_code": "HB",
   "name": "Romantra Perfume cologne Spray Black Rose",
   "short_description": "Perfume Cologne Spray",
   "description": "Experience the intensified sensuality of love with  Romance Night Parfum for Her. Crafted around  Roses, Lilies and Violets which blooms from an intensely irresistible floral bouquet, laced with deep Patchouli facets to infuse the night with a  flair that mingles late into the eve. This sophisticated Parfum exudes modern elegance  with an alluring trail \u2013 wherever the night takes you. *Images for illustration purpose only, Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 1791.0
 }

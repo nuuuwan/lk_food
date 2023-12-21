@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BC10696",
+  "category_code": "FC",
   "name": "Kelloggs Corn Flakes, Real Honey",
   "short_description": "Cereal",
   "description": "Kellogg's Corn Flakes Real Honey and Milk is a nourishing breakfast for your busy mornings. It has the goodness of Corn Flakes combined with delicious natural honey for a nourishing & energetic start to your mornings! All you need to do is just add milk and kickstart your day with this exciting flavour.* Images for illustration purpose only. Product recieved may vary.",
   "unit_of_measure": "g",
   "unit_size": 300.0,
-  "category_code": "FC"
+  "price_of_unit": 825.0
 }

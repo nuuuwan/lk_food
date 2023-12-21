@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC23231",
+  "category_code": "HB",
   "name": "Denta Comfort Toothbrush - Soft",
   "short_description": "Toothbrush",
   "description": "Toothbrush comes with multi-angle bristles designed to reach deep between teeth to effectively remove plaque. The comfortable handle provides comfortable grip & superior brushing control. This Toothbrush comes with unique circular pattern soft bristles that help remove tooth stains, leaving you with a shining smile and clean gums. *Images for illustration purpose only, Product recieved may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "HB"
+  "price_of_unit": 125.0
 }

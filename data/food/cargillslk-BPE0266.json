@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BPE0266",
+  "category_code": "BP",
   "name": "Baby Cheramy Cologne Spray,Cool Splash",
   "short_description": "Baby Cologne",
   "description": "Enjoy the cooling scent of Baby Cheramy Cool Splash that keeps you feeling fresh. Only for external use under adult supervision. Keep out of reach of children. Avoid contact with any sensitive areas.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "BP"
+  "price_of_unit": 560.0
 }

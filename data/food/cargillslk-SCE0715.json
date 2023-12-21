@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SCE0715",
+  "category_code": "SC",
   "name": "La Treats Vanilla Cookies",
   "short_description": "Chocolates",
   "description": "14 pieces of scrumptious vanilla flavoured cookies baked to perfection.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 140.0,
-  "category_code": "SC"
+  "price_of_unit": 232.0
 }

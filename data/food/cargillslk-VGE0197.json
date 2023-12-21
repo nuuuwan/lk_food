@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "VGE0197",
+  "category_code": "VG",
   "name": "Good Harvest Spine Gourd",
   "short_description": "SL-GAP Certified Spine Gourd",
   "description": "Our very own range of SL-GAP (SL- Good Agricultural Practices) Certified Vegetables and Fruits. Has anti-allergen and analgesic properties. Rich in plant insulin which lowers blood sugar levels. Source of antioxidants which prevent cancer and heart problems and promotes healthy skin. Contains - Vitamin: C, Carotene, Thai mine, Riboflavin, Niacin\r\nMinerals: Potassium, Sodium, Calcium, Iron, Zinc.  Disclaimer: Please note that the image is used for presentation purposes only. Actual product may slightly defer. Our team at Cargills Online takes every step to ensure to maintain the accuracy of all information displayed. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 300.0,
-  "category_code": "VG"
+  "price_of_unit": 336.0
 }

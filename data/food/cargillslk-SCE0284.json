@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SCE0284",
+  "category_code": "SC",
   "name": "Kist Creamy Vanilla Biscuits",
   "short_description": "Vanilla Biscuits",
   "description": "Treat yourself to a combination of crispy vanilla biscuits filled with delicious vanilla cream. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 360.0,
-  "category_code": "SC"
+  "price_of_unit": 340.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DIE0037",
+  "category_code": "DI",
   "name": "Brownson Bi Carbonate of Soda",
   "short_description": "Bi-Carbonate of Soda",
   "description": "Used to raise soda breads and full-flavoured cakes such as gingerbread, fruit cake, chocolate cake and carrot cake. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "DI"
+  "price_of_unit": 190.0
 }

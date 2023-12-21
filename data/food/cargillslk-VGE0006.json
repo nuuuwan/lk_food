@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "VGE0006",
+  "category_code": "VG",
   "name": "Fresh Leaf Chopped Gotukola",
   "short_description": "Chopped Gotukola",
   "description": "Usage of the chopped gotukola reduce the amount of time you are stuck in the kitchen. Offer the great opportunity to easily make a mallum / salad / curry efforlessly in a short amount of time. No only that, gotukola is a herbal supplement and content with health properties.  *Images for illustration purpose only. Products received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "VG"
+  "price_of_unit": 130.0
 }

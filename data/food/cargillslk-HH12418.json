@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HH12418",
+  "category_code": "HH",
   "name": "Comfort Blue Fabric Conditioner",
   "short_description": "Fabric Conditioner",
   "description": "Delivers unbeatable shine and fragrance to your clothes, that no detergent alone can deliver. Makes clothes soft, smooth and great to wear. Provides long-lasting 14 days of freshness. Maintains the new like shine of clothes, even after repeated washing. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 860.0,
-  "category_code": "HH"
+  "price_of_unit": 903.0
 }

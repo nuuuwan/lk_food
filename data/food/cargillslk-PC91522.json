@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC91522",
+  "category_code": "HB",
   "name": "Fems Cotton Feel Wings",
   "short_description": "Sanitary Napkins",
   "description": "New and improved Fems with \"fit to body technology\" is specially designed to fit every body, providing flexibility, better fit and comfort for longer periods of time. Fems Cotton Feel Wings comes with a soft cotton top sheet for extra comfort, leak control lines to minimize leakage and soft wings for extra protection. Fems is dermatologically approved to be safe on your skin. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 16.0,
-  "category_code": "HB"
+  "price_of_unit": 297.5
 }

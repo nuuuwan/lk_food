@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HH19302",
+  "category_code": "HH",
   "name": "Diva Germ Guard Detergent Powder",
   "short_description": "Laundry Detergent Powder",
   "description": "Diva Power Germ Guard Detergent Powder with Kohomba and Lime is formulated to kill 99.9% of germs that settle on the surface & amongst the fibers of your clothes.\nOther benefits: \nSuperior cleaning\nLong lasting fragrance to keep your clothes fresh for long *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "kg",
   "unit_size": 1.0,
-  "category_code": "HH"
+  "price_of_unit": 527.0
 }

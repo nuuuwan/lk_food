@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CSE0369",
+  "category_code": "RI",
   "name": "India Gate Exotic Basmati Rice",
   "short_description": "Basmati Rice",
   "description": "India Gate Exotic Basmati Rice 1 Kilogram Bag. *Images for illustration purposes only. Product recieved may vary.",
   "unit_of_measure": "kg",
   "unit_size": 1.0,
-  "category_code": "RI"
+  "price_of_unit": 1475.0
 }

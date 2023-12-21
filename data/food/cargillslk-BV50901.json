@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BV50901",
+  "category_code": "TC",
   "name": "Nescafe Classic Bottle",
   "short_description": "Coffee",
   "description": "Premium frothy instant coffee right at home; a must try for all coffee-lovers *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 50.0,
-  "category_code": "TC"
+  "price_of_unit": 1100.0
 }

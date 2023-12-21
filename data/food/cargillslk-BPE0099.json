@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BPE0099",
+  "category_code": "BP",
   "name": "Pears Bedtime Baby Soap Multi pack 70g",
   "short_description": "Baby Soap",
   "description": "Pears bedtime baby soap with soothing fragrance & moisture cream gently cleanses your baby\u2019s skin without drying, keeping your baby\u2019s skin soft and smooth. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 5.0,
-  "category_code": "BP"
+  "price_of_unit": 680.0
 }

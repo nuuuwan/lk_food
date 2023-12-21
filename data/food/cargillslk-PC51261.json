@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC51261",
+  "category_code": "HB",
   "name": "Vaseline Advanced Repair Lotion",
   "short_description": "Body Lotion",
   "description": "Vaseline Advanced Repair body lotion\n\u2022\tRestores very dry skin in 5 days\n\u2022\tWith micro droplets of Vaseline Jelly\n\u2022\tLightly Scented\n\u2022\tNon Greasy lotion *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 780.0
 }

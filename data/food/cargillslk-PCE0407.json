@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0407",
+  "category_code": "HB",
   "name": "Vaseline Calming Lavender Body Lotion",
   "short_description": "Vaseline Calming Lavender Body Lotion",
   "description": "Fragranced with lavender oil, it is known to help soothe and calm your mind by reducing anxiety. With a relaxing scent containing lavender oil, Vaseline Calming Lavender lotion penetrates deep into the skin leaving it soft, supple and  healthy.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 400.0,
-  "category_code": "HB"
+  "price_of_unit": 2875.0
 }

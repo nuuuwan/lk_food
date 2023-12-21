@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DT40202",
+  "category_code": "HB",
   "name": "Condys",
   "short_description": "Surgical applications",
   "description": "Condy`s crystals (Pottassium Permanganate) is an oxidising agent with disinfectant, deodorising and astringent properties.*Images for illustration purpose only, Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 5.0,
-  "category_code": "HB"
+  "price_of_unit": 70.0
 }

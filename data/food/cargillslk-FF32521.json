@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FF32521",
+  "category_code": "MT",
   "name": "Krest Chicken Sausages",
   "short_description": "Chicken Sausages",
   "description": "The delicious range of Keells Krest\u00a0Sausages, renowned for being a superior brand and the pioneer in the processed meats industry. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 250.0,
-  "category_code": "MT"
+  "price_of_unit": 580.0
 }

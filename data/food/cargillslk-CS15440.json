@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS15440",
+  "category_code": "CE",
   "name": "Edinborough Lime Mate",
   "short_description": "Lime Mate",
   "description": "Water, Citric Acid (Ins 330), Sugar, Nature Identical Lemon Flavour, Stabilizer (Ins 466), Permitted Food Preservative (Ins 211), Cloudy Emultion & Food Colour (Ins 102). *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 200.0,
-  "category_code": "CE"
+  "price_of_unit": 270.0
 }

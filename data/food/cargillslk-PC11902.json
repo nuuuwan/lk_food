@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC11902",
+  "category_code": "HB",
   "name": "Cinthol Confidence Deo Soap",
   "short_description": "Soap",
   "description": "This soap covers two things with its germ protection ability and an amazing deo fragrance.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 170.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BP50801",
+  "category_code": "BP",
   "name": "Baby cheramy Nappy Wash Liquid",
   "short_description": "Baby Laundry Detergent",
   "description": "Baby Cheramy Nappy Wash liquid with long lasting freshness is an antibacterial formula with superior cleaning capabilities to keep your little one's nappies hygenic, clean and fresh after each wash.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 650.0,
-  "category_code": "BP"
+  "price_of_unit": 517.5
 }

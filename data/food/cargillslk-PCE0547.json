@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0547",
+  "category_code": "HB",
   "name": "Champion Delum Red Hand Wash",
   "short_description": "Hand Wash",
   "description": "With natural pomegranate and 6 other plant extracts, this Champion hand wash effectively kills germs and removes food odours to leave hands clean, moisturized, soft and refreshed with an energizing aroma. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 250.0,
-  "category_code": "HB"
+  "price_of_unit": 450.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HOE0147",
+  "category_code": "CD",
   "name": "Christmas Decorative Ball Ornament - Matte Red",
   "short_description": "4.8cm Width",
   "description": "10pcs of matte red decorative baubles. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 10.0,
-  "category_code": "CD"
+  "price_of_unit": 375.0
 }

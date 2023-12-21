@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BPE0272",
+  "category_code": "BP",
   "name": "Baby Cheramy Washing Powder, Floral",
   "short_description": "Baby Washing Powder",
   "description": "Your precious baby deserves all the protection and comfort you can give. Wash all fabrics such as clothes, bedsheets, pillowcases, nappies and other linen with Baby Cheramy laundry wash powder to ensure they are soft, clean and has a lasting floral fragrance. Anti-bacterial formula, Fabric softner.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 400.0,
-  "category_code": "BP"
+  "price_of_unit": 385.0
 }

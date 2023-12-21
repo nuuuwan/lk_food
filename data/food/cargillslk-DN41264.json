@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DN41264",
+  "category_code": "HB",
   "name": "Ensure Vanilla Multi Pack 400 g",
   "short_description": "Nutrition Powder",
   "description": "Ensure Original Vanilla Nutrition Powder - Complete, balanced nutrition for everyday health. Each serving of Ensure Original Nutrition Powder provides complete, balanced nutrition. Every prepared 8 fl.oz serving has: 9 grams of high-quality protein, 25 essential vitamins and minerals and includes antioxidants. 250 nutritious calories of delicious vanilla flavour. Gluten-free. Suitable for lactose intolerance. Halal.\n\n\n *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 2.0,
-  "category_code": "HB"
+  "price_of_unit": 9490.0
 }

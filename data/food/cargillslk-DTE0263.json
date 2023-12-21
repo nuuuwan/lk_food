@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DTE0263",
+  "category_code": "HB",
   "name": "Eco Mosquito Repellent Spray",
   "short_description": "Repellent Liquid",
   "description": "Eight hours save form Mosquito Bite. Outside use only. Above 2 years.*Images for illustration purpose only, Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 50.0,
-  "category_code": "HB"
+  "price_of_unit": 280.0
 }

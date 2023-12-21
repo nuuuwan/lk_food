@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DN40263",
+  "category_code": "HB",
   "name": "Sobada Venivel Geta",
   "short_description": "Naural Muscle Pain Relief",
   "description": "Venivalgata (Colomba wood) is capable of clearing clogged pores and removing harmful toxins and dead skin. It helps to gently renew skin and improve one's overall health by purifying the skin. Also used for fever, colds, flu and body aches. Used as a mild antiseptic and disinfectant. Could be mixed with bathwater to bathe babies. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 50.0,
-  "category_code": "HB"
+  "price_of_unit": 175.0
 }

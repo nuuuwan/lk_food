@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DTE0147",
+  "category_code": "HB",
   "name": "Moods Gold Cool Condoms",
   "short_description": "Male Contraseptives - Condoms",
   "description": "Colored, lubricated, dotted & teat ended condoms made with the finest natural rubber latex. Natural latex colored lubricated condoms with reservoir tip. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 3.0,
-  "category_code": "HB"
+  "price_of_unit": 360.0
 }

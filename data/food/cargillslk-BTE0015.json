@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BTE0015",
+  "category_code": "HB",
   "name": "Basicare Snag Free Elastic Hair Bands",
   "short_description": "Hair Bands",
   "description": "24 pieces of elastic, long lasting, snag free hair bands.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 24.0,
-  "category_code": "HB"
+  "price_of_unit": 960.0
 }

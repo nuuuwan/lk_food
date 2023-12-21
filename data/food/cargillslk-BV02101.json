@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BV02101",
+  "category_code": "DY",
   "name": "Anlene Milk Powder",
   "short_description": "Milk Powder",
   "description": "An expert in healthy ageing and bone strength, Anlene is a leading high calcium nutritional supplement in Sri lanka and is fortified  with key nutrients to help lead an active lifestyle.*Images are illustration purpose only, product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 400.0,
-  "category_code": "DY"
+  "price_of_unit": 1242.0
 }

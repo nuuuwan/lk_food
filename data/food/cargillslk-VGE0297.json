@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "VGE0297",
+  "category_code": "VG",
   "name": "Lemon",
   "short_description": "Lemon",
   "description": "Lemons contain a high amount of vitamin C, soluble fiber, and plant compounds that give them a number of health benefits.\n\nLemons may aid weight loss and reduce your risk of heart disease, anemia, kidney stones, digestive issues, and cancer.\n\nNot only are lemons a very healthy fruit, but they also have a distinct, pleasant taste and smell that make them a great addition to foods and drinks. [Source: www.healthline.com] Disclaimer: Please note that the image is used for presentation purposes only. Actual product may slightly defer. Our team at Cargills Online takes every step to ensure to maintain the accuracy of all information displayed.",
   "unit_of_measure": "g",
   "unit_size": 500.0,
-  "category_code": "VG"
+  "price_of_unit": 556.5
 }

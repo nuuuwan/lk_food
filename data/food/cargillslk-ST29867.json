@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "ST29867",
+  "category_code": "ST",
   "name": "Atlas Natural Clay",
   "short_description": "Clay",
   "description": "Knead clay by hand or on potters wheel. Leave finished product to dry for 24 hours in open air at room tempreature. Finished product can be painted or varnished. For porcelain finish, bake in oven at 1100oc-1200oc. Keep air tight after opening to prevent drying out.",
   "unit_of_measure": "g",
   "unit_size": 500.0,
-  "category_code": "ST"
+  "price_of_unit": 160.0
 }

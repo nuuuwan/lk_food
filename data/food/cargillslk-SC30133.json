@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SC30133",
+  "category_code": "SC",
   "name": "Kandos 21 Collection Fruit and Nut Chocolate",
   "short_description": "Chocolate",
   "description": "A tasteful combination of fine chocolate with fruit and nuts. *Images for illustration purposes only.",
   "unit_of_measure": "g",
   "unit_size": 200.0,
-  "category_code": "SC"
+  "price_of_unit": 1150.0
 }

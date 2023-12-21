@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CS75528",
+  "category_code": "RI",
   "name": "Araliya Supiri Red Raw Rice",
   "short_description": "Red Raw Rice",
   "description": "Araliya supiri red raw rice 5 kilogram bag. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "kg",
   "unit_size": 5.0,
-  "category_code": "RI"
+  "price_of_unit": 1050.0
 }

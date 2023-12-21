@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC58248",
+  "category_code": "HB",
   "name": "Nature`s Secrets Turmeric Golden Cream",
   "short_description": "Face Cream",
   "description": "This beauty cream is enriched with natural skin beautifying extracts of turmeric and sandalwood, antioxidant vitamin E, nourishing virgin coconut oil and skin protecting UV filters. Regular use leaves skin healthy, nourished and soft, with a beautifully radiant complexion. No mineral oil used. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 50.0,
-  "category_code": "HB"
+  "price_of_unit": 420.0
 }

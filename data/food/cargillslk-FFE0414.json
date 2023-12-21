@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FFE0414",
+  "category_code": "FF",
   "name": "Prima Sunrise Tortilla",
   "short_description": "Frozen Rotti",
   "description": "Soft flour tortillas with a super soft texture and great taste that you crave.  Versatile enough to use in all of your favorite low carb recipes, our tortillas help you feel balanced to the extreme. Fill them with seasoned chicken breast, avocado, and ranch-spiced yogurt for a quick and easy dinner. *Images are for illustration purpose only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 450.0,
-  "category_code": "FF"
+  "price_of_unit": 650.0
 }

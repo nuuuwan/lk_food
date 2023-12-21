@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BP51901",
+  "category_code": "BP",
   "name": "Velona Cuddles Baby Diapers,M",
   "short_description": "Baby Diapers",
   "description": "Velona cuddles diaper pants for your baby. Size medium, jumbo pack. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 34.0,
-  "category_code": "BP"
+  "price_of_unit": 3135.0
 }

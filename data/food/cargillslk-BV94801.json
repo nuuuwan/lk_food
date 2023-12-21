@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BV94801",
+  "category_code": "BV",
   "name": "Red Bull Energy Drink",
   "short_description": "Energy Drink",
   "description": "Red Bull Energy Drink formula contains high quality ingredients, including caffeine, taurine, B group vitamins and real sugars. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 250.0,
-  "category_code": "BV"
+  "price_of_unit": 900.0
 }

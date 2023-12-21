@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FFE0410",
+  "category_code": "FF",
   "name": "Prima Sunrise Arabic Bread",
   "short_description": "Frozen Rotti",
   "description": "A delicious unleavened bread to combine with accompaniments of your choice.*Images are for illustration purpose only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 600.0,
-  "category_code": "FF"
+  "price_of_unit": 775.0
 }

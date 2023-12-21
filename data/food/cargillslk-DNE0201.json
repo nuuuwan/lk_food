@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DNE0201",
+  "category_code": "HB",
   "name": "Tipson Immune Booster Herbal Infusions",
   "short_description": "Herbal Infusion",
   "description": "Give your immunity a boost with this blend of ancient herbs consisting of natural rose-hip, majoram, basil, organic rooibos, liquorice and lemon grass which have proven capabilities of boosting immunity.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 20.0,
-  "category_code": "HB"
+  "price_of_unit": 595.0
 }

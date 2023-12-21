@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC41228",
+  "category_code": "HB",
   "name": "Gillette Blue 2 Plus Razor",
   "short_description": "Disposable Razor",
   "description": "A great shave is within your grasp with Gillette Blue II Plus Slalom Men\u2019s Disposable Razor. Featuring lubrastrip with aloe, a Soft Ultragrip handle for great control and a pivoting head that adjusts to the contours of your face.    *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 5.0,
-  "category_code": "HB"
+  "price_of_unit": 875.0
 }

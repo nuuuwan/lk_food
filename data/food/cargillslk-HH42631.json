@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HH42631",
+  "category_code": "HH",
   "name": "Good Knight  45 nights Advanced Liquidator Refill",
   "short_description": "Insect Repellent",
   "description": "The liquid repellent is formulated to rapidly knock-down these obnoxious pests. Protection in all corners of the room.",
   "unit_of_measure": "pcs",
   "unit_size": 1.0,
-  "category_code": "HH"
+  "price_of_unit": 331.5
 }

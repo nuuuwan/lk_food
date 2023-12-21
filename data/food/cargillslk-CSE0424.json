@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CSE0424",
+  "category_code": "CE",
   "name": "BCC White Coconut Oil",
   "short_description": "Coconut Oil",
   "description": "Pure coconut oil with natural coconut oil flavour used as high quality cooking oil made from quality hand-picked copra & manufactured under hygienic conditions. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "l",
   "unit_size": 1.0,
-  "category_code": "CE"
+  "price_of_unit": 1200.0
 }

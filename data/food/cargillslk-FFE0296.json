@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FFE0296",
+  "category_code": "DY",
   "name": "Heavenly Magic Richy Rich",
   "short_description": "Richy Rich Ice Cream",
   "description": "Heavenly Magic Richy Rich is a Rich premium Dairy, Vanilla ice cream with Chocolate sauce, Cashew & toffee. It is made from 100% Sri Lankan Fresh Cow's milk. Suitable for Vegetarians. Rs. 50 cents from every 1L of fresh milk collected is contributed to a special welfare fund \"Sarubima\" focused on empowering Farmers children through education.      *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 500.0,
-  "category_code": "DY"
+  "price_of_unit": 680.0
 }

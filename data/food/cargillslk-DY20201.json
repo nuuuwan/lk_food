@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DY20201",
+  "category_code": "FC",
   "name": "Flora Margarine",
   "short_description": "Margarine",
   "description": "Flora is a plant-based fat spread that includes healthy fats such as Omega 3 and Omega 6 which help to maintain a normal blood cholesterol level and overall heart health. Flora also adds a unique taste for your healthy family dishes. Flora 250g can be used for cooking and spreading.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 250.0,
-  "category_code": "FC"
+  "price_of_unit": 800.0
 }

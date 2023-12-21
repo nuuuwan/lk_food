@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CSE0391",
+  "category_code": "FC",
   "name": "Red Tuna Dried Koonissa",
   "short_description": "Dried Fish",
   "description": "Small\u00a0sun-dried shrimp\u00a0are\u00a0used as\u00a0a flavoring in Asian and Latin American cuisines. They have a salty, fishy flavor and a chewy texture, and are\u00a0used\u00a0whole, chopped, or ground in soups, stuffings, stir-fries, noodles and salads.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "FC"
+  "price_of_unit": 450.0
 }

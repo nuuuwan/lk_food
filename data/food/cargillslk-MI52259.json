@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "MI52259",
+  "category_code": "HH",
   "name": "DIMO 9W Screw Type LED Bulb,Day Light",
   "short_description": "LED Bulb",
   "description": "Day Light LED bulb. Screw Type.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "HH"
+  "price_of_unit": 1190.0
 }

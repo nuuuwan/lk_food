@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC30185",
+  "category_code": "HB",
   "name": "Sunsilk Detox Shampoo Green Tea & Lemon",
   "short_description": "Sunsilk Shampoo",
   "description": "Does heat, humidity, and pollution leave your hair flat and limp? Our exclusive formula with Green Tea and Lemon purifies the hair strands while nourishing, leaving hair fresh and bouncy from root to tips \u2013 like detoxing your hair! Contains green tea known for its antioxidants and lemon that helps unclogs hair follicles. It purifies the hair fibers, removing the accumulated impurities while nourishing your hair leaving hair fresh, revitalized and gives you fresh and bouncy hair from root to tip, like detoxing hair everyday. Fresh and full of life hair, everyday.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 180.0,
-  "category_code": "HB"
+  "price_of_unit": 785.0
 }

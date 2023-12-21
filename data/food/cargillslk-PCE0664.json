@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0664",
+  "category_code": "HB",
   "name": "Vivya Skin Recharge Serum",
   "short_description": "Serum",
   "description": "Drops of time-tested goodness of Heirloom rice, unlocked through of Golden trice technology in a deeply penetrative essence that  nourishes  and improves  skin tone and texture, rejuvenating within.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 30.0,
-  "category_code": "HB"
+  "price_of_unit": 990.0
 }

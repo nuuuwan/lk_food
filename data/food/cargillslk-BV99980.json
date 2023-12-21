@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BV99980",
+  "category_code": "BV",
   "name": "Red Bull Energy Drink Multi Pack 250 ml",
   "short_description": "Energy Drink",
   "description": "Red Bull Energy Drink formula contains quality ingredients, including caffeine, taurine, B group vitamins and no sugars. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 2.0,
-  "category_code": "BV"
+  "price_of_unit": 1550.0
 }

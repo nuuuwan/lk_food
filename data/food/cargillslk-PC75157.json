@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC75157",
+  "category_code": "HB",
   "name": "Colour Me Blue Body Spray Eau de Toilette",
   "short_description": "Body Perfume",
   "description": "FRESH, AROMATIC AND WOODY. Stay fresh with Colour Me Blue, an uplifting men\u2019s perfume infused with crisp mint and lavender notes. This invigorating perfume for men is perfectly complemented by a deep base of rich, warm vetiver and musk. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 50.0,
-  "category_code": "HB"
+  "price_of_unit": 2350.0
 }

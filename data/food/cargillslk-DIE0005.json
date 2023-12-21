@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DIE0005",
+  "category_code": "DI",
   "name": "Dumbara Kithul Jaggery Cubes",
   "short_description": "Kithul Jaggery Cubes",
   "description": "Made with 100% pure and natural kithul sap and no added sugar, colour or preservatives. Contains 25 pieces of individually wrapped 8g cubes in the pack.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 200.0,
-  "category_code": "DI"
+  "price_of_unit": 990.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FF11571",
+  "category_code": "MT",
   "name": "Goldi Boneless Beef Cubes",
   "short_description": "Boneless Beef",
   "description": "Boneless Beef Cubs with real  taste of beef  .Ideal for family meals & Entertaining.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 250.0,
-  "category_code": "MT"
+  "price_of_unit": 900.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HHE0328",
+  "category_code": "HH",
   "name": "Mint Facial Tissues, 2 Ply",
   "short_description": "Facial Tissue",
   "description": "Soft and durable. Super Absorbent.2 Ply ,color : White.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 200.0,
-  "category_code": "HH"
+  "price_of_unit": 565.0
 }

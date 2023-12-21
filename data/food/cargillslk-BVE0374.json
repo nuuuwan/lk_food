@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BVE0374",
+  "category_code": "BV",
   "name": "Sun Crush Classic Malt Drink",
   "short_description": "Malt Drink",
   "description": "A non-alcoholic and slightly sweetened malt beverage which is sophisticated and fun\u2014all at the same time. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 300.0,
-  "category_code": "BV"
+  "price_of_unit": 150.0
 }

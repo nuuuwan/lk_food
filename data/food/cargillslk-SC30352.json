@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SC30352",
+  "category_code": "SC",
   "name": "Kandos Suprise Chocolate",
   "short_description": "Chocolate",
   "description": "16 Pieces of Delightful Milk Chocolate.*Images for illustration purposes only.",
   "unit_of_measure": "g",
   "unit_size": 160.0,
-  "category_code": "SC"
+  "price_of_unit": 800.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DYE0293",
+  "category_code": "DY",
   "name": "Kotmale Processed Cheese Slices",
   "short_description": "Cheese Slices",
   "description": "Kotmale Cheese is processed using natural Kotmale cheese made from 100% Sri Lankan, Fresh Cow's  milk. It has a smooth texture and mild Cheddar flavour, suitable for vegetarians. Rs.50 cents from every 1L of fresh milk collected is contributed to a special welfare fund \"Sarubima\" focused on empowering farmers children through education. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 200.0,
-  "category_code": "DY"
+  "price_of_unit": 850.0
 }

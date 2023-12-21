@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DN41218",
+  "category_code": "HB",
   "name": "Isocal",
   "short_description": "Nutrition Powder Complete Formula",
   "description": "Isocal is speci?cally formulated for the dietary management of malnutrition and other medical conditions with increased nutritional needs that cannot be met through diet modi?cation alone. Isocal provides a purpose formulated isotonic formula for tube feeding patients who are unable to receive adequate nutrition orally. Extra amounts of Vitamin C and B Complex vitamins have been added to Isocal to meet special needs of many tube-fed patients. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 425.0,
-  "category_code": "HB"
+  "price_of_unit": 5495.0
 }

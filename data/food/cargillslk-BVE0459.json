@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "BVE0459",
+  "category_code": "TC",
   "name": "Ceylon Since 1844 Organic English Breakfast Tea",
   "short_description": "Tea",
   "description": "Ceylon since 1844 Organic Ceylon tea is hand picked and processed which ensures a finely balanced and flavourful taste which is the hallmark of pure Ceylon Tea.A rich blend of black teas that gives a unique flavour profile, bright infusion and is a strong full bodied tea that is perfect for starting your day.25 pieces of envelope tea bags.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 25.0,
-  "category_code": "TC"
+  "price_of_unit": 820.0
 }

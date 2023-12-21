@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FFE0508",
+  "category_code": "FF",
   "name": "MDK Parata Rotti",
   "short_description": "Frozen Parata",
   "description": "Premium quality Roti breads are soft, fluffy and easy to prepare. Pair it with curries, salads or even spreads for a tasty meal and experience great tasting Roti with every bite.* Images are illustration purpose only. Products received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 5.0,
-  "category_code": "FF"
+  "price_of_unit": 400.0
 }

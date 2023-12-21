@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0478",
+  "category_code": "HB",
   "name": "Chandanalepa Powdered Face Wash Sandalwood",
   "short_description": "Face Wash",
   "description": "Chandanalepa Sandalwood Face Wash Powder combining the herbal ayurvedic properties of sandalwood, Cosciniumfenestratum (commonly known as venivel), turmeric, kokum flakes and Welmi. Chandanalepa Herbal Face wash Powder, does not contain any sulphates.",
   "unit_of_measure": "g",
   "unit_size": 30.0,
-  "category_code": "HB"
+  "price_of_unit": 408.0
 }

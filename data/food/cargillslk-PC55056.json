@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC55056",
+  "category_code": "HB",
   "name": "4Ever Foot Cream",
   "short_description": "Foot Cream",
   "description": "Natural precious extracts of neem & turmeric and a touch of non-greasy oils sooth to make your feet heal better and for naturally soft, smoother feet. This intensive care formula deeply penetrates to remove dead skin cells, heals cracks while softening rough and dry feet. Natural Bees wax and vitamin E soften rough and chapped skin to give you soft, smooth and healthy feet. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 450.0
 }

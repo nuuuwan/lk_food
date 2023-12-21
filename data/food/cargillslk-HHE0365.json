@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HHE0365",
+  "category_code": "HH",
   "name": "Double Ace Inox Spiral Scourer",
   "short_description": "Steel Scrubber",
   "description": "For tough cleaning and polishing of pots, pans, cookers and all stainless steel surfaces. Non scratch, no-rust and long lasting. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "HH"
+  "price_of_unit": 160.0
 }

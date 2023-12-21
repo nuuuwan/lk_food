@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC19909",
+  "category_code": "HB",
   "name": "Lux Body Soap Multipack",
   "short_description": "Soap Bar",
   "description": "Infused with premium perfume oils, the fragrant soap bar is the perfect body cleanser for women who want to be unforgettable.  *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 4.0,
-  "category_code": "HB"
+  "price_of_unit": 561.0
 }

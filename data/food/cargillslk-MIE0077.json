@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "MIE0077",
+  "category_code": "HH",
   "name": "Panasonic LED Bulb Warm Daylight, Screw Type, 9W",
   "short_description": "LED BULB",
   "description": "Base Type: Screw Type,Lighting Color: Warm Daylight,Power Consumption: 9W.*Images for illustration purpose only. Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "HH"
+  "price_of_unit": 1390.0
 }

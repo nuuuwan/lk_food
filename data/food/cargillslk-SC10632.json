@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SC10632",
+  "category_code": "SC",
   "name": "Munchee Orange Cream Biscuits",
   "short_description": "Biscuits",
   "description": "A generous dollop of tangy orange cream sandwiched between two biscuits with just the right amount of crunch. Munchee Orange Cream biscuits are delightful little treats for any time of the day. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 400.0,
-  "category_code": "SC"
+  "price_of_unit": 420.0
 }

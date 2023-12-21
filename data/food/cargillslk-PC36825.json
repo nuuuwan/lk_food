@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PC36825",
+  "category_code": "HB",
   "name": "Kumarika Thick & Strong Conditioner",
   "short_description": "Conditioner",
   "description": "With 100% natural extracts of Green Almond Oil and active Fruit Vitamins, Kumarika Thick & Strong Conditioner nourishes your hair every time you use it giving you a visibly fuller, thicker and stronger hair *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 90.0,
-  "category_code": "HB"
+  "price_of_unit": 385.0
 }

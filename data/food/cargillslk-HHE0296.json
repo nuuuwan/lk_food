@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HHE0296",
+  "category_code": "HH",
   "name": "Kitchen Mate Zip Bags",
   "short_description": "Zip Bags",
   "description": "15 pieces of storage and free zipbags. 33cmx37.5cm. Convenient, durable & easy to handle. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 15.0,
-  "category_code": "HH"
+  "price_of_unit": 942.5
 }

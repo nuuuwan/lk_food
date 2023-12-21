@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FFE0337",
+  "category_code": "FF",
   "name": "Cuisine Gastronome Yellow Rice With Black Chicken ",
   "short_description": "Ready To Eat Meals",
   "description": "\u2018Cuisine Gastronome\u2019, designed as the ultimate solution to the rising demand for good quality frozen meals, is made with the finest fresh ingredients with no added preservatives. Offering a delicious range of local and international favourites, fit for the palettes of the world\u2019s most discerning food connoisseurs. Cuisine Gastronome offers sheer convenience with the quickest solution to a fabulous meal in minutes.* Images for illustration purpose only. Product recieved may vary.",
   "unit_of_measure": "g",
   "unit_size": 351.0,
-  "category_code": "FF"
+  "price_of_unit": 700.0
 }

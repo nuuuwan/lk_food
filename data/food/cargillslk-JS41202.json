@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "JS41202",
+  "category_code": "FC",
   "name": "Highway Peanut Butter Creamy",
   "short_description": "Peanut Butter",
   "description": "Spread on the smiles with tasty, creamy peanut buttery perfection. Add more yum and fun to just about anything. It\u2019s nothing but great snacking with this creamy classic. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 510.0,
-  "category_code": "FC"
+  "price_of_unit": 2910.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0731",
+  "category_code": "HB",
   "name": "Velvet Body Wash, Vanilla & Shea Butter",
   "short_description": "BODY WASH",
   "description": "Here\u2019s a Vanilla dream! Upgrade your shower experience with this body wash for invigorated and refreshed skin. With nourishing Vanilla and skin-loving Shea butter, this body wash energizes for an instant boost and bubbly lather. This pampering Velvet body wash wraps you in a cloud of rich, creamy lather and leaves your skin feeling softer, smoother and delicately fragranced after just one shower .*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 250.0,
-  "category_code": "HB"
+  "price_of_unit": 650.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "MI50803",
+  "category_code": "HH",
   "name": "Panasonic Alkaline Battery AAA-2, 1.5V",
   "short_description": "Battery",
   "description": "Panasonic Alkaline AAA batteries are designed to protect power for up to 10 years when unused and stored properly.This battery is equipped with Anti-Leak protection. This protects devices from damage due to battery rupture and leakage.They are used for small toys, thermometers, and calculators and often used for small electronic devices such as TV remote controls, kitchen timers, graphing calculators,  wireless keyboard, wireless mouse. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 2.0,
-  "category_code": "HH"
+  "price_of_unit": 780.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "HHE0206",
+  "category_code": "HH",
   "name": "Bio Clean Tile and Surface Cleaner Cinnamon",
   "short_description": "Tile and Surface Cleaner",
   "description": "The ultimate eco friendly tile and surface cleaning solution - Cinnamon Fragrance. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 500.0,
-  "category_code": "HH"
+  "price_of_unit": 329.0
 }

@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "FFE0499",
+  "category_code": "DY",
   "name": "Alerics Faluda Ice Cream",
   "short_description": "Ice Cream",
   "description": "A fusion of the richness of milk and the irresistible flavour of Faluda*Images for illustration purpose only. Products received may vary.",
   "unit_of_measure": "l",
   "unit_size": 1.0,
-  "category_code": "DY"
+  "price_of_unit": 990.0
 }

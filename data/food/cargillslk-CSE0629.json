@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CSE0629",
+  "category_code": "RI",
   "name": "Rosa Kekulu Rice",
   "short_description": "Bulk Rice",
   "description": "Pink Rice is lighter than Red Nadu and other varieties. This is to say: Digesting it is easier, you do not fill full after eating it. This type, Rosa Kekulu Haal, however is only served for breakfast and dinner. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "kg",
   "unit_size": 1.0,
-  "category_code": "RI"
+  "price_of_unit": 190.0
 }

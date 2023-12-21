@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "STE0246",
+  "category_code": "ST",
   "name": "Rathna Single Ruled Book,80 pages",
   "short_description": "Exercise Book",
   "description": "Single Ruled, 80 pages, 210mm x 146mm. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "category_code": "ST"
+  "price_of_unit": 80.0
 }

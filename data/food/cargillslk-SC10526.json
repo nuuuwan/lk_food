@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "SC10526",
+  "category_code": "SC",
   "name": "Munchee Custard Cream Biscuits",
   "short_description": "Custard Cream Biscuits",
   "description": "A tempting Crisp biscuit enriched with a flavorful Custard Cr\u00e8me filling. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 100.0,
-  "category_code": "SC"
+  "price_of_unit": 110.0
 }

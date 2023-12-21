@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DT94482",
+  "category_code": "HB",
   "name": "Cotton Wool",
   "short_description": "Medical Surgical Cleaning",
   "description": "100% Pure Natural Cotton wool. Specially made for medical use. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 50.0,
-  "category_code": "HB"
+  "price_of_unit": 450.0
 }

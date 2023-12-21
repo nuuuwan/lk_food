@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "PCE0810",
+  "category_code": "HB",
   "name": "LuvEsence Body Mist,Rose Exotique",
   "short_description": "Perfumed Body Spray",
   "description": "Enriched with soothing herbs to hydrate, and soften and protect. The burst of delicate yet exotic floral Rose scent will leave you instantly freshened and revitalised.*Images for illustration purpose only. Products received may vary.",
   "unit_of_measure": "ml",
   "unit_size": 100.0,
-  "category_code": "HB"
+  "price_of_unit": 1850.0
 }

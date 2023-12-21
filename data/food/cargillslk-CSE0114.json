@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "CSE0114",
+  "category_code": "CE",
   "name": "Absolute Organic Mixed Quinoa",
   "short_description": "Quinoa",
   "description": "Absolute Organic Quinoa is a naturally gluten free powerhouse food with a hard to beat nutritional profile amongst the grains. Not only does quinoa have high levels of essential amino acids, but also twice the protein content of rice and almost three times the fibre content. Just to make it even more perfect, it is super versatile, quick to cook and adds a fluffy texture to your favourite dishes. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 400.0,
-  "category_code": "CE"
+  "price_of_unit": 4800.0
 }

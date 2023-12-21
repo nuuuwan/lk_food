@@ -1,12 +1,13 @@
 {
-  "ut_updated": 1703135356,
-  "time_updated": "2023-12-21 10:39:16",
+  "ut_updated": 1703137654,
+  "time_updated": "2023-12-21 11:17:34",
   "store_id": "cargillslk",
   "sku_code": "DNE0308",
+  "category_code": "HB",
   "name": "Fadna Shape Up Tea Bags",
   "short_description": "Herbal Slimming Tea Blended With Garcinia Cambogia",
   "description": "Antioxidants, polyphenols and flavonoids present in the tea (Camellia sinensis) along with garcinia prevents obesity by reducing the cholesterol levels. Also it supresses the appetite which leads to a reduction in food consumption. *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "pcs",
   "unit_size": 15.0,
-  "category_code": "HB"
+  "price_of_unit": 840.0
 }
