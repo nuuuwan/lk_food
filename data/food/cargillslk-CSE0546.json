@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703814996,
-  "time_updated": "2023-12-29 07:26:36",
+  "ut_updated": 1703848713,
+  "time_updated": "2023-12-29 16:48:33",
   "store_id": "cargillslk",
   "sku_code": "CSE0546",
   "category_code": "FC",
@@ -9,5 +9,5 @@
   "description": "A bottle of ready-made dry fish. Moju has tiny fish, dried whole. The crunchy texture of the dried fish is complemented with dry spices. The moju gives an explosion of flavours in your mouth, that you could eat up a whole plate of rice with nothing else! *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 300.0,
-  "price_of_unit": null
+  "price_of_unit": 1990.0
 }

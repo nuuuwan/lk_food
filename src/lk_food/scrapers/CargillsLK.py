@@ -19,7 +19,7 @@ class CargillsLK(Store):
         self.ut_updated = int(Time.now().ut)
 
     HEADERS = dict(
-        Cookie='ASP.NET_SessionId=fd2fzsqpxmhpmsoaowcmbblt',
+        Cookie='ASP.NET_SessionId=zowqqyzzyqyxcehlf3utdfzg',
     )
 
     @cached_property

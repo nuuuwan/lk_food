@@ -4,6 +4,8 @@ log = Log('utils_future')
 
 
 def parse_float(x) -> float:
+    x = str(x)
+    x = x.replace(',', '')
     try:
         return float(str(x))
     except Exception as e:

@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703814996,
-  "time_updated": "2023-12-29 07:26:36",
+  "ut_updated": 1703848713,
+  "time_updated": "2023-12-29 16:48:33",
   "store_id": "cargillslk",
   "sku_code": "JSE0003",
   "category_code": "FC",
@@ -9,5 +9,5 @@
   "description": "Cholesterol free, delicious and crunchy peanut butter, manufactured in Northern Sri Lanka. Peanuts are sourced from farmers in the areas around the factory for a 100% Sri Lankan made product *Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 325.0,
-  "price_of_unit": null
+  "price_of_unit": 1400.0
 }

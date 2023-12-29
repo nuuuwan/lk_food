@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703814996,
-  "time_updated": "2023-12-29 07:26:36",
+  "ut_updated": 1703848713,
+  "time_updated": "2023-12-29 16:48:33",
   "store_id": "cargillslk",
   "sku_code": "FF32801",
   "category_code": "MT",
@@ -9,5 +9,5 @@
   "description": "Elephant House Sausages are so irresistible and succulent because they are handmade with the utmost care. Only the best spices from the freshest sources and highest quality meats are used to craft them.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "g",
   "unit_size": 300.0,
-  "price_of_unit": null
+  "price_of_unit": 1200.0
 }

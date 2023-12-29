@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703814996,
-  "time_updated": "2023-12-29 07:26:36",
+  "ut_updated": 1703848713,
+  "time_updated": "2023-12-29 16:48:33",
   "store_id": "cargillslk",
   "sku_code": "MIE0070",
   "category_code": "HH",
@@ -9,5 +9,5 @@
   "description": "Base Type: Pin Type,Lighting Color: Cool Daylight,Power Consumption: 7W.*Images for illustration purpose only. Product received may vary.",
   "unit_of_measure": "pc",
   "unit_size": 1.0,
-  "price_of_unit": null
+  "price_of_unit": 1190.0
 }

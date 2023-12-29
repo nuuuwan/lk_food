@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1703814996,
-  "time_updated": "2023-12-29 07:26:36",
+  "ut_updated": 1703848713,
+  "time_updated": "2023-12-29 16:48:33",
   "store_id": "cargillslk",
   "sku_code": "BVE0358",
   "category_code": "BV",
@@ -9,5 +9,5 @@
   "description": "A juice blend made from red berry juice and grape juice with added botanicals.*Images for illustration purposes only. Product received may vary.",
   "unit_of_measure": "l",
   "unit_size": 1.0,
-  "price_of_unit": null
+  "price_of_unit": 1990.0
 }
