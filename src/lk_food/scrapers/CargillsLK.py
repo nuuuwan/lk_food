@@ -1,6 +1,8 @@
 from functools import cache, cached_property
 
 import requests
+from selenium import webdriver
+from selenium.webdriver.firefox.options import Options
 from utils import Log, Time
 
 from lk_food.core.Food import Food
@@ -18,9 +20,22 @@ class CargillsLK(Store):
         self.url_base = "https://cargillsonline.com"
         self.ut_updated = int(Time.now().ut)
 
-    HEADERS = dict(
-        Cookie='ASP.NET_SessionId=zowqqyzzyqyxcehlf3utdfzg',
-    )
+    @cached_property
+    def session_id(self) -> str:
+        options = Options()
+        options.add_argument('--headless')
+        driver = webdriver.Firefox(options=options)
+        driver.get(self.url_base)
+        session_id = driver.get_cookie('ASP.NET_SessionId')['value']
+        driver.quit()
+        log.debug(f'{session_id=}')
+        return session_id
+
+    @cached_property
+    def headers(self) -> str:
+        return dict(
+            Cookie=f'ASP.NET_SessionId={self.session_id}',
+        )
 
     @cached_property
     def category_ids(self) -> list[str]:
@@ -28,7 +43,7 @@ class CargillsLK(Store):
 
         response = requests.post(
             url=url,
-            headers=CargillsLK.HEADERS,
+            headers=self.headers,
         )
         data_list = response.json()
         category_ids = [d['EnId'] for d in data_list]
@@ -57,7 +72,7 @@ class CargillsLK(Store):
         response = requests.post(
             url=url,
             json=data,
-            headers=CargillsLK.HEADERS,
+            headers=self.headers,
         )
         data_list = response.json()
         log.debug(f'Found {len(data_list)} foods for category {category_id}')
