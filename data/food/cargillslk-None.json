@@ -1,10 +1,10 @@
 {
-  "ut_updated": 1704153765,
-  "time_updated": "2024-01-02 05:32:45",
+  "ut_updated": 1704240158,
+  "time_updated": "2024-01-03 05:32:38",
   "store_id": "cargillslk",
   "sku_code": null,
   "category_code": null,
-  "name": "The conversion of a nvarchar data type to a datetime data type resulted in an out-of-range value.\r\nThe statement has been terminated.",
+  "name": "Value cannot be null.\r\nParameter name: source",
   "short_description": null,
   "description": null,
   "unit_of_measure": null,
