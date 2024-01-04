@@ -1,13 +1,13 @@
 {
-  "ut_updated": 1704240158,
-  "time_updated": "2024-01-03 05:32:38",
+  "ut_updated": 1704326574,
+  "time_updated": "2024-01-04 05:32:54",
   "store_id": "cargillslk",
   "sku_code": "DY95311",
-  "category_code": "FC",
-  "name": "Happy Hen Eggs XL",
+  "category_code": "DY",
+  "name": "HAPPY HEN EGGS EX LARGE",
   "short_description": "Eggs",
   "description": "Eggs are highly nutritious, consisting of many vitamins and minerals and proteins. They are linked to a reduced risk of heart disease. *Images for illustration purposes only. Product received may vary.",
-  "unit_of_measure": "pcs",
+  "unit_of_measure": "S",
   "unit_size": 10.0,
   "price_of_unit": 565.0
 }
