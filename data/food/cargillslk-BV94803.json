@@ -1,13 +1,13 @@
 {
-  "ut_updated": 1704758576,
-  "time_updated": "2024-01-09 05:32:56",
+  "ut_updated": 1704844965,
+  "time_updated": "2024-01-10 05:32:45",
   "store_id": "cargillslk",
   "sku_code": "BV94803",
   "category_code": "BV",
-  "name": "Red Bull Energy Drink",
+  "name": "RED BULL E/DRIN FOUR PACK 250M",
   "short_description": "Energy Drink",
   "description": "Pack of 4 cans of Red Bull Energy Drink.*Images for illustration purposes only. Product recieved may vary.",
-  "unit_of_measure": "pcs",
-  "unit_size": 4.0,
+  "unit_of_measure": "BAND",
+  "unit_size": 1.0,
   "price_of_unit": 3580.0
 }
