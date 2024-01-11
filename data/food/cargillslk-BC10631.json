@@ -1,6 +1,6 @@
 {
-  "ut_updated": 1704844965,
-  "time_updated": "2024-01-10 05:32:45",
+  "ut_updated": 1704931370,
+  "time_updated": "2024-01-11 05:32:50",
   "store_id": "cargillslk",
   "sku_code": "BC10631",
   "category_code": "FC",
@@ -9,5 +9,5 @@
   "description": "Kellogg\u2019s Chocos is a wheat based cereal with goodness of wholegrain and yummy chocolaty taste. One Serve (30g) of Kellogg's Chocos has protein and fibre equal to that of 1 wheat roti of 30g.",
   "unit_of_measure": "g",
   "unit_size": 250.0,
-  "price_of_unit": 637.5
+  "price_of_unit": 850.0
 }
