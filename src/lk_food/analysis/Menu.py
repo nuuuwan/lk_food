@@ -41,7 +41,7 @@ class Menu:
     
     @cached_property 
     def lines_readme(self) -> list[str]:
-        lines = ['', ' Item | Quantity | Cost (LKR) ', ' --- | --- | --- ']
+        lines = ['', ' Item | Quantity | Cost (LKR) ', ' :--- | ---: | ---: ']
         cost = 0
         for menu_item in self.menu_items:
             food = FoodDB.from_name(menu_item.food_name, date_id=None)
@@ -50,12 +50,18 @@ class Menu:
             cost += item_cost
 
             actual_units = menu_item.units * food.unit_size
+            unit_of_measure = food.unit_of_measure
+
+            if unit_of_measure == 'kg':
+                actual_units *= 1000
+                unit_of_measure = 'g'
+
             lines.append(' | '.join([
                 menu_item.food_name,
-                f'{actual_units:.2f} {food.unit_of_measure}',
-                f'{item_cost:.2f} LKR'
+                f'{actual_units:.1f} {unit_of_measure}',
+                f'{item_cost:.0f} LKR'
             ]))
         lines.append('')
-        lines.append(f'TOTAL COST: **{cost:.2f} LKR**')
+        lines.append(f'TOTAL COST: **{cost:.0f} LKR**')
         lines.append('')
         return lines
