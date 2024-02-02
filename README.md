@@ -17,7 +17,7 @@ This repository contains various tools to help with this effort.
 ## Food Data
 
 > [!IMPORTANT]
-> Scraped 3,978 items as of 2024-02-02 05:33:24.
+> Scraped 3,813 items as of 2024-02-02 13:08:26.
 
 ## References
 
