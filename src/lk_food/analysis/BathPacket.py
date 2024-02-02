@@ -16,25 +16,26 @@
 
 from functools import cached_property
 
-from lk_food.core import Food, MenuItem
+from lk_food.core import MenuItem
+from lk_food.data import FoodDB
 
 
 class BathPacket:
     @cached_property
     def menu(self) -> list[MenuItem]:
         return [
-            MenuItem(Food.from_name('Red Raw Rice'), 0.073),
-            MenuItem(Food.from_name('Lankasoy Regular Soya'), 0.054 / 0.09),
-            MenuItem(Food.from_name('Red Dhal'), 0.016),
-            MenuItem(Food.from_name('Happy Hen Eggs XL'), 0.5 / 10.0),
-            MenuItem(Food.from_name('Brinjal'), 0.04 / 0.35),
-            MenuItem(Food.from_name('Pumpkin'), 0.04 / 0.5),
-            MenuItem(Food.from_name('Carrot'), 0.04 / 0.5),
-            MenuItem(Food.from_name('Big Onion'), 0.04 / 0.5),
-            MenuItem(Food.from_name('Coconut'), 0.029 / (0.283 * 3)),
-            MenuItem(Food.from_name('Marina Coconut Oil'), 2.5 / 350),
-            MenuItem(Food.from_name('Green Chillies'), 0.008 / 0.1),
-            MenuItem(Food.from_name('Lime'), 0.004 / 0.25),
+            MenuItem(FoodDB.from_name('Red Raw Rice'), 0.073),
+            MenuItem(FoodDB.from_name('Lankasoy Regular Soya'), 0.054 / 0.09),
+            MenuItem(FoodDB.from_name('Red Dhal'), 0.016),
+            MenuItem(FoodDB.from_name('Happy Hen Eggs XL'), 0.5 / 10.0),
+            MenuItem(FoodDB.from_name('Brinjal'), 0.04 / 0.35),
+            MenuItem(FoodDB.from_name('Pumpkin'), 0.04 / 0.5),
+            MenuItem(FoodDB.from_name('Carrot'), 0.04 / 0.5),
+            MenuItem(FoodDB.from_name('Big Onion'), 0.04 / 0.5),
+            MenuItem(FoodDB.from_name('Coconut'), 0.029 / (0.283 * 3)),
+            MenuItem(FoodDB.from_name('Marina Coconut Oil'), 2.5 / 350),
+            MenuItem(FoodDB.from_name('Green Chillies'), 0.008 / 0.1),
+            MenuItem(FoodDB.from_name('Lime'), 0.004 / 0.25),
         ]
 
     @cached_property

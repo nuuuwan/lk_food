@@ -30,10 +30,15 @@ jobs:
         ref: 'main'
         token: "${{ secrets.REPO_DATA_TOKEN }}"
 
-    - name: Run pipeline.py
+    - name: Run scrape_all.py
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
-        python workflows/pipeline.py
+        python workflows/scrape_all.py
+
+    - name: Run readme_write.py
+      run: |
+        export PYTHONPATH="$PYTHONPATH:./src"
+        python workflows/readme_write.py
 
     - name: Push to github repo
       run: |

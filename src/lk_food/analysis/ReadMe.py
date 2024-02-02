@@ -1,6 +1,6 @@
 from utils import TIME_FORMAT_TIME, File, Log, Time
 
-from lk_food.core.Food import Food
+from lk_food.data import FoodDB
 
 log = Log("ReadMe")
 
@@ -50,7 +50,7 @@ class ReadMe:
 
     @property
     def lines_food(self) -> list[str]:
-        food_list = Food.list_all()
+        food_list = FoodDB.list_latest_date()
         n_foot_list = len(food_list)
         time_str = TIME_FORMAT_TIME.stringify(Time.now())
         return [
