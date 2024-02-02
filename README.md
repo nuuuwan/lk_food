@@ -17,7 +17,7 @@ This repository contains various tools to help with this effort.
 ## Food Data
 
 > [!IMPORTANT]
-> Scraped 3,813 items as of 2024-02-02 14:01:23.
+> Scraped 3,813 items as of 2024-02-02 14:16:36.
 
 ## Bath Packet Index (BPI)
 
@@ -38,7 +38,8 @@ Red Dhal | **16.0** g | **4.88** LKR
 
 TOTAL COST: **294.46** LKR
 
-> [!IMPORTANT]> For details on methodology, see [Bath (බත්) Packet 2.0](https://medium.com/on-economics/bath-%E0%B6%B6%E0%B6%AD%E0%B7%8A-packet-2-0-f3e999c54bf5).
+> [!IMPORTANT]
+> For details on methodology, see [Bath (බත්) Packet 2.0](https://medium.com/on-economics/bath-%E0%B6%B6%E0%B6%AD%E0%B7%8A-packet-2-0-f3e999c54bf5).
 
 ## References
 

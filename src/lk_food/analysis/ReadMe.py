@@ -76,7 +76,7 @@ class ReadMe:
             + self.get_lines_menu(bp)
             + [
                 '',
-                '> [!IMPORTANT]'
+                '> [!IMPORTANT]',
                 f'> For details on methodology, see [Bath (බත්) Packet 2.0]({bp.get_medium_url()}).',
                 '',
             ]
