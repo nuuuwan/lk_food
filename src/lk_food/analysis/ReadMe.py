@@ -1,8 +1,8 @@
 from utils import TIME_FORMAT_TIME, File, Log, Time
 
 from lk_food.analysis.BathPacket import BathPacket
-from lk_food.data import FoodDB
 from lk_food.core import Food
+from lk_food.data import FoodDB
 
 log = Log("ReadMe")
 
@@ -67,12 +67,20 @@ class ReadMe:
     @property
     def lines_bath_packet(self) -> list[str]:
         bp = BathPacket.load()
-        return [
-            '',
-            '## Bath Packet Index (BPI)',
-            '',
-            f'For details on methodology, see [Bath (බත්) Packet 2.0]({bp.get_medium_url()}).',
-        ] + self.get_lines_menu(bp)
+        return (
+            [
+                '',
+                '## Bath Packet Index (BPI)',
+                '',
+            ]
+            + self.get_lines_menu(bp)
+            + [
+                '',
+                '> [!IMPORTANT]'
+                f'> For details on methodology, see [Bath (බත්) Packet 2.0]({bp.get_medium_url()}).',
+                '',
+            ]
+        )
 
     @staticmethod
     def get_lines_menu(menu) -> list[str]:
