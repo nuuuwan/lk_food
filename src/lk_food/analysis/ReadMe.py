@@ -1,3 +1,8 @@
+import os
+
+import matplotlib.dates as mdates
+import matplotlib.pyplot as plt
+import numpy as np
 from utils import TIME_FORMAT_TIME, File, Log, Time
 
 from lk_food.analysis.BathPacket import BathPacket
@@ -64,9 +69,64 @@ class ReadMe:
             '',
         ]
 
+    def build_bpi_chart(self, bp):
+        plt.close()
+        time_series = bp.get_cost_time_series()
+        x = [d['date'] for d in time_series]
+
+        labels = time_series[0]['cost_components'].keys()
+        ys = []
+        for label in labels:
+            y = [d['cost_components'][label] for d in time_series]
+            ys.append(y)
+        [np.var(y) for y in ys]
+        labels, ys = zip(*sorted(zip(labels, ys), key=lambda x: np.var(x[1])))
+
+        y = np.vstack(ys)
+
+        plt.title('Bath Packet Index (BPI)')
+
+        fig, ax = plt.subplots()
+        ax.stackplot(
+            x,
+            y,
+            labels=labels,
+            colors=plt.cm.tab20b(
+                (4.0 / 3 * np.arange(20 * 3 / 4)).astype(int)
+            ),
+        )
+
+        ax.xaxis.set_major_locator(mdates.DayLocator(interval=7))
+        ax.xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d'))
+
+        plt.title('Bath Packet Index (BPI) - Components')
+        plt.xlabel('Date')
+        plt.ylabel('Cost (LKR)')
+
+        fig.set_size_inches(8, 4.5)
+
+        box = ax.get_position()
+        ax.set_position(
+            [box.x0, box.y0 + box.height * 0.3, box.width, box.height * 0.7]
+        )
+
+        # Put a legend below current axis
+        ax.legend(
+            loc='upper center',
+            bbox_to_anchor=(0.5, -0.2),
+            ncol=3,
+        )
+
+        image_path = os.path.join('images', 'bpi.png')
+        log.debug(f'Wrote {image_path}')
+        plt.savefig(image_path)
+        plt.close()
+        return image_path
+
     @property
     def lines_bath_packet(self) -> list[str]:
         bp = BathPacket.load()
+        image_path = self.build_bpi_chart(bp)
         return (
             [
                 '',
@@ -76,8 +136,15 @@ class ReadMe:
             + self.get_lines_menu(bp)
             + [
                 '',
+                '### Daily Trend',
+                '',
+                f'![BPI]({image_path})',
+            ]
+            + [
+                '',
                 '> [!IMPORTANT]',
-                f'> For details on methodology, see [Bath (බත්) Packet 2.0]({bp.get_medium_url()}).',
+                '> For details on methodology,'
+                + f' see [Bath (බත්) Packet 2.0]({bp.get_medium_url()}).',
                 '',
             ]
         )

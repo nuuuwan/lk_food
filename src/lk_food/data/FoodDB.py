@@ -53,9 +53,9 @@ class FoodDB:
             file_food_list = [
                 store_cls.get_food_from_data(
                     data, date_id) for data in data_list]
-            log.debug(f'Loaded {len(file_food_list):,} foods from {file_path}')
+
             food_list.extend(file_food_list)
-        log.debug(f'Loaded {len(food_list):,} foods')
+
         return food_list
 
     @staticmethod

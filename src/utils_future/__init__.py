@@ -6,6 +6,9 @@ log = Log('utils_future')
 
 
 def parse_float(x) -> float:
+    if x is None:
+        return None
+
     x = str(x)
     x = x.replace(',', '')
     try:

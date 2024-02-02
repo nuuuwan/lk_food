@@ -24,7 +24,9 @@ class Store:
 
     @staticmethod
     def parse_data_path(data_path: str) -> str:
-        store_id, date_id = os.path.basename(data_path).split('-')
+        store_id, date_id = (
+            os.path.basename(data_path).split('.')[-2].split('-')
+        )
         return store_id, date_id
 
     @classmethod
