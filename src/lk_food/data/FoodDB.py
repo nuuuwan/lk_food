@@ -70,8 +70,13 @@ class FoodDB:
 
     @staticmethod
     @cache
-    def from_name(name: str) -> 'Food':
-        for food in FoodDB.list_latest_date():
+    def from_name(name: str, date_id: str = None) -> 'Food':
+        if date_id:
+            food_list = FoodDB.list_from_date(date_id)
+        else:
+            food_list = FoodDB.list_latest_date()
+
+        for food in food_list:
             if name == food.name:
                 return food
         raise ValueError(f'Food not found: {name}')
