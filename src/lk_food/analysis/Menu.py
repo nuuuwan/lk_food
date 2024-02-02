@@ -14,7 +14,7 @@
 # Green Chilli (8 g)
 # Lime (4 g, or about a teaspoon)
 
-from functools import cache
+from functools import cache, cached_property
 
 from utils import Log
 
@@ -37,10 +37,25 @@ class Menu:
             item_cost = price_of_unit * menu_item.units
             cost += item_cost
 
-            actual_units = menu_item.units * food.unit_size
-            log.debug(
-                f'{item_cost:.2f} {menu_item.food_name}'
-                + f' {actual_units:.2f}{food.unit_of_measure}'
-            )
-        log.debug(f'{cost:.2f} TOTAL')
         return cost
+    
+    @cached_property 
+    def lines_readme(self) -> list[str]:
+        lines = ['', ' Item | Quantity | Cost (LKR) ', ' --- | --- | --- ']
+        cost = 0
+        for menu_item in self.menu_items:
+            food = FoodDB.from_name(menu_item.food_name, date_id=None)
+            price_of_unit = food.price_of_unit
+            item_cost = price_of_unit * menu_item.units
+            cost += item_cost
+
+            actual_units = menu_item.units * food.unit_size
+            lines.append(' | '.join([
+                menu_item.food_name,
+                f'{actual_units:.2f} {food.unit_of_measure}',
+                f'{item_cost:.2f} LKR'
+            ]))
+        lines.append('')
+        lines.append(f'TOTAL COST: **{cost:.2f} LKR**')
+        lines.append('')
+        return lines

@@ -1,3 +1,4 @@
+from functools import cached_property
 from lk_food.analysis.Menu import Menu
 from lk_food.core import MenuItem
 
@@ -23,3 +24,5 @@ class BathPacket(Menu):
             MenuItem('Green Chillies', 0.008 / 0.1),
             MenuItem('Lime', 0.004 / 0.25),
         )
+
+ 

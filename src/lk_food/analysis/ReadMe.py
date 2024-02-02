@@ -1,6 +1,7 @@
 from utils import TIME_FORMAT_TIME, File, Log, Time
 
 from lk_food.data import FoodDB
+from lk_food.analysis.BathPacket import BathPacket
 
 log = Log("ReadMe")
 
@@ -46,7 +47,7 @@ class ReadMe:
 
     @property
     def lines_dynamic(self) -> list[str]:
-        return self.lines_food
+        return self.lines_food + self.lines_bath_packet
 
     @property
     def lines_food(self) -> list[str]:
@@ -61,3 +62,8 @@ class ReadMe:
             f'> Scraped {n_foot_list:,} items as of {time_str}.',
             '',
         ]
+
+    @property
+    def lines_bath_packet(self) -> list[str]:
+        bp = BathPacket.load()
+        return ['', '## Bath Packet Index (BPI)'] + bp.lines_readme
