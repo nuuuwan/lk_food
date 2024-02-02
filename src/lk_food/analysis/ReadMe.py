@@ -1,7 +1,7 @@
 from utils import TIME_FORMAT_TIME, File, Log, Time
 
-from lk_food.data import FoodDB
 from lk_food.analysis.BathPacket import BathPacket
+from lk_food.data import FoodDB
 
 log = Log("ReadMe")
 

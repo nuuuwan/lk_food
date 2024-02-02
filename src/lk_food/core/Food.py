@@ -17,6 +17,7 @@ log = Log('Food')
 # Green Chilli (8 g)
 # Lime (4 g, or about a teaspoon)
 
+
 @dataclass
 class Food:
     # general
@@ -42,7 +43,6 @@ class Food:
             + f' Rs.{self.price_of_unit})'
         )
 
-
     @staticmethod
     def add_emojis(food_name: str):
         for key, emoji in [
@@ -58,8 +58,7 @@ class Food:
             ('Coconut Oil', '🥥'),
             ('Green Chilli', '🌶️'),
             ('Lime', '🍋'),
-            
         ]:
             if key in food_name:
                 return f'{emoji} {food_name}'
-        return food_name     
+        return food_name

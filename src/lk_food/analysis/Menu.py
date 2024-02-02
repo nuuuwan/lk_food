@@ -1,10 +1,8 @@
-
-
 from functools import cache, cached_property
 
 from utils import Log
 
-from lk_food.core import MenuItem, Food
+from lk_food.core import Food, MenuItem
 from lk_food.data import FoodDB
 
 log = Log('Menu')
@@ -24,8 +22,8 @@ class Menu:
             cost += item_cost
 
         return cost
-    
-    @cached_property 
+
+    @cached_property
     def lines_readme(self) -> list[str]:
         lines = ['', ' Item | Quantity | Cost (LKR) ', ' :--- | ---: | ---: ']
         cost = 0
@@ -44,11 +42,15 @@ class Menu:
             if unit_of_measure == 'pcs':
                 unit_of_measure = ''
 
-            lines.append(' | '.join([
-                Food.add_emojis(menu_item.food_name),
-                f'{actual_units:.1f} {unit_of_measure}',
-                f'{item_cost:.0f} LKR'
-            ]))
+            lines.append(
+                ' | '.join(
+                    [
+                        Food.add_emojis(menu_item.food_name),
+                        f'{actual_units:.1f} {unit_of_measure}',
+                        f'{item_cost:.0f} LKR',
+                    ]
+                )
+            )
         lines.append('')
         lines.append(f'TOTAL COST: **{cost:.0f} LKR**')
         lines.append('')
