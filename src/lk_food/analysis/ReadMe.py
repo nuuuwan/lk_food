@@ -126,7 +126,7 @@ class ReadMe:
     @property
     def lines_bath_packet(self) -> list[str]:
         bp = BathPacket.load()
-        image_path = self.build_bpi_chart(bp)
+        image_path = self.build_bpi_chart(bp).replace('\\', '/')
         return (
             [
                 '',
