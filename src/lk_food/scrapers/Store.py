@@ -39,9 +39,4 @@ class Store:
         JSONFile(self.timed_data_path).write(data_list)
         log.info(f'Wrote {len(data_list):,} foods to {self.timed_data_path}')
 
-        n = len(data_list)
-        for i, data in enumerate(data_list):
-            food = self.data_to_food(data)
-            food.write()
-            if i % 1_000 == 0:
-                log.debug(f'Processed {i:,}/{n:,} foods ({food})')
+        
