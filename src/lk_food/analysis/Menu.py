@@ -1,8 +1,8 @@
-from functools import cache, cached_property
+from functools import cache
 
 from utils import Log
 
-from lk_food.core import Food, MenuItem
+from lk_food.core import MenuItem
 from lk_food.data import FoodDB
 
 log = Log('Menu')

@@ -67,7 +67,12 @@ class ReadMe:
     @property
     def lines_bath_packet(self) -> list[str]:
         bp = BathPacket.load()
-        return ['', '## Bath Packet Index (BPI)'] + self.get_lines_menu(bp)
+        return [
+            '',
+            '## Bath Packet Index (BPI)',
+            '',
+            f'For details on methodology, see [Bath (බත්) Packet 2.0]({bp.get_medium_url()}).',
+        ] + self.get_lines_menu(bp)
 
     @staticmethod
     def get_lines_menu(menu) -> list[str]:

@@ -20,12 +20,19 @@ from lk_food.core import MenuItem
 
 class BathPacket(Menu):
     @staticmethod
-    def load() -> Menu:
+    def get_medium_url() -> str:
+        return (
+            "https://medium.com/on-economics"
+            "/bath-%E0%B6%B6%E0%B6%AD%E0%B7%8A-packet-2-0-f3e999c54bf5"
+        )
+
+    @staticmethod
+    def load() -> 'BathPacket':
         return BathPacket.load_v2_1()
 
     @staticmethod
-    def load_v2_1() -> Menu:
-        return Menu(
+    def load_v2_1() -> 'BathPacket':
+        return BathPacket(
             MenuItem('Red Raw Rice', 0.073),
             MenuItem('Lankasoy Regular Soya', 0.054 / 0.09),
             MenuItem('Red Dhal', 0.016),
