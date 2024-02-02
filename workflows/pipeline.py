@@ -1,5 +1,4 @@
-from lk_food.scrapers.ReadMe import ReadMe
-from lk_food.scrapers.StoreFactory import StoreFactory
+from lk_food import ReadMe, StoreFactory
 
 
 def main():
