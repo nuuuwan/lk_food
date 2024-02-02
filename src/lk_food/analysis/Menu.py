@@ -1,24 +1,10 @@
-# See https://medium.com/on-economics
-# /bath-%E0%B6%B6%E0%B6%AD%E0%B7%8A-packet-2-0-f3e999c54bf5
 
-# Rice (73 g uncooked, about ⅓ cups or hundus)
-# Soya Meat (54 g)
-# Dhal (16 g)
-# Egg (half an egg)
-# Brinjal (40 g)
-# Pumpkin (40 g)
-# Carrot (40 g)
-# Onion (40 g)
-# Coconut (29 g)
-# Coconut Oil (7 g, or one and a half teaspoons)
-# Green Chilli (8 g)
-# Lime (4 g, or about a teaspoon)
 
 from functools import cache, cached_property
 
 from utils import Log
 
-from lk_food.core import MenuItem
+from lk_food.core import MenuItem, Food
 from lk_food.data import FoodDB
 
 log = Log('Menu')
@@ -59,7 +45,7 @@ class Menu:
                 unit_of_measure = ''
 
             lines.append(' | '.join([
-                menu_item.food_name,
+                Food.add_emojis(menu_item.food_name),
                 f'{actual_units:.1f} {unit_of_measure}',
                 f'{item_cost:.0f} LKR'
             ]))
