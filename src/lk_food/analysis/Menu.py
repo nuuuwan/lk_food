@@ -55,6 +55,8 @@ class Menu:
             if unit_of_measure == 'kg':
                 actual_units *= 1000
                 unit_of_measure = 'g'
+            if unit_of_measure == 'pcs':
+                unit_of_measure = ''
 
             lines.append(' | '.join([
                 menu_item.food_name,

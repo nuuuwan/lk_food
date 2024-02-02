@@ -17,7 +17,7 @@ This repository contains various tools to help with this effort.
 ## Food Data
 
 > [!IMPORTANT]
-> Scraped 3,813 items as of 2024-02-02 13:44:01.
+> Scraped 3,813 items as of 2024-02-02 13:44:49.
 
 ## Bath Packet Index (BPI)
 
@@ -26,12 +26,12 @@ Item | Quantity | Cost (LKR)
 Red Raw Rice | 73.0 g | 13 LKR
 Lankasoy Regular Soya | 54.0 g | 90 LKR
 Red Dhal | 16.0 g | 5 LKR
-Happy Hen Eggs XL | 0.5 pcs | 28 LKR
+Happy Hen Eggs XL | 0.5  | 28 LKR
 Brinjal | 40.0 g | 35 LKR
 Pumpkin | 40.0 g | 12 LKR
 Carrot | 40.0 g | 64 LKR
 Big Onion | 40.0 g | 20 LKR
-Coconut | 0.1 pcs | 11 LKR
+Coconut | 0.1  | 11 LKR
 Marina Coconut Oil | 2.5 ml | 4 LKR
 Green Chillies | 8.0 g | 11 LKR
 Lime | 4.0 g | 1 LKR
