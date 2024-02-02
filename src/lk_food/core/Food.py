@@ -64,7 +64,11 @@ class Food:
         return Food.from_dict(d)
 
     def __str__(self) -> str:
-        return f'Food({self.sku_code} - {self.name})'
+        return (
+            f'Food("{self.name}"'
+            + f' {self.unit_size}{self.unit_of_measure}'
+            + f' Rs.{self.price_of_unit})'
+        )
 
     @cached_property
     def data_path(self) -> str:
@@ -91,9 +95,18 @@ class Food:
 
     @staticmethod
     @cache
-    def from_search_key(search_key: str) -> Generator['Food', None, None]:
+    def list_from_search_key(
+        search_key: str,
+    ) -> Generator['Food', None, None]:
         search_key_lower = search_key.lower()
         for food in Food.list_all():
             if search_key_lower in food.name.lower():
                 yield food
-        
+
+    @staticmethod
+    @cache
+    def from_name(name: str) -> 'Food':
+        for food in Food.list_all():
+            if name == food.name:
+                return food
+        raise ValueError(f'Food not found: {name}')
