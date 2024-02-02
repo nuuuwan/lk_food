@@ -111,6 +111,6 @@ class ReadMe:
                 )
             )
 
-        lines.append(f'TOTAL | ... | **{cost:.2f}** LKR')
+        lines.append(f'**TOTAL** |   | **{cost:.2f}** LKR')
         lines.append('')
         return lines
