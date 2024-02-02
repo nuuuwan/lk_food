@@ -2,6 +2,7 @@ from utils import TIME_FORMAT_TIME, File, Log, Time
 
 from lk_food.analysis.BathPacket import BathPacket
 from lk_food.data import FoodDB
+from lk_food.core import Food
 
 log = Log("ReadMe")
 
@@ -66,4 +67,37 @@ class ReadMe:
     @property
     def lines_bath_packet(self) -> list[str]:
         bp = BathPacket.load()
-        return ['', '## Bath Packet Index (BPI)'] + bp.lines_readme
+        return ['', '## Bath Packet Index (BPI)'] + self.get_lines_menu(bp)
+
+    @staticmethod
+    def get_lines_menu(menu) -> list[str]:
+        lines = ['', ' Item | Quantity | Cost (LKR) ', ' :--- | ---: | ---: ']
+        cost = 0
+        for menu_item in menu.menu_items:
+            food = FoodDB.from_name(menu_item.food_name, date_id=None)
+            price_of_unit = food.price_of_unit
+            item_cost = price_of_unit * menu_item.units
+            cost += item_cost
+
+            actual_units = menu_item.units * food.unit_size
+            unit_of_measure = food.unit_of_measure
+
+            if unit_of_measure == 'kg':
+                actual_units *= 1000
+                unit_of_measure = 'g'
+            if unit_of_measure == 'pcs':
+                unit_of_measure = ''
+
+            lines.append(
+                ' | '.join(
+                    [
+                        Food.add_emojis(menu_item.food_name),
+                        f'**{actual_units:.1f}** {unit_of_measure}',
+                        f'**{item_cost:.2f}** LKR',
+                    ]
+                )
+            )
+        lines.append('')
+        lines.append(f'TOTAL COST: **{cost:.2f}** LKR')
+        lines.append('')
+        return lines
