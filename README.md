@@ -17,7 +17,7 @@ This repository contains various tools to help with this effort.
 ## Food Data
 
 > [!IMPORTANT]
-> Scraped 3,813 items as of 2024-02-02 14:22:25.
+> Scraped 3,813 items as of 2024-02-02 14:23:00.
 
 ## Bath Packet Index (BPI)
 
@@ -35,7 +35,6 @@ Red Dhal | **16.0** g | **4.88** LKR
 🥥 Marina Coconut Oil | **2.5** ml | **3.71** LKR
 🌶️ Green Chillies | **8.0** g | **11.12** LKR
 🍋 Lime | **4.0** g | **0.96** LKR
-
 TOTAL | ... | **294.46** LKR
 
 > [!IMPORTANT]
