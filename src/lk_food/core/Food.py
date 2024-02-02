@@ -1,6 +1,7 @@
 import os
 from dataclasses import dataclass
-from functools import cached_property
+from functools import cache, cached_property
+from typing import Generator
 
 from utils import TIME_FORMAT_TIME, JSONFile, Log, Time
 
@@ -77,6 +78,7 @@ class Food:
         JSONFile(self.data_path).write(self.to_dict())
 
     @staticmethod
+    @cache
     def list_all() -> list['Food']:
         food_list = []
         for file_only in os.listdir(Food.DIR_DATA_FOOD):
@@ -86,3 +88,12 @@ class Food:
             food = Food.from_file(file_path)
             food_list.append(food)
         return food_list
+
+    @staticmethod
+    @cache
+    def from_search_key(search_key: str) -> Generator['Food', None, None]:
+        search_key_lower = search_key.lower()
+        for food in Food.list_all():
+            if search_key_lower in food.name.lower():
+                yield food
+        
