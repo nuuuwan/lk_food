@@ -17,7 +17,7 @@ This repository contains various tools to help with this effort.
 ## Food Data
 
 > [!IMPORTANT]
-> Scraped 3,813 items as of 2024-02-04 05:33:35.
+> Scraped 3,814 items as of 2024-02-05 05:33:29.
 
 ## Bath Packet Index (BPI)
 
@@ -25,17 +25,17 @@ Item | Quantity | Cost (LKR)
 :--- | ---: | ---:
 🍚 Red Raw Rice | **73.0** g | **13.07** LKR
 Lankasoy Regular Soya | **54.0** g | **90.00** LKR
-Red Dhal | **16.0** g | **4.88** LKR
+Red Dhal | **16.0** g | **4.93** LKR
 🥚 Imported White Eggs | **0.5**  | **21.00** LKR
-🍆 Brinjal | **40.0** g | **30.40** LKR
-🎃 Pumpkin | **40.0** g | **12.00** LKR
-🥕 Carrot | **40.0** g | **46.00** LKR
-🧅 Big Onion | **40.0** g | **20.00** LKR
-🥥 Coconut | **0.1**  | **11.27** LKR
+🍆 Brinjal | **40.0** g | **21.94** LKR
+🎃 Pumpkin | **40.0** g | **13.52** LKR
+🥕 Carrot | **40.0** g | **44.12** LKR
+🧅 Big Onion | **40.0** g | **24.96** LKR
+🥥 Coconut | **0.1**  | **9.56** LKR
 🥥 My Choice Coconut Oil | **0.0** l | **2.83** LKR
-🌶️ Green Chillies | **8.0** g | **11.12** LKR
+🌶️ Green Chillies | **8.0** g | **9.60** LKR
 🍋 Lime | **4.0** g | **1.01** LKR
-**TOTAL** |   | **263.57** LKR
+**TOTAL** |   | **256.54** LKR
 
 ### Daily Trend
 
