@@ -165,7 +165,17 @@ class ReadMe:
     def get_lines_menu(menu, show_total: bool = True) -> list[str]:
         lines = ['', ' Item | Quantity | Cost (LKR) ', ' :--- | ---: | ---: ']
         cost = 0
-        for menu_item in menu.menu_items:
+
+        sorted_menu_items = sorted(
+            menu.menu_items,
+            key=lambda x: FoodDB.from_name(
+                x.food_name, date_id=None
+            ).price_of_unit
+            * x.units,
+            reverse=True,
+        )
+
+        for menu_item in sorted_menu_items:
             food = FoodDB.from_name(menu_item.food_name, date_id=None)
             price_of_unit = food.price_of_unit
             item_cost = price_of_unit * menu_item.units
