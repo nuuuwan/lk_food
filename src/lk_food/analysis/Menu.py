@@ -20,7 +20,9 @@ class Menu:
             try:
                 food = FoodDB.from_name(menu_item.food_name, date_id)
             except Exception:
-                log.error(f'No food found for {menu_item.food_name} ({date_id})')
+                log.error(
+                    f'No food found for {menu_item.food_name} ({date_id})'
+                )
                 return None
             price_of_unit = food.price_of_unit
             item_cost = price_of_unit * menu_item.units
@@ -35,7 +37,9 @@ class Menu:
             try:
                 food = FoodDB.from_name(menu_item.food_name, date_id)
             except Exception:
-                log.error(f'No food found for {menu_item.food_name} ({date_id})')
+                log.error(
+                    f'No food found for {menu_item.food_name} ({date_id})'
+                )
                 return None
             price_of_unit = food.price_of_unit
             item_cost = price_of_unit * menu_item.units

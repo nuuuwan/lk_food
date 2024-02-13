@@ -132,21 +132,20 @@ class ReadMe:
         return (
             [
                 '',
-                '## Bath Packet Index (BPI)',
-                '',
-            ]
-            + ['', '<div id="table_bp">' ,'']
-            + self.get_lines_menu(bp)
-            + ['', '</div>' ,'']
-            + [
-                '',
                 '## 50g of Protein',
                 '',
             ]
-            + ['', '<div id="table_protein">' ,'']
-            + self.get_lines_menu(protein)
-            + ['', '</div>' ,'']
-            
+            + ['', '<div id="table_protein">', '']
+            + self.get_lines_menu(protein, show_total=False)
+            + ['', '</div>', '']
+            + [
+                '',
+                '## Bath Packet Index (BPI)',
+                '',
+            ]
+            + ['', '<div id="table_bp">', '']
+            + self.get_lines_menu(bp)
+            + ['', '</div>', '']
             + [
                 '',
                 '### Daily Trend',
