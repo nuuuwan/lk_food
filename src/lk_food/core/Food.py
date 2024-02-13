@@ -46,18 +46,24 @@ class Food:
     @staticmethod
     def add_emojis(food_name: str):
         for key, emoji in [
-            ('Rice', '🍚'),
-            ('Soya Meat', ''),
-            ('Dhal', ''),
-            ('Egg', '🥚'),
             ('Brinjal', '🍆'),
-            ('Pumpkin', '🎃'),
             ('Carrot', '🥕'),
-            ('Onion', '🧅'),
-            ('Coconut', '🥥'),
+            ('Chicken', '🍗'),
             ('Coconut Oil', '🥥'),
+            ('Coconut', '🥥'),
+            ('Dhal', '🍲'),
+            ('Egg', '🥚'),
+            ('Fish', '🐟'),
             ('Green Chilli', '🌶️'),
             ('Lime', '🍋'),
+            ('Mackerel', '🐟'),
+            ('Milk', '🥛'),
+            ('Onion', '🧅'),
+            ('Peanuts', '🥜'),
+            ('Pumpkin', '🎃'),
+            ('Rice', '🍚'),
+            ('Soya', '🍲'),
+            ('Tuna', '🐟'),
         ]:
             if key in food_name:
                 return f'{emoji} {food_name}'
