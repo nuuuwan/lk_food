@@ -6,6 +6,7 @@ import numpy as np
 from utils import TIME_FORMAT_TIME, File, Log, Time
 
 from lk_food.analysis.BathPacket import BathPacket
+from lk_food.analysis.Protein import Protein
 from lk_food.core import Food
 from lk_food.data import FoodDB
 
@@ -53,7 +54,7 @@ class ReadMe:
 
     @property
     def lines_dynamic(self) -> list[str]:
-        return self.lines_food + self.lines_bath_packet
+        return self.lines_food + self.lines_analysis
 
     @property
     def lines_food(self) -> list[str]:
@@ -124,8 +125,9 @@ class ReadMe:
         return image_path
 
     @property
-    def lines_bath_packet(self) -> list[str]:
+    def lines_analysis(self) -> list[str]:
         bp = BathPacket.load()
+        protein = Protein.load()
         image_path = self.build_bpi_chart(bp).replace('\\', '/')
         return (
             [
@@ -133,7 +135,18 @@ class ReadMe:
                 '## Bath Packet Index (BPI)',
                 '',
             ]
+            + ['', '<div id="table_bp">' ,'']
             + self.get_lines_menu(bp)
+            + ['', '</div>' ,'']
+            + [
+                '',
+                '## 50g of Protein',
+                '',
+            ]
+            + ['', '<div id="table_protein">' ,'']
+            + self.get_lines_menu(protein)
+            + ['', '</div>' ,'']
+            
             + [
                 '',
                 '### Daily Trend',
@@ -150,7 +163,7 @@ class ReadMe:
         )
 
     @staticmethod
-    def get_lines_menu(menu) -> list[str]:
+    def get_lines_menu(menu, show_total: bool = True) -> list[str]:
         lines = ['', ' Item | Quantity | Cost (LKR) ', ' :--- | ---: | ---: ']
         cost = 0
         for menu_item in menu.menu_items:
@@ -177,7 +190,7 @@ class ReadMe:
                     ]
                 )
             )
-
-        lines.append(f'**TOTAL** |   | **{cost:.2f}** LKR')
+        if show_total:
+            lines.append(f'**TOTAL** |   | **{cost:.2f}** LKR')
         lines.append('')
         return lines

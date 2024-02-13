@@ -17,9 +17,11 @@ This repository contains various tools to help with this effort.
 ## Food Data
 
 > [!IMPORTANT]
-> Scraped 3,830 items as of 2024-02-13 05:33:09.
+> Scraped 3,830 items as of 2024-02-13 12:36:12.
 
 ## Bath Packet Index (BPI)
+
+<div id="table_bp">
 
 Item | Quantity | Cost (LKR)
 :--- | ---: | ---:
@@ -36,6 +38,22 @@ Red Dhal | **16.0** g | **4.93** LKR
 🌶️ Green Chillies | **8.0** g | **11.20** LKR
 🍋 Lime | **4.0** g | **0.77** LKR
 **TOTAL** |   | **245.97** LKR
+
+</div>
+
+## 50g of Protein
+
+<div id="table_protein">
+
+Item | Quantity | Cost (LKR)
+:--- | ---: | ---:
+Red Dhal | **200.0** g | **61.60** LKR
+Lankasoy Regular Soya | **50.0** g | **83.33** LKR
+🍚 Red Raw Rice | **562.0** g | **100.60** LKR
+🥚 Imported White Eggs | **3.8**  | **161.54** LKR
+**TOTAL** |   | **407.07** LKR
+
+</div>
 
 ### Daily Trend
 
