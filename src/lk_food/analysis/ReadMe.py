@@ -172,7 +172,6 @@ class ReadMe:
                 x.food_name, date_id=None
             ).price_of_unit
             * x.units,
-            reverse=True,
         )
 
         for menu_item in sorted_menu_items:

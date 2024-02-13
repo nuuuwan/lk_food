@@ -17,7 +17,7 @@ This repository contains various tools to help with this effort.
 ## Food Data
 
 > [!IMPORTANT]
-> Scraped 3,830 items as of 2024-02-13 12:39:39.
+> Scraped 3,830 items as of 2024-02-13 13:10:17.
 
 ## 50g of Protein
 
@@ -25,10 +25,15 @@ This repository contains various tools to help with this effort.
 
 Item | Quantity | Cost (LKR)
 :--- | ---: | ---:
-🥚 Imported White Eggs | **3.8**  | **161.54** LKR
-🍚 Red Raw Rice | **562.0** g | **100.60** LKR
-Lankasoy Regular Soya | **50.0** g | **83.33** LKR
 Red Dhal | **200.0** g | **61.60** LKR
+🍚 Red Raw Rice | **562.0** g | **100.60** LKR
+Lankasoy Regular Soya | **90.0** g | **150.00** LKR
+🥚 Imported White Eggs | **3.8**  | **161.54** LKR
+Raw Peanuts | **192.3** g | **293.46** LKR
+Tuna Slices | **178.6** g | **342.50** LKR
+My Choice Jack Mackerel | **212.1** g | **399.29** LKR
+CIC Skinless Boneless Chicken Breast | **161.3** g | **412.10** LKR
+Ambewela Fresh Milk | **1.4** l | **757.14** LKR
 
 </div>
 
@@ -38,18 +43,18 @@ Red Dhal | **200.0** g | **61.60** LKR
 
 Item | Quantity | Cost (LKR)
 :--- | ---: | ---:
-Lankasoy Regular Soya | **54.0** g | **90.00** LKR
-🥕 Carrot | **40.0** g | **36.00** LKR
-🧅 Big Onion | **40.0** g | **22.80** LKR
-🥚 Imported White Eggs | **0.5**  | **21.00** LKR
-🍆 Brinjal | **40.0** g | **16.00** LKR
-🎃 Pumpkin | **40.0** g | **15.60** LKR
-🍚 Red Raw Rice | **73.0** g | **13.07** LKR
-🥥 Coconut | **0.1**  | **11.78** LKR
-🌶️ Green Chillies | **8.0** g | **11.20** LKR
-Red Dhal | **16.0** g | **4.93** LKR
-🥥 My Choice Coconut Oil | **0.0** l | **2.83** LKR
 🍋 Lime | **4.0** g | **0.77** LKR
+🥥 My Choice Coconut Oil | **0.0** l | **2.83** LKR
+Red Dhal | **16.0** g | **4.93** LKR
+🌶️ Green Chillies | **8.0** g | **11.20** LKR
+🥥 Coconut | **0.1**  | **11.78** LKR
+🍚 Red Raw Rice | **73.0** g | **13.07** LKR
+🎃 Pumpkin | **40.0** g | **15.60** LKR
+🍆 Brinjal | **40.0** g | **16.00** LKR
+🥚 Imported White Eggs | **0.5**  | **21.00** LKR
+🧅 Big Onion | **40.0** g | **22.80** LKR
+🥕 Carrot | **40.0** g | **36.00** LKR
+Lankasoy Regular Soya | **54.0** g | **90.00** LKR
 **TOTAL** |   | **245.97** LKR
 
 </div>
