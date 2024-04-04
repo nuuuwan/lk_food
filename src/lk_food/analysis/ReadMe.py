@@ -3,7 +3,7 @@ import os
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 import numpy as np
-from utils import TIME_FORMAT_TIME, File, Log, Time
+from utils import TimeFormat, File, Log, Time
 
 from lk_food.analysis.BathPacket import BathPacket
 from lk_food.analysis.Protein import Protein
@@ -60,7 +60,7 @@ class ReadMe:
     def lines_food(self) -> list[str]:
         food_list = FoodDB.list_latest_date()
         n_foot_list = len(food_list)
-        time_str = TIME_FORMAT_TIME.stringify(Time.now())
+        time_str = TimeFormat.TIME.stringify(Time.now())
         return [
             '',
             '## Food Data',

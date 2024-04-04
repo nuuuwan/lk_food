@@ -1,7 +1,7 @@
 import datetime
 from functools import cache
 
-from utils import TIME_FORMAT_DATE_ID, Log
+from utils import TimeFormat, Log
 
 from lk_food.core import MenuItem
 from lk_food.data import FoodDB
@@ -54,7 +54,7 @@ class Menu:
             cost_components = self.get_cost_components(date_id)
             if cost_components is None:
                 continue
-            t = TIME_FORMAT_DATE_ID.parse(date_id)
+            t = TimeFormat.DATE_ID.parse(date_id)
             date = datetime.datetime.fromtimestamp(t.ut)
 
             d = dict(
