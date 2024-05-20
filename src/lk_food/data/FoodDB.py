@@ -51,8 +51,9 @@ class FoodDB:
             data_list = JSONFile(file_path).read()
             store_cls = StoreFactory.idx()[store_id]
             file_food_list = [
-                store_cls.get_food_from_data(
-                    data, date_id) for data in data_list]
+                store_cls.get_food_from_data(data, date_id)
+                for data in data_list
+            ]
 
             food_list.extend(file_food_list)
 
@@ -79,4 +80,4 @@ class FoodDB:
         for food in food_list:
             if name == food.name:
                 return food
-        raise ValueError(f'Food not found: {name}')
+        return None

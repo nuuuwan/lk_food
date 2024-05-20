@@ -16,7 +16,9 @@ class Store:
     def get_timed_data_path(cls) -> str:
         if not os.path.exists(Store.DIR_RAW_DATA):
             os.makedirs(Store.DIR_RAW_DATA)
-        return Store.build_data_path(cls.get_id(), TimeFormat.DATE_ID.formatNow)
+        return Store.build_data_path(
+            cls.get_id(), TimeFormat.DATE_ID.formatNow
+        )
 
     @staticmethod
     def build_data_path(store_id: str, date_id: str) -> str:

@@ -166,8 +166,14 @@ class ReadMe:
         lines = ['', ' Item | Quantity | Cost (LKR) ', ' :--- | ---: | ---: ']
         cost = 0
 
+        filtered_menu_items = [
+            menu_item
+            for menu_item in menu.menu_items
+            if Food.from_name(menu_item.food_name, date_id=None) is not None
+        ]
+
         sorted_menu_items = sorted(
-            menu.menu_items,
+            filtered_menu_items,
             key=lambda x: FoodDB.from_name(
                 x.food_name, date_id=None
             ).price_of_unit
