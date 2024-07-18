@@ -4,6 +4,7 @@ log = Log('Float')
 class Float:
     @staticmethod
     def parse(x):
+        x = str(x).replace(',', '')
         try:
             return float(x)
         except Exception as e:
