@@ -81,4 +81,4 @@ class FoodDB:
         for food in food_list:
             if name == food.name:
                 return food
-        raise Exception(f'No food found for {name} ({date_id})')
+        return None

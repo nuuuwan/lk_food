@@ -169,7 +169,7 @@ class ReadMe:
         filtered_menu_items = [
             menu_item
             for menu_item in menu.menu_items
-            if Food.from_name(menu_item.food_name, date_id=None) is not None
+            if FoodDB.from_name(menu_item.food_name, date_id=None) is not None
         ]
 
         sorted_menu_items = sorted(

@@ -24,6 +24,11 @@ class Menu:
                     f'No food found for {menu_item.food_name} ({date_id})'
                 )
                 return None
+            
+            if food is None:
+                log.error(f'No food found for {menu_item.food_name}')
+                return None
+            
             price_of_unit = food.price_of_unit
             item_cost = price_of_unit * menu_item.units
             cost += item_cost
@@ -40,6 +45,10 @@ class Menu:
                 log.error(
                     f'No food found for {menu_item.food_name} ({date_id})'
                 )
+                return None
+            
+            if food is None:
+                log.error(f'No food found for {menu_item.food_name}')
                 return None
 
             price_of_unit = food.price_of_unit
