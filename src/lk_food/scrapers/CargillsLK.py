@@ -6,7 +6,7 @@ from selenium.webdriver.firefox.options import Options
 from utils import Log
 
 from lk_food.core import Food, Store
-from utils_future import SysMode, Float
+from utils_future import Float, SysMode
 
 log = Log('CargillsLK')
 

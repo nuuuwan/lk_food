@@ -3,7 +3,7 @@ import os
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 import numpy as np
-from utils import TimeFormat, File, Log, Time
+from utils import File, Log, Time, TimeFormat
 
 from lk_food.analysis.BathPacket import BathPacket
 from lk_food.analysis.Protein import Protein
