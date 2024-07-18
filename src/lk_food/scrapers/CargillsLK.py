@@ -6,7 +6,7 @@ from selenium.webdriver.firefox.options import Options
 from utils import Log
 
 from lk_food.core import Food, Store
-from utils_future import SysMode, parse_float
+from utils_future import SysMode, Float
 
 log = Log('CargillsLK')
 
@@ -104,6 +104,6 @@ class CargillsLK(Store):
             short_description=d['ShortDescription'],
             description=d['Description'],
             unit_of_measure=d['UOM'],
-            unit_size=parse_float(d['UnitSize']),
-            price_of_unit=parse_float(d['Price']),
+            unit_size=Float.parse(d['UnitSize']),
+            price_of_unit=Float.parse(d['Price']),
         )
