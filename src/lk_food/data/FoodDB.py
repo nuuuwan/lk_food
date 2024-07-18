@@ -54,6 +54,7 @@ class FoodDB:
                 store_cls.get_food_from_data(data, date_id)
                 for data in data_list
             ]
+            file_food_list = [f for f in file_food_list if f is not None]
 
             food_list.extend(file_food_list)
 
@@ -80,4 +81,4 @@ class FoodDB:
         for food in food_list:
             if name == food.name:
                 return food
-        return None
+        raise Exception(f'No food found for {name} ({date_id})')

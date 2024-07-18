@@ -41,6 +41,7 @@ class Menu:
                     f'No food found for {menu_item.food_name} ({date_id})'
                 )
                 return None
+
             price_of_unit = food.price_of_unit
             item_cost = price_of_unit * menu_item.units
             cost_components[menu_item.food_name] = item_cost

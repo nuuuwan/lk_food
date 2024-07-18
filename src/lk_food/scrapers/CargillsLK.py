@@ -95,6 +95,8 @@ class CargillsLK(Store):
 
     @classmethod
     def get_food_from_data(cls, d: dict, date_id: str) -> Food:
+        if not d['SKUCODE']:
+            return None
         return Food(
             date_id=date_id,
             store_id=cls.get_id(),
