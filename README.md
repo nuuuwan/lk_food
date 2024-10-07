@@ -17,7 +17,7 @@ This repository contains various tools to help with this effort.
 ## Food Data
 
 > [!IMPORTANT]
-> Scraped 3,574 items as of 2024-10-06 05:34:04.
+> Scraped 3,574 items as of 2024-10-07 05:34:21.
 
 ## 50g of Protein
 
@@ -41,17 +41,17 @@ Item | Quantity | Cost (LKR)
 
 Item | Quantity | Cost (LKR)
 :--- | ---: | ---:
-🌶️ Green Chillies | **8.0** g | **2.24** LKR
-🍋 Lime | **4.0** g | **2.76** LKR
+🌶️ Green Chillies | **8.0** g | **2.28** LKR
+🍋 Lime | **4.0** g | **3.14** LKR
 🎃 Pumpkin | **40.0** g | **3.32** LKR
 🍲 Red Dhal | **16.0** g | **4.43** LKR
-🍆 Brinjal | **40.0** g | **5.31** LKR
+🍆 Brinjal | **40.0** g | **5.26** LKR
 🥕 Carrot | **40.0** g | **6.24** LKR
-🥥 Coconut | **0.1**  | **11.61** LKR
+🥥 Coconut | **0.1**  | **11.65** LKR
 🍚 Red Raw Rice | **73.0** g | **15.11** LKR
-🧅 Big Onion | **40.0** g | **22.00** LKR
+🧅 Big Onion | **40.0** g | **20.20** LKR
 🍲 Lankasoy Regular Soya | **54.0** g | **90.00** LKR
-**TOTAL** |   | **163.03** LKR
+**TOTAL** |   | **161.63** LKR
 
 </div>
 
