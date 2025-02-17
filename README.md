@@ -17,7 +17,7 @@ This repository contains various tools to help with this effort.
 ## Food Data
 
 > [!IMPORTANT]
-> Scraped 3,776 items as of 2025-02-16 05:34:41.
+> Scraped 3,776 items as of 2025-02-17 05:34:01.
 
 ## 50g of Protein
 
@@ -25,7 +25,7 @@ This repository contains various tools to help with this effort.
 
 Item | Quantity | Cost (LKR)
 :--- | ---: | ---:
-🍲 Red Dhal | **200.0** g | **54.60** LKR
+🍲 Red Dhal | **200.0** g | **56.00** LKR
 🍲 Lankasoy Regular Soya | **90.0** g | **104.00** LKR
 🍚 Red Raw Rice | **562.0** g | **123.64** LKR
 🥜 Raw Peanuts | **192.3** g | **292.31** LKR
@@ -41,17 +41,17 @@ Item | Quantity | Cost (LKR)
 
 Item | Quantity | Cost (LKR)
 :--- | ---: | ---:
-🍋 Lime | **4.0** g | **0.71** LKR
-🍲 Red Dhal | **16.0** g | **4.37** LKR
-🎃 Pumpkin | **40.0** g | **6.80** LKR
-🌶️ Green Chillies | **8.0** g | **12.44** LKR
+🍋 Lime | **4.0** g | **0.78** LKR
+🍲 Red Dhal | **16.0** g | **4.48** LKR
+🎃 Pumpkin | **40.0** g | **6.88** LKR
+🌶️ Green Chillies | **8.0** g | **12.56** LKR
 🧅 Big Onion | **40.0** g | **13.96** LKR
 🍚 Red Raw Rice | **73.0** g | **16.06** LKR
 🥥 Coconut | **0.1**  | **21.98** LKR
-🍆 Brinjal | **40.0** g | **29.89** LKR
-🥕 Carrot | **40.0** g | **48.16** LKR
+🍆 Brinjal | **40.0** g | **34.80** LKR
+🥕 Carrot | **40.0** g | **59.92** LKR
 🍲 Lankasoy Regular Soya | **54.0** g | **62.40** LKR
-**TOTAL** |   | **216.77** LKR
+**TOTAL** |   | **233.82** LKR
 
 </div>
 
