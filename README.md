@@ -17,7 +17,7 @@ This repository contains various tools to help with this effort.
 ## Food Data
 
 > [!IMPORTANT]
-> Scraped 3,857 items as of 2026-05-11 05:48:50.
+> Scraped 3,857 items as of 2026-05-12 05:50:34.
 
 ## 50g of Protein
 
@@ -28,7 +28,7 @@ Item | Quantity | Cost (LKR)
 🍲 Red Dhal | **200.0** g | **51.00** LKR
 🍚 Red Raw Rice | **562.0** g | **106.78** LKR
 🍲 Lankasoy Regular Soya | **90.0** g | **130.00** LKR
-🐟 Tuna Slices | **178.6** g | **298.21** LKR
+🐟 Tuna Slices | **89.3** g | **157.14** LKR
 🥜 Raw Peanuts | **192.3** g | **350.00** LKR
 🍗 CIC Skinless Boneless Chicken Breast | **161.3** g | **433.38** LKR
 🥛 Ambewela Fresh Milk | **1.4** l | **785.71** LKR
