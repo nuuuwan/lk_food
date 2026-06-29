@@ -17,7 +17,7 @@ This repository contains various tools to help with this effort.
 ## Food Data
 
 > [!IMPORTANT]
-> Scraped 3,857 items as of 2026-06-28 05:53:23.
+> Scraped 3,835 items as of 2026-06-29 05:55:13.
 
 ## 50g of Protein
 
@@ -30,7 +30,6 @@ Item | Quantity | Cost (LKR)
 🍲 Lankasoy Regular Soya | **90.0** g | **140.00** LKR
 🐟 Tuna Slices | **178.6** g | **298.21** LKR
 🥜 Raw Peanuts | **192.3** g | **350.00** LKR
-🍗 CIC Skinless Boneless Chicken Breast | **161.3** g | **433.38** LKR
 🥛 Ambewela Fresh Milk | **1.4** l | **785.71** LKR
 
 </div>
